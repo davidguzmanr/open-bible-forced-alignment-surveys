@@ -1,0 +1,30 @@
+<View>
+  <HyperText name="instructions" value="$instructions_html" />
+
+  <View style="background:#f5f5f5;border-left:4px solid #aaa;padding:10px 16px;margin:12px 0;border-radius:4px;">
+    <Header value="Transcript:" />
+    <HyperText name="transcript" value="$transcript_html" />
+  </View>
+
+  <Audio name="audio" value="$audio_url" />
+
+  <Header value="Which option best describes the audio?" />
+  <Choices name="alignment" toName="audio" choice="single" required="true">
+    <Choice value="Audio contains EXTRA words not in the transcript" />
+    <Choice value="Audio is MISSING words that are in the transcript" />
+    <Choice value="Audio is MISSING words AND includes EXTRA words" />
+    <Choice value="No missing or extra words" />
+  </Choices>
+
+  <View visibleWhen="choice-selected" whenTagName="alignment" whenChoiceValue="Audio contains EXTRA words not in the transcript,Audio is MISSING words that are in the transcript,Audio is MISSING words AND includes EXTRA words">
+    <Header value="Where is the problem? (optional, select all that apply)" />
+    <Choices name="location" toName="audio" choice="multiple" showInline="true">
+      <Choice value="At the start of the audio" />
+      <Choice value="At the end of the audio" />
+      <Choice value="In the middle of the audio" />
+    </Choices>
+    <Header value="Which words are extra or missing? (optional)" />
+    <TextArea name="words" toName="audio" rows="2" editable="true" maxSubmissions="1"
+              placeholder="e.g. extra: 'Chapter 5' at the start" />
+  </View>
+</View>

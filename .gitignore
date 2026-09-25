@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw Label Studio exports contain annotator emails; commit only annotations-anonymized/
+human-evaluation/annotations/
+papers/

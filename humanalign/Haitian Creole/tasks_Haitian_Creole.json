@@ -1,0 +1,502 @@
+[
+  {
+    "data": {
+      "task_uid": "00000",
+      "filename": "GEN_036_Verse_017.wav",
+      "transcript": "Men fis Réuel, ki te fis Ésaü yo: chèf Nahath, chèf Zérach, chèf Schamma, chèf Mizza. Sa yo se chèf ki te desandan a Réuel yo, nan peyi Edom an. Sa yo se fis a Basamath, madanm a Ésaü a.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Men fis Réuel, ki te fis Ésaü yo: chèf Nahath, chèf Zérach, chèf Schamma, chèf Mizza. Sa yo se chèf ki te desandan a Réuel yo, nan peyi Edom an. Sa yo se fis a Basamath, madanm a Ésaü a.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/GEN_036_Verse_017.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00001",
+      "filename": "GEN_006_Verse_018.wav",
+      "transcript": "“Men Mwen va etabli akò Mwen avèk ou. Konsa, ou va antre nan lach la—ou menm avèk fis ou yo, avèk madanm ou yo, madanm a fis ou yo ansanm avèk ou.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Men Mwen va etabli akò Mwen avèk ou. Konsa, ou va antre nan lach la—ou menm avèk fis ou yo, avèk madanm ou yo, madanm a fis ou yo ansanm avèk ou.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/GEN_006_Verse_018.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00002",
+      "filename": "EXO_030_Verse_003.wav",
+      "transcript": "Ou va kouvri li avèk yon kouch fen an lò; tèt li e akote li, toupatou ansanm avèk kòn li yo; epi ou va fè yon bòdi lò pou antoure li nèt.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ou va kouvri li avèk yon kouch fen an lò; tèt li e akote li, toupatou ansanm avèk kòn li yo; epi ou va fè yon bòdi lò pou antoure li nèt.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/EXO_030_Verse_003.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00003",
+      "filename": "2SA_011_Verse_001.wav",
+      "transcript": "Alò, li te fèt pandan prentan an, lè ke wa yo konn sòti batay, ke David te voye Joab, ansanm avèk sèvitè li yo ak tout Israël. Yo te detwi fis a Ammon yo e yo te fè syèj nan Rabba, men David te rete Jérusalem.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Alò, li te fèt pandan prentan an, lè ke wa yo konn sòti batay, ke David te voye Joab, ansanm avèk sèvitè li yo ak tout Israël. Yo te detwi fis a Ammon yo e yo te fè syèj nan Rabba, men David te rete Jérusalem.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/2SA_011_Verse_001.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00004",
+      "filename": "1SA_002_Verse_009.wav",
+      "transcript": "L ap pwoteje pye a sen Li yo; men, mechan yo va jwenn silans nan tenèb la; paske se pa pa lafòs ke yon nonm vin reyisi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">L ap pwoteje pye a sen Li yo; men, mechan yo va jwenn silans nan tenèb la; paske se pa pa lafòs ke yon nonm vin reyisi.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/1SA_002_Verse_009.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00005",
+      "filename": "REV_009_Verse_010.wav",
+      "transcript": "Yo gen ke tankou eskòpyon, ak pikan. Epi nan ke yo, te gen pouvwa pou fè moun mal pandan senk mwa.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yo gen ke tankou eskòpyon, ak pikan. Epi nan ke yo, te gen pouvwa pou fè moun mal pandan senk mwa.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/REV_009_Verse_010.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00006",
+      "filename": "HAG_002_Verse_011.wav",
+      "transcript": "“Konsa pale SENYÈ dèzame yo: ‘Kounye a mande prèt yo konsènan Lalwa a. Mande yo:",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Konsa pale SENYÈ dèzame yo: ‘Kounye a mande prèt yo konsènan Lalwa a. Mande yo:</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/HAG_002_Verse_011.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00007",
+      "filename": "2KI_021_Verse_008.wav",
+      "transcript": "Epi mwen p ap fè pye Israël mache egare ankò deyò peyi ke m te bay a zansèt yo a, si sèlman, yo va obsève pou fè selon tout sa ke M te kòmande yo, selon tout lalwa ke sèvitè Mwen an, Moïse te kòmande yo.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Epi mwen p ap fè pye Israël mache egare ankò deyò peyi ke m te bay a zansèt yo a, si sèlman, yo va obsève pou fè selon tout sa ke M te kòmande yo, selon tout lalwa ke sèvitè Mwen an, Moïse te kòmande yo.”</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/2KI_021_Verse_008.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00008",
+      "filename": "JER_031_Verse_027.wav",
+      "transcript": "“Gade byen, jou yo ap vini”, deklare SENYÈ a: “Lè M va plante lakay Israël ak lakay Juda avèk semans a lòm e avèk semans a bèt.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Gade byen, jou yo ap vini”, deklare SENYÈ a: “Lè M va plante lakay Israël ak lakay Juda avèk semans a lòm e avèk semans a bèt.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/JER_031_Verse_027.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00009",
+      "filename": "DEU_032_Verse_044.wav",
+      "transcript": "Alò, Moïse te vin pale tout pawòl a chan sila nan zòrèy a pèp la, li menm avèk Josué, fis a Nun nan.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Alò, Moïse te vin pale tout pawòl a chan sila nan zòrèy a pèp la, li menm avèk Josué, fis a Nun nan.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/DEU_032_Verse_044.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00010",
+      "filename": "JER_046_Verse_021.wav",
+      "transcript": "Anplis, sòlda mèsenè etranje nan mitan li yo tankou jenn bèf yo byen angrese, paske yo menm tou te fin vire nèt; yo te sove ale ansanm. Yo pa t kanpe, paske jou malè pa yo fin rive sou yo; lè pinisyon pa yo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Anplis, sòlda mèsenè etranje nan mitan li yo tankou jenn bèf yo byen angrese, paske yo menm tou te fin vire nèt; yo te sove ale ansanm. Yo pa t kanpe, paske jou malè pa yo fin rive sou yo; lè pinisyon pa yo.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/JER_046_Verse_021.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00011",
+      "filename": "EXO_039_Verse_034.wav",
+      "transcript": "epi kouvèti po belye fonse wouj yo, kouvèti po dofen yo, ak vwal rido pòtay la;",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">epi kouvèti po belye fonse wouj yo, kouvèti po dofen yo, ak vwal rido pòtay la;</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/EXO_039_Verse_034.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00012",
+      "filename": "ACT_001_Verse_006.wav",
+      "transcript": "Donk, lè yo te reyini ansanm, yo t ap poze Li kesyon, e t ap di: “Senyè èske se nan lè sa a ke W ap restore Wayòm lan an Israël?”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Donk, lè yo te reyini ansanm, yo t ap poze Li kesyon, e t ap di: “Senyè èske se nan lè sa a ke W ap restore Wayòm lan an Israël?”</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/ACT_001_Verse_006.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00013",
+      "filename": "1PE_002_Verse_019.wav",
+      "transcript": "Paske sa jwenn favè, si yon nonm, pou koz a konsyans anvè Bondye, sipòte afliksyon ki enjis.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Paske sa jwenn favè, si yon nonm, pou koz a konsyans anvè Bondye, sipòte afliksyon ki enjis.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/1PE_002_Verse_019.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00014",
+      "filename": "MAT_025_Verse_020.wav",
+      "transcript": "Sila ki te resevwa senk talan yo te vin pote li avèk yon lòt senk talan ankò, epi te di: ‘Mèt, ou te fè m konfyans ak senk talan. Ou wè, mwen fè l rapòte senk talan anplis.’",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Sila ki te resevwa senk talan yo te vin pote li avèk yon lòt senk talan ankò, epi te di: ‘Mèt, ou te fè m konfyans ak senk talan. Ou wè, mwen fè l rapòte senk talan anplis.’</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/MAT_025_Verse_020.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00015",
+      "filename": "LUK_024_Verse_034.wav",
+      "transcript": "Yo te di yo ke Senyè a vrèman leve, e te parèt a Simon.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yo te di yo ke Senyè a vrèman leve, e te parèt a Simon.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/LUK_024_Verse_034.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00016",
+      "filename": "2SA_010_Verse_006.wav",
+      "transcript": "Alò, lè fis a Ammon yo te wè ke yo te vin rayisab devan David, fis a Ammon yo te voye anplwaye Siryen yo Beth-Rehob e Siryen yo a Tsoba, ven-mil sòlda a pye, wa Macca avèk mil lòm e mesye a Tob yo avèk douz-mil lòm.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Alò, lè fis a Ammon yo te wè ke yo te vin rayisab devan David, fis a Ammon yo te voye anplwaye Siryen yo Beth-Rehob e Siryen yo a Tsoba, ven-mil sòlda a pye, wa Macca avèk mil lòm e mesye a Tob yo avèk douz-mil lòm.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/2SA_010_Verse_006.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00017",
+      "filename": "GEN_016_Verse_006.wav",
+      "transcript": "Men Abram te di a Saraï: “Gade byen, sèvant ou anba pouvwa ou. Fè sa ke ou wè ki bon nan zye ou avèk li.” Pou sa, Saraï te rèd avèk li, e li te pran sove ale kite prezans li.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Men Abram te di a Saraï: “Gade byen, sèvant ou anba pouvwa ou. Fè sa ke ou wè ki bon nan zye ou avèk li.” Pou sa, Saraï te rèd avèk li, e li te pran sove ale kite prezans li.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/GEN_016_Verse_006.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00018",
+      "filename": "LEV_016_Verse_032.wav",
+      "transcript": "Alò prèt ki onksyone e òdone pou sèvi kòm prèt nan plas papa li a va fè ekspiyasyon an. Li va abiye ak vètman len yo, vètman sen yo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Alò prèt ki onksyone e òdone pou sèvi kòm prèt nan plas papa li a va fè ekspiyasyon an. Li va abiye ak vètman len yo, vètman sen yo.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/LEV_016_Verse_032.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00019",
+      "filename": "1CO_010_Verse_021.wav",
+      "transcript": "Nou pa kapab bwè tas Senyè a ak tas a dyab yo. Nou pa kapab pataje tab a Senyè a, ak tab a dyab yo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nou pa kapab bwè tas Senyè a ak tas a dyab yo. Nou pa kapab pataje tab a Senyè a, ak tab a dyab yo.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/1CO_010_Verse_021.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00020",
+      "filename": "PSA_109_Verse_026.wav",
+      "transcript": "Fè m sekou, O SENYÈ, Bondye mwen an. Sove mwen selon lanmou dous Ou a.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Fè m sekou, O SENYÈ, Bondye mwen an. Sove mwen selon lanmou dous Ou a.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/PSA_109_Verse_026.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00021",
+      "filename": "EXO_028_Verse_021.wav",
+      "transcript": "Pyè yo va selon non fis Israël yo: douz selon non pa yo. Yo va grave yo tankou sa ki fèt nan selil yo, yo chak selon non pa yo pou douz tribi yo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Pyè yo va selon non fis Israël yo: douz selon non pa yo. Yo va grave yo tankou sa ki fèt nan selil yo, yo chak selon non pa yo pou douz tribi yo.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/EXO_028_Verse_021.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00022",
+      "filename": "JOS_007_Verse_017.wav",
+      "transcript": "Li te fè fanmi Juda pwoche; li te pran fanmi Zérarit yo. Li te fè fanmi Zérarit la pwoche moun pa moun e Zabdi te pran.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Li te fè fanmi Juda pwoche; li te pran fanmi Zérarit yo. Li te fè fanmi Zérarit la pwoche moun pa moun e Zabdi te pran.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/JOS_007_Verse_017.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00023",
+      "filename": "RUT_001_Verse_010.wav",
+      "transcript": "Epi yo te di li: “Non, men n ap retounen avè w vè pèp ou a.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Epi yo te di li: “Non, men n ap retounen avè w vè pèp ou a.”</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/RUT_001_Verse_010.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00024",
+      "filename": "NUM_008_Verse_024.wav",
+      "transcript": "“Sa se lòd ki aplike pou Levit yo: soti nan laj venn-senkan e plis, yo va antre pou fè sèvis nan travay a Tant Asanble a.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Sa se lòd ki aplike pou Levit yo: soti nan laj venn-senkan e plis, yo va antre pou fè sèvis nan travay a Tant Asanble a.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/NUM_008_Verse_024.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00025",
+      "filename": "JER_032_Verse_010.wav",
+      "transcript": "Mwen te siyen e mete so sou papye tè a, te rele temwen, e te peze ajan sou balans pou bay.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mwen te siyen e mete so sou papye tè a, te rele temwen, e te peze ajan sou balans pou bay.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/JER_032_Verse_010.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00026",
+      "filename": "JER_011_Verse_016.wav",
+      "transcript": "SENYÈ a te bay ou non: “Bwa doliv, byen bèl ak anpil fwi”. Ak gwo bri, li te limen dife sou non sa a, e branch li yo te kase.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">SENYÈ a te bay ou non: “Bwa doliv, byen bèl ak anpil fwi”. Ak gwo bri, li te limen dife sou non sa a, e branch li yo te kase.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/JER_011_Verse_016.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00027",
+      "filename": "EXO_036_Verse_007.wav",
+      "transcript": "Paske materyo ke yo te genyen an te sifi, e plis ke sifi pou tout èv la, pou te fin konplete li.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Paske materyo ke yo te genyen an te sifi, e plis ke sifi pou tout èv la, pou te fin konplete li.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/EXO_036_Verse_007.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00028",
+      "filename": "EZK_032_Verse_019.wav",
+      "transcript": "‘Se ki moun ou depase nan bèlte? Desann, fè kabann ou ak ensikonsi yo.’",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">‘Se ki moun ou depase nan bèlte? Desann, fè kabann ou ak ensikonsi yo.’</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/EZK_032_Verse_019.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00029",
+      "filename": "PSA_034_Verse_019.wav",
+      "transcript": "Anpil, se afliksyon a moun dwat la, men SENYÈ a delivre li sòti nan yo tout.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Anpil, se afliksyon a moun dwat la, men SENYÈ a delivre li sòti nan yo tout.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/PSA_034_Verse_019.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00030",
+      "filename": "ROM_010_Verse_017.wav",
+      "transcript": "Konsa lafwa soti nan tande, e tande pa pawòl a Kris la.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Konsa lafwa soti nan tande, e tande pa pawòl a Kris la.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/ROM_010_Verse_017.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00031",
+      "filename": "LEV_026_Verse_008.wav",
+      "transcript": "Senk nan nou va chase yon santèn, san nan nou va chase di-mil, e lènmi nou yo va tonbe devan nou pa nepe.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Senk nan nou va chase yon santèn, san nan nou va chase di-mil, e lènmi nou yo va tonbe devan nou pa nepe.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/LEV_026_Verse_008.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00032",
+      "filename": "JHN_003_Verse_033.wav",
+      "transcript": "Sila ki resevwa temwayaj Li mete so li sou sa, ke Bondye vrè.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Sila ki resevwa temwayaj Li mete so li sou sa, ke Bondye vrè.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/JHN_003_Verse_033.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00033",
+      "filename": "REV_009_Verse_008.wav",
+      "transcript": "Yo te gen cheve ki te tankou cheve a fanm, e dan yo te tankou dan lyon.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yo te gen cheve ki te tankou cheve a fanm, e dan yo te tankou dan lyon.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/REV_009_Verse_008.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00034",
+      "filename": "ACT_015_Verse_002.wav",
+      "transcript": "Lè Paul ak Barnabas te fè yon gran diskisyon ak deba avèk yo, lòt frè yo te detèmine ke Paul ak Barnabas ak kèk lòt nan yo ta dwe monte Jérusalem vè lòt apòt yo ak lansyen yo konsènan pwoblèm sila a.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Lè Paul ak Barnabas te fè yon gran diskisyon ak deba avèk yo, lòt frè yo te detèmine ke Paul ak Barnabas ak kèk lòt nan yo ta dwe monte Jérusalem vè lòt apòt yo ak lansyen yo konsènan pwoblèm sila a.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/ACT_015_Verse_002.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00035",
+      "filename": "SNG_004_Verse_005.wav",
+      "transcript": "De tete ou tankou de jèn ti antilòp; jimo manman k ap chache manje pami flè lis yo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">De tete ou tankou de jèn ti antilòp; jimo manman k ap chache manje pami flè lis yo.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/SNG_004_Verse_005.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00036",
+      "filename": "ROM_016_Verse_023.wav",
+      "transcript": "Gaïus ki te ban m kote pou m rete ak tout legliz la, salye nou. Éraste, trezorye vil la salye nou ak Quartus osi, frè a.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Gaïus ki te ban m kote pou m rete ak tout legliz la, salye nou. Éraste, trezorye vil la salye nou ak Quartus osi, frè a.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/ROM_016_Verse_023.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00037",
+      "filename": "1KI_007_Verse_005.wav",
+      "transcript": "Tout pòtay avèk poto pòt yo te gen ankadreman kare, byen dekore e fenèt yo te opoze a pòt yo an twa ranje.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Tout pòtay avèk poto pòt yo te gen ankadreman kare, byen dekore e fenèt yo te opoze a pòt yo an twa ranje.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/1KI_007_Verse_005.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00038",
+      "filename": "ISA_055_Verse_005.wav",
+      "transcript": "Gade byen, ou va rele yon nasyon ou pa rekonèt; yon nasyon ki pa rekonèt ou va kouri bò kote ou, akoz SENYÈ Bondye ou a, ak Sila Ki Sen an Israël la; paske Li te bay ou glwa.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Gade byen, ou va rele yon nasyon ou pa rekonèt; yon nasyon ki pa rekonèt ou va kouri bò kote ou, akoz SENYÈ Bondye ou a, ak Sila Ki Sen an Israël la; paske Li te bay ou glwa.”</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/ISA_055_Verse_005.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00039",
+      "filename": "LUK_021_Verse_013.wav",
+      "transcript": "Sa va ouvri yon chemen pou temwayaj nou.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Sa va ouvri yon chemen pou temwayaj nou.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/LUK_021_Verse_013.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00040",
+      "filename": "1SA_002_Verse_024.wav",
+      "transcript": "Non, fis mwen yo, rapò ke m tande sikile pami pèp la pa bon.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Non, fis mwen yo, rapò ke m tande sikile pami pèp la pa bon.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/1SA_002_Verse_024.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00041",
+      "filename": "LAM_003_Verse_054.wav",
+      "transcript": "Dlo yo te koule depase tèt mwen. Mwen te di: “Mwen fin koupe retire nèt”!",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Dlo yo te koule depase tèt mwen. Mwen te di: “Mwen fin koupe retire nèt”!</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/LAM_003_Verse_054.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00042",
+      "filename": "1SA_026_Verse_001.wav",
+      "transcript": "Zifyen yo te vin kote Saül nan Guibea. Yo te di l: “Èske David pa kache nan ti mòn Hakila a, devan Jeschimon?”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Zifyen yo te vin kote Saül nan Guibea. Yo te di l: “Èske David pa kache nan ti mòn Hakila a, devan Jeschimon?”</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/1SA_026_Verse_001.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00043",
+      "filename": "2KI_012_Verse_021.wav",
+      "transcript": "Paske Jozabad, fis a Shomer a, avèk Yehozabad, fis a Schimeath a, sèvitè li yo, te frape li e li te mouri. Yo te antere li avèk zansèt li yo nan vil David la e Amatsia, fis li a, te devni wa nan plas li.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Paske Jozabad, fis a Shomer a, avèk Yehozabad, fis a Schimeath a, sèvitè li yo, te frape li e li te mouri. Yo te antere li avèk zansèt li yo nan vil David la e Amatsia, fis li a, te devni wa nan plas li.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/2KI_012_Verse_021.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00044",
+      "filename": "DAN_011_Verse_026.wav",
+      "transcript": "Sila ki te kon manje pi bon manje nan men l, va detwi li, epi lame li a va bale nèt. Konsa, anpil moun va tonbe mouri.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Sila ki te kon manje pi bon manje nan men l, va detwi li, epi lame li a va bale nèt. Konsa, anpil moun va tonbe mouri.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/DAN_011_Verse_026.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00045",
+      "filename": "DEU_026_Verse_006.wav",
+      "transcript": "Ejipsyen yo te trete nou byen di e te aflije nou. Yo te enpoze travay fòse sou nou.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ejipsyen yo te trete nou byen di e te aflije nou. Yo te enpoze travay fòse sou nou.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/DEU_026_Verse_006.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00046",
+      "filename": "ECC_008_Verse_016.wav",
+      "transcript": "Lè mwen te bay kè m pou aprann sajès ak pou m wè tach ki te konn fèt sou tè a, (malgre sa ta fè yon moun pa janm dòmi ni lajounen, ni lannwit),",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Lè mwen te bay kè m pou aprann sajès ak pou m wè tach ki te konn fèt sou tè a, (malgre sa ta fè yon moun pa janm dòmi ni lajounen, ni lannwit),</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/ECC_008_Verse_016.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00047",
+      "filename": "1CO_014_Verse_013.wav",
+      "transcript": "Konsa, kite sila ki pale an lang lan priye pou li kapab osi entèprete li.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Konsa, kite sila ki pale an lang lan priye pou li kapab osi entèprete li.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/1CO_014_Verse_013.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00048",
+      "filename": "2CH_021_Verse_018.wav",
+      "transcript": "Konsa, apre tout bagay sa a, SENYÈ a te frape li nan zantray li avèk yon maladi ki pa t kab geri.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Konsa, apre tout bagay sa a, SENYÈ a te frape li nan zantray li avèk yon maladi ki pa t kab geri.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/2CH_021_Verse_018.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00049",
+      "filename": "NEH_007_Verse_040.wav",
+      "transcript": "Fis a Immer yo, mil-senkann-de.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Fis a Immer yo, mil-senkann-de.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Haitian Creole</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the first three options, please also say <em>where</em> the problem is and, if you can, write the extra or missing words (both optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Haitian%20Creole/NEH_007_Verse_040.wav"
+    }
+  }
+]

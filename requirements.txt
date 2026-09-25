@@ -1,0 +1,5 @@
+datasets
+numpy
+pandas
+requests
+tabulate
