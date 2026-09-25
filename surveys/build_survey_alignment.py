@@ -41,6 +41,8 @@ from urllib.parse import quote
 
 import pandas as pd
 
+from romanize_arabic import romanize as romanize_arabic
+
 try:
     import requests as _requests
     _REQUESTS_AVAILABLE = True
@@ -94,6 +96,11 @@ TRACKING_COLUMNS = [
 ]
 
 DEFAULT_BASE_URL = "https://app.humansignal.com"
+
+# Latin transcriptions stored in the task data as `transcript_latin` for
+# following the audio in non-Latin scripts. The labeling config never references
+# this field, so annotators are not shown it.
+ROMANIZERS = {"Arabic Standard": romanize_arabic}
 
 
 # -----------------------------------------------------------------------------
@@ -221,29 +228,34 @@ def build_tasks(
     Shuffle the sampled verses and return Label Studio task dicts.
 
     Each task data contains: task_uid, filename, transcript, transcript_html,
-    instructions_html, audio_url. The tracking CSV keeps the verse metadata and
+    instructions_html, audio_url (plus transcript_latin for ROMANIZERS languages,
+    which the labeling config does not display). The tracking CSV keeps the verse metadata and
     alignment-risk tags (joined to exported annotations via task_uid).
     """
     rows = items.to_dict("records")
     random.Random(seed).shuffle(rows)
+    romanize = ROMANIZERS.get(language)
     print(f"  Total tasks: {len(rows)} (shuffled with seed={seed})")
 
     tasks: list[dict] = []
     tracking_records: list[dict] = []
     for idx, row in enumerate(rows):
         task_uid = f"{idx:05d}"
-        tasks.append({
-            "data": {
-                "task_uid":          task_uid,
-                "filename":          row["filename"],
-                "transcript":        row["text"],
-                "transcript_html":   build_transcript_html(row["text"]),
-                "instructions_html": instructions_html,
-                "audio_url":         AUDIO_URL_TEMPLATE.format(
-                    language=quote(language), filename=quote(row["filename"])
-                ),
-            }
+        data = {
+            "task_uid":          task_uid,
+            "filename":          row["filename"],
+            "transcript":        row["text"],
+        }
+        if romanize:
+            data["transcript_latin"] = romanize(row["text"])
+        data.update({
+            "transcript_html":   build_transcript_html(row["text"]),
+            "instructions_html": instructions_html,
+            "audio_url":         AUDIO_URL_TEMPLATE.format(
+                language=quote(language), filename=quote(row["filename"])
+            ),
         })
+        tasks.append({"data": data})
         tracking_records.append({"task_uid": task_uid, **{c: row.get(c) for c in TRACKING_COLUMNS}})
 
     if tracking_csv_path:

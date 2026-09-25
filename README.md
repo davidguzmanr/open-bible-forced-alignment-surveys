@@ -56,7 +56,7 @@ python scripts/sample_verses.py --all
 python surveys/build_survey_alignment.py --all
 ```
 
-Both scripts also accept `--language <LANG>`. Audio is served to Label Studio from this repository's `raw.githubusercontent.com` URLs, so **commit and push `audios/` before importing the tasks**.
+Both scripts also accept `--language <LANG>`. Arabic Standard tasks also carry a `transcript_latin` field (rule-based romanization from `surveys/romanize_arabic.py`) to help follow the audio; the labeling config does not display it, so annotators only see the Arabic script. Audio is served to Label Studio from this repository's `raw.githubusercontent.com` URLs, so **commit and push `audios/` before importing the tasks**.
 
 ## Uploading to HumanAlign
 
