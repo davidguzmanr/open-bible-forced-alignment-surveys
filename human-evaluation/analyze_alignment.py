@@ -37,7 +37,8 @@ TRACKING_DIR = ROOT / "humanalign"
 RESULTS_DIR = ROOT / "human-evaluation" / "results"
 
 LABELS = {
-    "No missing or extra words": "EM",
+    "No missing or extra words (exact match)": "EM",
+    "No missing or extra words": "EM",  # wording before "(exact match)" was added
     "Audio contains EXTRA words not in the transcript": "Add.",
     "Audio is MISSING words that are in the transcript": "Miss.",
     "Audio is MISSING words AND includes EXTRA words": "Both",

@@ -9,7 +9,7 @@ Annotators pick the one option that best describes how well they match:
   1. Audio contains EXTRA words not in the transcript
   2. Audio is MISSING words that are in the transcript
   3. Audio is MISSING words AND includes EXTRA words
-  4. No missing or extra words
+  4. No missing or extra words (exact match)
 
 For options 1-3 two optional follow-ups appear: where the problem is (start /
 end / middle of the clip) and a free-text box for the words involved.
@@ -74,12 +74,13 @@ LANGUAGES = [
     "Turkish",
 ]
 
-# Options exactly as worded in BibleTTS Section 4.3, in the paper's order.
+# Options as worded in BibleTTS Section 4.3, in the paper's order; the last one
+# adds "(exact match)" to make the category explicit to annotators.
 ALIGNMENT_CHOICES = [
     "Audio contains EXTRA words not in the transcript",
     "Audio is MISSING words that are in the transcript",
     "Audio is MISSING words AND includes EXTRA words",
-    "No missing or extra words",
+    "No missing or extra words (exact match)",
 ]
 LOCATION_CHOICES = [
     "At the start of the audio",

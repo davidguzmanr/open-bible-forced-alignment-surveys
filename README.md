@@ -13,12 +13,12 @@ Human evaluation of the forced-alignment quality of [davidguzmanr/open-bible-res
 
 ### Task
 
-Each task shows one verse transcript and its audio clip. Annotators choose the one option that best describes the pair (wording from BibleTTS):
+Each task shows one verse transcript and its audio clip. Annotators choose the one option that best describes the pair (wording from BibleTTS, with "(exact match)" added to the last option):
 
 1. Audio contains EXTRA words not in the transcript
 2. Audio is MISSING words that are in the transcript
 3. Audio is MISSING words AND includes EXTRA words
-4. No missing or extra words
+4. No missing or extra words (exact match)
 
 For options 1–3, two optional follow-ups appear: **where** the problem is (start / end / middle of the clip) and a free-text box for **which words** are extra or missing.
 

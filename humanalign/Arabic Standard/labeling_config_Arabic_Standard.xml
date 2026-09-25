@@ -13,7 +13,7 @@
     <Choice value="Audio contains EXTRA words not in the transcript" />
     <Choice value="Audio is MISSING words that are in the transcript" />
     <Choice value="Audio is MISSING words AND includes EXTRA words" />
-    <Choice value="No missing or extra words" />
+    <Choice value="No missing or extra words (exact match)" />
   </Choices>
 
   <View visibleWhen="choice-selected" whenTagName="alignment" whenChoiceValue="Audio contains EXTRA words not in the transcript,Audio is MISSING words that are in the transcript,Audio is MISSING words AND includes EXTRA words">
