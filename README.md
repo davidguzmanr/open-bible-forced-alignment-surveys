@@ -13,14 +13,14 @@ Human evaluation of the forced-alignment quality of [davidguzmanr/open-bible-res
 
 ### Task
 
-Each task shows one verse transcript and its audio clip. Annotators choose the one option that best describes the pair (wording from BibleTTS, with "(exact match)" added to the last option):
+Each task shows one verse transcript and its audio clip. Annotators choose the one option that best describes the pair (wording from BibleTTS, with "(exact match)" added; the paper lists that option last, here it comes first):
 
-1. Audio contains EXTRA words not in the transcript
-2. Audio is MISSING words that are in the transcript
-3. Audio is MISSING words AND includes EXTRA words
-4. No missing or extra words (exact match)
+1. No missing or extra words (exact match)
+2. Audio contains EXTRA words not in the transcript
+3. Audio is MISSING words that are in the transcript
+4. Audio is MISSING words AND includes EXTRA words
 
-For options 1–3, two optional follow-ups appear: **where** the problem is (start / end / middle of the clip) and a free-text box for **which words** are extra or missing.
+For options 2–4, two follow-ups appear: **where** the problem is (start / middle / end of the clip, select all that apply; required) and a free-text box for **which words** are extra or missing (optional).
 
 ### Sampling
 
@@ -66,7 +66,7 @@ Log into [app.humansignal.com](https://app.humansignal.com) → **Create Project
 
 ### Step 2: Set the labeling config
 
-Go to **Project Settings → Labeling Interface** → open the code editor (`</>` or **Custom template**) → paste the contents of `labeling_config_{lang}.xml` → **Save**. Check in the preview that the "Where is the problem?" block appears only after choosing one of the first three options.
+Go to **Project Settings → Labeling Interface** → open the code editor (`</>` or **Custom template**) → paste the contents of `labeling_config_{lang}.xml` → **Save**. Check in the preview that the "Where is the problem?" block appears only after choosing one of the last three options.
 
 ### Step 3: Import tasks
 
@@ -98,4 +98,4 @@ Steps 1–3 can also be done from the command line with `--api-key YOUR_TOKEN` (
    python human-evaluation/analyze_alignment.py
    ```
 
-Each verse gets the majority label of its annotators. If no label has a strict plurality (e.g. three different answers), it is counted as **Conflict**, as in the paper. The script reports the Table 3 breakdown (EM / Add. / Miss. / Both / Conflict, % of verses) per language, Krippendorff's alpha for inter-annotator agreement, the same breakdown by risk tag, and counts of the optional "where" answers.
+Each verse gets the majority label of its annotators. If no label has a strict plurality (e.g. three different answers), it is counted as **Conflict**, as in the paper. The script reports the Table 3 breakdown (EM / Add. / Miss. / Both / Conflict, % of verses) per language, Krippendorff's alpha for inter-annotator agreement, the same breakdown by risk tag, and counts of the "where" answers.

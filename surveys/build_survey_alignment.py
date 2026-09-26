@@ -6,13 +6,15 @@ BibleTTS paper (Meyer et al., 2022).
 Each task shows one aligned verse: the transcript and its audio clip.
 Annotators pick the one option that best describes how well they match:
 
-  1. Audio contains EXTRA words not in the transcript
-  2. Audio is MISSING words that are in the transcript
-  3. Audio is MISSING words AND includes EXTRA words
-  4. No missing or extra words (exact match)
+  1. No missing or extra words (exact match)
+  2. Audio contains EXTRA words not in the transcript
+  3. Audio is MISSING words that are in the transcript
+  4. Audio is MISSING words AND includes EXTRA words
 
-For options 1-3 two optional follow-ups appear: where the problem is (start /
-end / middle of the clip) and a free-text box for the words involved.
+For options 2-4 two follow-ups appear: where the problem is (start / middle /
+end of the clip; required) and a free-text box for the words involved
+(optional). The "where" choices carry their own visibleWhen condition so the
+requirement only applies when they are shown.
 
 One set of output files is created per language:
   - labeling_config_{lang}.xml  — paste into the Label Studio project config
@@ -76,18 +78,19 @@ LANGUAGES = [
     "Turkish",
 ]
 
-# Options as worded in BibleTTS Section 4.3, in the paper's order; the last one
-# adds "(exact match)" to make the category explicit to annotators.
-ALIGNMENT_CHOICES = [
+# Options as worded in BibleTTS Section 4.3, with "(exact match)" added to make
+# that category explicit. The paper lists it last; here it is shown first.
+EXACT_MATCH = "No missing or extra words (exact match)"
+MISMATCH_CHOICES = [
     "Audio contains EXTRA words not in the transcript",
     "Audio is MISSING words that are in the transcript",
     "Audio is MISSING words AND includes EXTRA words",
-    "No missing or extra words (exact match)",
 ]
+ALIGNMENT_CHOICES = [EXACT_MATCH, *MISMATCH_CHOICES]
 LOCATION_CHOICES = [
     "At the start of the audio",
-    "At the end of the audio",
     "In the middle of the audio",
+    "At the end of the audio",
 ]
 
 TRACKING_COLUMNS = [
@@ -158,9 +161,9 @@ def build_instructions_html(language: str) -> str:
         '<p style="margin:4px 0;">Please ignore voice quality, accent, speed, breaths and '
         'background noise. Punctuation is not spoken, and numbers written as digits may be read '
         'out as words; neither counts as a mismatch.</p>'
-        '<p style="margin:4px 0;">If you choose one of the first three options, please also say '
-        '<em>where</em> the problem is and, if you can, write the extra or missing words '
-        '(both optional).</p>'
+        '<p style="margin:4px 0;">If you choose one of the last three options, please also say '
+        '<em>where</em> the problem is (required) and, if you can, write the extra or missing '
+        'words (optional).</p>'
     )
 
 
@@ -184,7 +187,7 @@ def build_labeling_config() -> str:
     """
     alignment = "\n".join(f'    <Choice value="{c}" />' for c in ALIGNMENT_CHOICES)
     location = "\n".join(f'      <Choice value="{c}" />' for c in LOCATION_CHOICES)
-    mismatch_values = ",".join(ALIGNMENT_CHOICES[:3])
+    mismatch_values = ",".join(MISMATCH_CHOICES)
     return f"""\
 <View>
   <HyperText name="instructions" value="$instructions_html" />
@@ -202,8 +205,10 @@ def build_labeling_config() -> str:
   </Choices>
 
   <View visibleWhen="choice-selected" whenTagName="alignment" whenChoiceValue="{mismatch_values}">
-    <Header value="Where is the problem? (optional, select all that apply)" />
-    <Choices name="location" toName="audio" choice="multiple" showInline="true">
+    <Header value="Where is the problem? (select all that apply)" />
+    <Choices name="location" toName="audio" choice="multiple" showInline="true"
+             required="true" requiredMessage="Please select where the extra or missing words are."
+             visibleWhen="choice-selected" whenTagName="alignment" whenChoiceValue="{mismatch_values}">
 {location}
     </Choices>
     <Header value="Which words are extra or missing? (optional)" />

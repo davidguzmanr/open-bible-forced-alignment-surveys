@@ -13,7 +13,7 @@ reports, per language, the share of verses whose majority label is:
 
 as in Table 3 of the paper, plus Krippendorff's alpha (nominal) for
 inter-annotator agreement. It also breaks EM down by the alignment-risk tags
-from scripts/sample_verses.py and counts the optional "where" answers.
+from scripts/sample_verses.py and counts the "where" answers.
 
 Outputs (in human-evaluation/results/):
   - alignment_summary.csv   one row per language (+ pooled)
@@ -156,7 +156,7 @@ def main() -> None:
     print(summary.to_markdown(index=False))
     print("\nBy alignment-risk tag (pooled over languages)\n")
     print(by_tag.to_markdown(index=False))
-    print("\nWhere the problem is (optional answers, all annotations):")
+    print("\nWhere the problem is (all annotations with a mismatch label):")
     for loc, n in location_counts.most_common():
         print(f"  {loc}: {n}")
     uneven = verses[verses["n_votes"] != verses["n_votes"].mode().iat[0]]

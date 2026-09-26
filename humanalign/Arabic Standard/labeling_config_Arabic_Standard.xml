@@ -10,18 +10,20 @@
 
   <Header value="Which option best describes the audio?" />
   <Choices name="alignment" toName="audio" choice="single" required="true">
+    <Choice value="No missing or extra words (exact match)" />
     <Choice value="Audio contains EXTRA words not in the transcript" />
     <Choice value="Audio is MISSING words that are in the transcript" />
     <Choice value="Audio is MISSING words AND includes EXTRA words" />
-    <Choice value="No missing or extra words (exact match)" />
   </Choices>
 
   <View visibleWhen="choice-selected" whenTagName="alignment" whenChoiceValue="Audio contains EXTRA words not in the transcript,Audio is MISSING words that are in the transcript,Audio is MISSING words AND includes EXTRA words">
-    <Header value="Where is the problem? (optional, select all that apply)" />
-    <Choices name="location" toName="audio" choice="multiple" showInline="true">
+    <Header value="Where is the problem? (select all that apply)" />
+    <Choices name="location" toName="audio" choice="multiple" showInline="true"
+             required="true" requiredMessage="Please select where the extra or missing words are."
+             visibleWhen="choice-selected" whenTagName="alignment" whenChoiceValue="Audio contains EXTRA words not in the transcript,Audio is MISSING words that are in the transcript,Audio is MISSING words AND includes EXTRA words">
       <Choice value="At the start of the audio" />
-      <Choice value="At the end of the audio" />
       <Choice value="In the middle of the audio" />
+      <Choice value="At the end of the audio" />
     </Choices>
     <Header value="Which words are extra or missing? (optional)" />
     <TextArea name="words" toName="audio" rows="2" editable="true" maxSubmissions="1"
