@@ -2,21 +2,21 @@
   {
     "data": {
       "task_uid": "00000",
-      "filename": "JOB_003_Verse_006.wav",
-      "transcript": "O geceye gelince, onu koyu karanlık yakalasın. Yılın günleri arasında sevinmesin. Ayların sayısına girmesin.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">O geceye gelince, onu koyu karanlık yakalasın. Yılın günleri arasında sevinmesin. Ayların sayısına girmesin.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOB_003_Verse_006.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00001",
       "filename": "JER_025_Verse_024.wav",
       "transcript": "ve bütün Arabistan krallarına, çölde oturan bütün karışık halkların krallarına;",
       "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">ve bütün Arabistan krallarına, çölde oturan bütün karışık halkların krallarına;</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
       "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JER_025_Verse_024.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00001",
+      "filename": "JAS_002_Verse_017.wav",
+      "transcript": "Bunun gibi, tek başına işleri olmayan iman da ölüdür.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bunun gibi, tek başına işleri olmayan iman da ölüdür.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JAS_002_Verse_017.wav"
     }
   },
   {
@@ -32,11 +32,11 @@
   {
     "data": {
       "task_uid": "00003",
-      "filename": "EXO_029_Verse_018.wav",
-      "transcript": "Koçun tamamını sunak üzerinde yakacaksın; bu Yahve'ye yakmalık bir sunudur; hoş bir kokudur, ateşle Yahve'ye yapılan bir sunudur.\"",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koçun tamamını sunak üzerinde yakacaksın; bu Yahve&#x27;ye yakmalık bir sunudur; hoş bir kokudur, ateşle Yahve&#x27;ye yapılan bir sunudur.&quot;</div>",
+      "filename": "EXO_027_Verse_018.wav",
+      "transcript": "Avlunun uzunluğu yüz arşın, eni elli arşın, yüksekliği beş arşın olacak ve özenle dokunmuş ince ketenden olacak; tabanları tunçtan olacak.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Avlunun uzunluğu yüz arşın, eni elli arşın, yüksekliği beş arşın olacak ve özenle dokunmuş ince ketenden olacak; tabanları tunçtan olacak.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EXO_029_Verse_018.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EXO_027_Verse_018.wav"
     }
   },
   {
@@ -62,11 +62,11 @@
   {
     "data": {
       "task_uid": "00006",
-      "filename": "JOB_003_Verse_024.wav",
-      "transcript": "Çünkü inlemem ekmek yememden önce geliyor. İnlemelerim su gibi dökülüyor.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Çünkü inlemem ekmek yememden önce geliyor. İnlemelerim su gibi dökülüyor.</div>",
+      "filename": "JHN_020_Verse_017.wav",
+      "transcript": "Yeşua ona, “Bana dokunma! Çünkü henüz Babam’ın yanına çıkmadım. Ama kardeşlerime git ve onlara de ki, ‘Benim Babam’ın ve sizin Babanız’ın, benim Tanrım’ın ve sizin Tanrınız’ın yanına çıkıyorum’” dedi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yeşua ona, “Bana dokunma! Çünkü henüz Babam’ın yanına çıkmadım. Ama kardeşlerime git ve onlara de ki, ‘Benim Babam’ın ve sizin Babanız’ın, benim Tanrım’ın ve sizin Tanrınız’ın yanına çıkıyorum’” dedi.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOB_003_Verse_024.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JHN_020_Verse_017.wav"
     }
   },
   {
@@ -82,51 +82,51 @@
   {
     "data": {
       "task_uid": "00008",
-      "filename": "JOS_017_Verse_015.wav",
-      "transcript": "Yeşu onlara şöyle dedi: \"Eğer kalabalıksan, Efraim'in dağlık bölgesi sana çok darsa, ormana çık ve Perizliler ve Refayim diyarında kendine yer aç.\"",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yeşu onlara şöyle dedi: &quot;Eğer kalabalıksan, Efraim&#x27;in dağlık bölgesi sana çok darsa, ormana çık ve Perizliler ve Refayim diyarında kendine yer aç.&quot;</div>",
+      "filename": "JOS_011_Verse_021.wav",
+      "transcript": "O sırada Yeşu geldi ve Anaklılar'ı dağlık bölgeden, Hevron'dan, Devir'den, Anav'dan, Yahuda'nın bütün dağlık bölgesinden ve İsrael'in bütün dağlık bölgesinden söküp attı. Yeşu onları kentleriyle birlikte tümüyle yok etti.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">O sırada Yeşu geldi ve Anaklılar&#x27;ı dağlık bölgeden, Hevron&#x27;dan, Devir&#x27;den, Anav&#x27;dan, Yahuda&#x27;nın bütün dağlık bölgesinden ve İsrael&#x27;in bütün dağlık bölgesinden söküp attı. Yeşu onları kentleriyle birlikte tümüyle yok etti.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOS_017_Verse_015.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOS_011_Verse_021.wav"
     }
   },
   {
     "data": {
       "task_uid": "00009",
-      "filename": "EZK_048_Verse_030.wav",
-      "transcript": "“Kentin çıkışları şunlardır: Kuzey tarafında ölçüye göre dört bin beş yüz kamış;",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Kentin çıkışları şunlardır: Kuzey tarafında ölçüye göre dört bin beş yüz kamış;</div>",
+      "filename": "EZK_044_Verse_006.wav",
+      "transcript": "O asilere, İsrael evine diyeceksin, ‘Efendi Yahve şöyle diyor: \"Ey İsrael evi, bütün iğrençlikleriniz yeter,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">O asilere, İsrael evine diyeceksin, ‘Efendi Yahve şöyle diyor: &quot;Ey İsrael evi, bütün iğrençlikleriniz yeter,</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EZK_048_Verse_030.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EZK_044_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00010",
-      "filename": "LEV_006_Verse_021.wav",
-      "transcript": "Tavada yağla yapılacak. Yağı iyice çekince onu içeri getireceksin. Ekmek sunusunu Yahve'ye hoş koku olarak, pişmiş parçalar halinde sunacaksın.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Tavada yağla yapılacak. Yağı iyice çekince onu içeri getireceksin. Ekmek sunusunu Yahve&#x27;ye hoş koku olarak, pişmiş parçalar halinde sunacaksın.</div>",
+      "filename": "JOS_023_Verse_006.wav",
+      "transcript": "“Bu nedenle, Moşe'nin Yasa Kitabı'nda yazılı olan her şeyi tutmak ve yapmak için çok yürekli olun; ta ki, ondan sağa ya da sola sapmayasınız;",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Bu nedenle, Moşe&#x27;nin Yasa Kitabı&#x27;nda yazılı olan her şeyi tutmak ve yapmak için çok yürekli olun; ta ki, ondan sağa ya da sola sapmayasınız;</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LEV_006_Verse_021.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOS_023_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00011",
-      "filename": "ISA_029_Verse_014.wav",
-      "transcript": "bu nedenle işte, bu halk arasında harika bir iş, harika bir iş ve şaşılacak bir şey yapmaya devam edeceğim; ve onların bilge adamlarının bilgeliği yok olacak ve onların sağduyulu adamlarının anlayışı gizlenecek.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">bu nedenle işte, bu halk arasında harika bir iş, harika bir iş ve şaşılacak bir şey yapmaya devam edeceğim; ve onların bilge adamlarının bilgeliği yok olacak ve onların sağduyulu adamlarının anlayışı gizlenecek.”</div>",
+      "filename": "HEB_011_Verse_030.wav",
+      "transcript": "İsraelliler yedi gün boyunca Yeriha surları çevresinde döndükten sonra, imanları sayesinde surlar yıkıldı.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">İsraelliler yedi gün boyunca Yeriha surları çevresinde döndükten sonra, imanları sayesinde surlar yıkıldı.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/ISA_029_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/HEB_011_Verse_030.wav"
     }
   },
   {
     "data": {
       "task_uid": "00012",
-      "filename": "EXO_035_Verse_034.wav",
-      "transcript": "Hem kendisinin hem de Dan oymağından Ahisamak oğlu Oholiav'ın öğretmesini onun yüreğine koydu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hem kendisinin hem de Dan oymağından Ahisamak oğlu Oholiav&#x27;ın öğretmesini onun yüreğine koydu.</div>",
+      "filename": "EXO_029_Verse_018.wav",
+      "transcript": "Koçun tamamını sunak üzerinde yakacaksın; bu Yahve'ye yakmalık bir sunudur; hoş bir kokudur, ateşle Yahve'ye yapılan bir sunudur.\"",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koçun tamamını sunak üzerinde yakacaksın; bu Yahve&#x27;ye yakmalık bir sunudur; hoş bir kokudur, ateşle Yahve&#x27;ye yapılan bir sunudur.&quot;</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EXO_035_Verse_034.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EXO_029_Verse_018.wav"
     }
   },
   {
@@ -142,21 +142,21 @@
   {
     "data": {
       "task_uid": "00014",
-      "filename": "MIC_001_Verse_008.wav",
-      "transcript": "Bundan ötürü ağıt yakıp dövüneceğim. Soyunmuş ve çıplak olarak gideceğim. Çakallar gibi uluyacağım, ve devekuşları gibi yas tutacağım.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bundan ötürü ağıt yakıp dövüneceğim. Soyunmuş ve çıplak olarak gideceğim. Çakallar gibi uluyacağım, ve devekuşları gibi yas tutacağım.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/MIC_001_Verse_008.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00015",
       "filename": "MAT_024_Verse_013.wav",
       "transcript": "Ama sonuna kadar dayanan kurtulacaktır.",
       "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ama sonuna kadar dayanan kurtulacaktır.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
       "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/MAT_024_Verse_013.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00015",
+      "filename": "MAT_019_Verse_020.wav",
+      "transcript": "Genç adam Yeşua’ya, “Bütün bunları gençliğimden beri tuttum. Hâlâ ne eksiğim var ki?” dedi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Genç adam Yeşua’ya, “Bütün bunları gençliğimden beri tuttum. Hâlâ ne eksiğim var ki?” dedi.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/MAT_019_Verse_020.wav"
     }
   },
   {
@@ -172,21 +172,21 @@
   {
     "data": {
       "task_uid": "00017",
-      "filename": "JHN_020_Verse_017.wav",
-      "transcript": "Yeşua ona, “Bana dokunma! Çünkü henüz Babam’ın yanına çıkmadım. Ama kardeşlerime git ve onlara de ki, ‘Benim Babam’ın ve sizin Babanız’ın, benim Tanrım’ın ve sizin Tanrınız’ın yanına çıkıyorum’” dedi.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yeşua ona, “Bana dokunma! Çünkü henüz Babam’ın yanına çıkmadım. Ama kardeşlerime git ve onlara de ki, ‘Benim Babam’ın ve sizin Babanız’ın, benim Tanrım’ın ve sizin Tanrınız’ın yanına çıkıyorum’” dedi.</div>",
+      "filename": "JER_002_Verse_006.wav",
+      "transcript": "“Bizi Mısır diyarından çıkaran, çölde, bozkırlar ve çukurlar diyarında, kuraklık ve ölüm gölgesi diyarında, hiç kimsenin geçmediği ve hiç kimsenin yaşamadığı bir diyarda bizi yürüten Yahve nerede?” demediler.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Bizi Mısır diyarından çıkaran, çölde, bozkırlar ve çukurlar diyarında, kuraklık ve ölüm gölgesi diyarında, hiç kimsenin geçmediği ve hiç kimsenin yaşamadığı bir diyarda bizi yürüten Yahve nerede?” demediler.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JHN_020_Verse_017.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JER_002_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00018",
-      "filename": "LUK_011_Verse_015.wav",
-      "transcript": "Ama içlerinden bazıları, “İblisleri iblislerin önderi Baalzevul aracılığıyla kovuyor” dediler.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ama içlerinden bazıları, “İblisleri iblislerin önderi Baalzevul aracılığıyla kovuyor” dediler.</div>",
+      "filename": "LEV_018_Verse_022.wav",
+      "transcript": "\"'Bir erkekle kadınla yatar gibi yatmayacaksın. Bu iğrenç bir şeydir.'\"",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">&quot;&#x27;Bir erkekle kadınla yatar gibi yatmayacaksın. Bu iğrenç bir şeydir.&#x27;&quot;</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LUK_011_Verse_015.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LEV_018_Verse_022.wav"
     }
   },
   {
@@ -222,11 +222,11 @@
   {
     "data": {
       "task_uid": "00022",
-      "filename": "LEV_010_Verse_014.wav",
-      "transcript": "Sallama döşünü ve kaldırma budunu, sen, oğulların ve kızlarınla birlikte temiz bir yerde yiyeceksiniz; çünkü bunlar, İsrael'in çocuklarının esenlik sunularının kurbanlarından sana ve oğullarınıza pay olarak verildi.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Sallama döşünü ve kaldırma budunu, sen, oğulların ve kızlarınla birlikte temiz bir yerde yiyeceksiniz; çünkü bunlar, İsrael&#x27;in çocuklarının esenlik sunularının kurbanlarından sana ve oğullarınıza pay olarak verildi.</div>",
+      "filename": "LEV_008_Verse_010.wav",
+      "transcript": "Moşe mesh yağını aldı, konutu ve içindekilerin hepsini meshedip kutsal kıldı.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Moşe mesh yağını aldı, konutu ve içindekilerin hepsini meshedip kutsal kıldı.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LEV_010_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LEV_008_Verse_010.wav"
     }
   },
   {
@@ -242,61 +242,61 @@
   {
     "data": {
       "task_uid": "00024",
-      "filename": "NUM_016_Verse_014.wav",
-      "transcript": "Bizi süt ve bal akan bir diyara da getirmedin, miras olarak tarlalar ve bağlar da vermedin. Bu adamların gözlerini mi çıkaracaksın? Çıkmayacağız.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bizi süt ve bal akan bir diyara da getirmedin, miras olarak tarlalar ve bağlar da vermedin. Bu adamların gözlerini mi çıkaracaksın? Çıkmayacağız.”</div>",
+      "filename": "NUM_010_Verse_028.wav",
+      "transcript": "Ordularına göre İsrael'in çocuklarının yola çıkışları şöyleydi; ve onlar göç ettiler.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ordularına göre İsrael&#x27;in çocuklarının yola çıkışları şöyleydi; ve onlar göç ettiler.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/NUM_016_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/NUM_010_Verse_028.wav"
     }
   },
   {
     "data": {
       "task_uid": "00025",
-      "filename": "JOS_023_Verse_006.wav",
-      "transcript": "“Bu nedenle, Moşe'nin Yasa Kitabı'nda yazılı olan her şeyi tutmak ve yapmak için çok yürekli olun; ta ki, ondan sağa ya da sola sapmayasınız;",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Bu nedenle, Moşe&#x27;nin Yasa Kitabı&#x27;nda yazılı olan her şeyi tutmak ve yapmak için çok yürekli olun; ta ki, ondan sağa ya da sola sapmayasınız;</div>",
+      "filename": "JOS_017_Verse_015.wav",
+      "transcript": "Yeşu onlara şöyle dedi: \"Eğer kalabalıksan, Efraim'in dağlık bölgesi sana çok darsa, ormana çık ve Perizliler ve Refayim diyarında kendine yer aç.\"",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yeşu onlara şöyle dedi: &quot;Eğer kalabalıksan, Efraim&#x27;in dağlık bölgesi sana çok darsa, ormana çık ve Perizliler ve Refayim diyarında kendine yer aç.&quot;</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOS_023_Verse_006.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOS_017_Verse_015.wav"
     }
   },
   {
     "data": {
       "task_uid": "00026",
-      "filename": "JOS_011_Verse_021.wav",
-      "transcript": "O sırada Yeşu geldi ve Anaklılar'ı dağlık bölgeden, Hevron'dan, Devir'den, Anav'dan, Yahuda'nın bütün dağlık bölgesinden ve İsrael'in bütün dağlık bölgesinden söküp attı. Yeşu onları kentleriyle birlikte tümüyle yok etti.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">O sırada Yeşu geldi ve Anaklılar&#x27;ı dağlık bölgeden, Hevron&#x27;dan, Devir&#x27;den, Anav&#x27;dan, Yahuda&#x27;nın bütün dağlık bölgesinden ve İsrael&#x27;in bütün dağlık bölgesinden söküp attı. Yeşu onları kentleriyle birlikte tümüyle yok etti.</div>",
+      "filename": "JOB_031_Verse_013.wav",
+      "transcript": "“Eğer benimle çekiştikleri zaman, erkek ya da kadın kölemin davasını hor gördüysem,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Eğer benimle çekiştikleri zaman, erkek ya da kadın kölemin davasını hor gördüysem,</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOS_011_Verse_021.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOB_031_Verse_013.wav"
     }
   },
   {
     "data": {
       "task_uid": "00027",
-      "filename": "HEB_011_Verse_030.wav",
-      "transcript": "İsraelliler yedi gün boyunca Yeriha surları çevresinde döndükten sonra, imanları sayesinde surlar yıkıldı.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">İsraelliler yedi gün boyunca Yeriha surları çevresinde döndükten sonra, imanları sayesinde surlar yıkıldı.</div>",
+      "filename": "HAB_002_Verse_013.wav",
+      "transcript": "İşte, Ordular Yahvesi'nden değil mi ki, halklar ateş için çalışıyor, uluslar boşuna yoruluyor?",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">İşte, Ordular Yahvesi&#x27;nden değil mi ki, halklar ateş için çalışıyor, uluslar boşuna yoruluyor?</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/HEB_011_Verse_030.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/HAB_002_Verse_013.wav"
     }
   },
   {
     "data": {
       "task_uid": "00028",
-      "filename": "JER_002_Verse_006.wav",
-      "transcript": "“Bizi Mısır diyarından çıkaran, çölde, bozkırlar ve çukurlar diyarında, kuraklık ve ölüm gölgesi diyarında, hiç kimsenin geçmediği ve hiç kimsenin yaşamadığı bir diyarda bizi yürüten Yahve nerede?” demediler.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Bizi Mısır diyarından çıkaran, çölde, bozkırlar ve çukurlar diyarında, kuraklık ve ölüm gölgesi diyarında, hiç kimsenin geçmediği ve hiç kimsenin yaşamadığı bir diyarda bizi yürüten Yahve nerede?” demediler.</div>",
+      "filename": "ISA_029_Verse_014.wav",
+      "transcript": "bu nedenle işte, bu halk arasında harika bir iş, harika bir iş ve şaşılacak bir şey yapmaya devam edeceğim; ve onların bilge adamlarının bilgeliği yok olacak ve onların sağduyulu adamlarının anlayışı gizlenecek.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">bu nedenle işte, bu halk arasında harika bir iş, harika bir iş ve şaşılacak bir şey yapmaya devam edeceğim; ve onların bilge adamlarının bilgeliği yok olacak ve onların sağduyulu adamlarının anlayışı gizlenecek.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JER_002_Verse_006.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/ISA_029_Verse_014.wav"
     }
   },
   {
     "data": {
       "task_uid": "00029",
-      "filename": "NUM_018_Verse_012.wav",
-      "transcript": "\"Yahve'ye verdikleri yağın en iyisini, bağ bozumunun en iyisini, tahılın ve bunların ilk ürünlerini sana verdim.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">&quot;Yahve&#x27;ye verdikleri yağın en iyisini, bağ bozumunun en iyisini, tahılın ve bunların ilk ürünlerini sana verdim.</div>",
+      "filename": "NUM_016_Verse_014.wav",
+      "transcript": "Bizi süt ve bal akan bir diyara da getirmedin, miras olarak tarlalar ve bağlar da vermedin. Bu adamların gözlerini mi çıkaracaksın? Çıkmayacağız.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bizi süt ve bal akan bir diyara da getirmedin, miras olarak tarlalar ve bağlar da vermedin. Bu adamların gözlerini mi çıkaracaksın? Çıkmayacağız.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/NUM_018_Verse_012.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/NUM_016_Verse_014.wav"
     }
   },
   {
@@ -312,21 +312,21 @@
   {
     "data": {
       "task_uid": "00031",
-      "filename": "MAT_003_Verse_008.wav",
-      "transcript": "Bu nedenle tövbeye layık meyveler verin!",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bu nedenle tövbeye layık meyveler verin!</div>",
+      "filename": "LUK_011_Verse_015.wav",
+      "transcript": "Ama içlerinden bazıları, “İblisleri iblislerin önderi Baalzevul aracılığıyla kovuyor” dediler.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ama içlerinden bazıları, “İblisleri iblislerin önderi Baalzevul aracılığıyla kovuyor” dediler.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/MAT_003_Verse_008.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LUK_011_Verse_015.wav"
     }
   },
   {
     "data": {
       "task_uid": "00032",
-      "filename": "LEV_008_Verse_010.wav",
-      "transcript": "Moşe mesh yağını aldı, konutu ve içindekilerin hepsini meshedip kutsal kıldı.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Moşe mesh yağını aldı, konutu ve içindekilerin hepsini meshedip kutsal kıldı.</div>",
+      "filename": "LEV_006_Verse_021.wav",
+      "transcript": "Tavada yağla yapılacak. Yağı iyice çekince onu içeri getireceksin. Ekmek sunusunu Yahve'ye hoş koku olarak, pişmiş parçalar halinde sunacaksın.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Tavada yağla yapılacak. Yağı iyice çekince onu içeri getireceksin. Ekmek sunusunu Yahve&#x27;ye hoş koku olarak, pişmiş parçalar halinde sunacaksın.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LEV_008_Verse_010.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LEV_006_Verse_021.wav"
     }
   },
   {
@@ -342,11 +342,11 @@
   {
     "data": {
       "task_uid": "00034",
-      "filename": "EXO_036_Verse_008.wav",
-      "transcript": "İşi yapanların arasındaki bilge yürekli kişilerin tümü, konutu mavi, mor ve kırmızı renkte, özenle dokunmuş ince ketenden on perdeyle yaptı. Bunları usta işi Keruvlar'la yaptılar.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">İşi yapanların arasındaki bilge yürekli kişilerin tümü, konutu mavi, mor ve kırmızı renkte, özenle dokunmuş ince ketenden on perdeyle yaptı. Bunları usta işi Keruvlar&#x27;la yaptılar.</div>",
+      "filename": "EXO_035_Verse_034.wav",
+      "transcript": "Hem kendisinin hem de Dan oymağından Ahisamak oğlu Oholiav'ın öğretmesini onun yüreğine koydu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hem kendisinin hem de Dan oymağından Ahisamak oğlu Oholiav&#x27;ın öğretmesini onun yüreğine koydu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EXO_036_Verse_008.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EXO_035_Verse_034.wav"
     }
   },
   {
@@ -382,21 +382,21 @@
   {
     "data": {
       "task_uid": "00038",
-      "filename": "JOB_031_Verse_013.wav",
-      "transcript": "“Eğer benimle çekiştikleri zaman, erkek ya da kadın kölemin davasını hor gördüysem,",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Eğer benimle çekiştikleri zaman, erkek ya da kadın kölemin davasını hor gördüysem,</div>",
+      "filename": "JOB_003_Verse_006.wav",
+      "transcript": "O geceye gelince, onu koyu karanlık yakalasın. Yılın günleri arasında sevinmesin. Ayların sayısına girmesin.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">O geceye gelince, onu koyu karanlık yakalasın. Yılın günleri arasında sevinmesin. Ayların sayısına girmesin.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOB_031_Verse_013.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/JOB_003_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00039",
-      "filename": "MAT_019_Verse_020.wav",
-      "transcript": "Genç adam Yeşua’ya, “Bütün bunları gençliğimden beri tuttum. Hâlâ ne eksiğim var ki?” dedi.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Genç adam Yeşua’ya, “Bütün bunları gençliğimden beri tuttum. Hâlâ ne eksiğim var ki?” dedi.</div>",
+      "filename": "MAT_003_Verse_008.wav",
+      "transcript": "Bu nedenle tövbeye layık meyveler verin!",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bu nedenle tövbeye layık meyveler verin!</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/MAT_019_Verse_020.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/MAT_003_Verse_008.wav"
     }
   },
   {
@@ -412,11 +412,11 @@
   {
     "data": {
       "task_uid": "00041",
-      "filename": "LEV_018_Verse_022.wav",
-      "transcript": "\"'Bir erkekle kadınla yatar gibi yatmayacaksın. Bu iğrenç bir şeydir.'\"",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">&quot;&#x27;Bir erkekle kadınla yatar gibi yatmayacaksın. Bu iğrenç bir şeydir.&#x27;&quot;</div>",
+      "filename": "LEV_010_Verse_014.wav",
+      "transcript": "Sallama döşünü ve kaldırma budunu, sen, oğulların ve kızlarınla birlikte temiz bir yerde yiyeceksiniz; çünkü bunlar, İsrael'in çocuklarının esenlik sunularının kurbanlarından sana ve oğullarınıza pay olarak verildi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Sallama döşünü ve kaldırma budunu, sen, oğulların ve kızlarınla birlikte temiz bir yerde yiyeceksiniz; çünkü bunlar, İsrael&#x27;in çocuklarının esenlik sunularının kurbanlarından sana ve oğullarınıza pay olarak verildi.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LEV_018_Verse_022.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/LEV_010_Verse_014.wav"
     }
   },
   {
@@ -442,6 +442,16 @@
   {
     "data": {
       "task_uid": "00044",
+      "filename": "EXO_036_Verse_008.wav",
+      "transcript": "İşi yapanların arasındaki bilge yürekli kişilerin tümü, konutu mavi, mor ve kırmızı renkte, özenle dokunmuş ince ketenden on perdeyle yaptı. Bunları usta işi Keruvlar'la yaptılar.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">İşi yapanların arasındaki bilge yürekli kişilerin tümü, konutu mavi, mor ve kırmızı renkte, özenle dokunmuş ince ketenden on perdeyle yaptı. Bunları usta işi Keruvlar&#x27;la yaptılar.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EXO_036_Verse_008.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00045",
       "filename": "EZK_042_Verse_005.wav",
       "transcript": "Üst odalar daha dardı; çünkü koridorlar binadaki alt ve ortalardan daha fazlasını alıyordu.",
       "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Üst odalar daha dardı; çünkü koridorlar binadaki alt ve ortalardan daha fazlasını alıyordu.</div>",
@@ -451,22 +461,12 @@
   },
   {
     "data": {
-      "task_uid": "00045",
-      "filename": "EZK_044_Verse_006.wav",
-      "transcript": "O asilere, İsrael evine diyeceksin, ‘Efendi Yahve şöyle diyor: \"Ey İsrael evi, bütün iğrençlikleriniz yeter,",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">O asilere, İsrael evine diyeceksin, ‘Efendi Yahve şöyle diyor: &quot;Ey İsrael evi, bütün iğrençlikleriniz yeter,</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EZK_044_Verse_006.wav"
-    }
-  },
-  {
-    "data": {
       "task_uid": "00046",
-      "filename": "GAL_006_Verse_005.wav",
-      "transcript": "Herkes kendi yükünü taşıyacaktır.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Herkes kendi yükünü taşıyacaktır.</div>",
+      "filename": "EZK_048_Verse_030.wav",
+      "transcript": "“Kentin çıkışları şunlardır: Kuzey tarafında ölçüye göre dört bin beş yüz kamış;",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Kentin çıkışları şunlardır: Kuzey tarafında ölçüye göre dört bin beş yüz kamış;</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/GAL_006_Verse_005.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/EZK_048_Verse_030.wav"
     }
   },
   {
@@ -482,21 +482,21 @@
   {
     "data": {
       "task_uid": "00048",
-      "filename": "ACT_017_Verse_034.wav",
-      "transcript": "Ama bazı kimseler ona katılıp iman ettiler. Bunların arasında kurul üyesi Dionisios, Damaris adında bir kadın ve onlarla birlikte başkaları da vardı.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ama bazı kimseler ona katılıp iman ettiler. Bunların arasında kurul üyesi Dionisios, Damaris adında bir kadın ve onlarla birlikte başkaları da vardı.</div>",
+      "filename": "ACT_009_Verse_032.wav",
+      "transcript": "Her yanı dolaşan Petrus, Lidda’da yaşayan kutsallara da indi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Her yanı dolaşan Petrus, Lidda’da yaşayan kutsallara da indi.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/ACT_017_Verse_034.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/ACT_009_Verse_032.wav"
     }
   },
   {
     "data": {
       "task_uid": "00049",
-      "filename": "NUM_010_Verse_028.wav",
-      "transcript": "Ordularına göre İsrael'in çocuklarının yola çıkışları şöyleydi; ve onlar göç ettiler.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ordularına göre İsrael&#x27;in çocuklarının yola çıkışları şöyleydi; ve onlar göç ettiler.</div>",
+      "filename": "MIC_001_Verse_008.wav",
+      "transcript": "Bundan ötürü ağıt yakıp dövüneceğim. Soyunmuş ve çıplak olarak gideceğim. Çakallar gibi uluyacağım, ve devekuşları gibi yas tutacağım.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bundan ötürü ağıt yakıp dövüneceğim. Soyunmuş ve çıplak olarak gideceğim. Çakallar gibi uluyacağım, ve devekuşları gibi yas tutacağım.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Turkish</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/NUM_010_Verse_028.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Turkish/MIC_001_Verse_008.wav"
     }
   }
 ]

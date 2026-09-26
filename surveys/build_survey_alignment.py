@@ -95,7 +95,7 @@ LOCATION_CHOICES = [
 
 TRACKING_COLUMNS = [
     "filename", "book", "chapter", "verse", "duration_seconds", "speaker_id",
-    "lens_ratio_z", "is_first_verse", "heading_before", "heading_after", "is_verse_range",
+    "lens_ratio_z", "lead_silence_ms", "trail_silence_ms", "is_first_verse", "heading_before", "heading_after", "is_verse_range",
 ]
 
 DEFAULT_BASE_URL = "https://app.humansignal.com"

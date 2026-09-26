@@ -24,14 +24,18 @@ For options 2–4, two follow-ups appear: **where** the problem is (start / midd
 
 ### Sampling
 
-Every released verse already passed the outlier filter in open-bible-resources, which drops verses whose seconds-per-character ratio is more than 3 standard deviations from the language mean. To survey well-aligned data rather than borderline cuts, we keep the **20% of `train` verses closest to the mean speaking rate** (smallest |z| of that same ratio) and draw 50 verses at random from that pool (seed 42). Results therefore describe the typical part of each corpus, not a uniform sample of it, which is how this differs from the paper's fully random sample. Verses already used as reference recordings in the [TTS listening test](https://github.com/davidguzmanr/open-bible-surveys) are excluded.
+Every released verse already passed the outlier filter in open-bible-resources, which drops verses whose seconds-per-character ratio is more than 3 standard deviations from the language mean. To survey well-aligned data rather than borderline cuts, we keep the **20% of `train` verses closest to the mean speaking rate** (smallest |z| of that same ratio) and draw verses from that pool in random order (seed 42).
+
+The aligner cuts each verse exactly at its predicted boundary with no padding, so a small boundary error leaves part of a syllable from the neighbouring verse (or a clipped word) at the very start or end of the clip. This survey is about word-level errors, so a candidate is kept only if the **first and last 100 ms of the clip are silent**; others are skipped until 50 verses pass. Silence is decided per clip with an energy threshold that adapts to its noise floor (`edge_silence_ms` in `scripts/sample_verses.py`). The share of candidates that pass varies a lot by language: about 80–94% for most, 36% for Kikuyu, 23% for Luganda and 9% for Shona, whose clips are usually cut inside speech.
+
+Results therefore describe the typical, cleanly cut part of each corpus, not a uniform sample of it, which is how this differs from the paper's fully random sample. Verses already used as reference recordings in the [TTS listening test](https://github.com/davidguzmanr/open-bible-surveys) are excluded.
 
 Each verse is tagged from the source USX text with the situations where forced alignment is most likely to fail: `is_first_verse` (after the spoken chapter announcement), `heading_before` / `heading_after` (a section heading or Psalm title is next to the verse; headings are not in the aligned text, so if they are read aloud they leak into a neighbouring clip) and `is_verse_range` (merged verses such as 3–4).
 
 ## Structure
 
 ```
-data/{language}.csv                 sampled verses: text, metadata, speaking-rate z-score, tags
+data/{language}.csv                 sampled verses: text, metadata, speaking-rate z-score, edge silence, tags
 audios/{language}/*.wav             original 22.05 kHz clips from the dataset
 humanalign/{language}/
     labeling_config_{lang}.xml      paste into the Label Studio labeling config

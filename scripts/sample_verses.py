@@ -15,8 +15,18 @@ the seconds-per-character ratio `duration / len(text)` per language and drops
 anything beyond 3 standard deviations. We rank verses by |z| of that same
 ratio, keep the TYPICAL_FRACTION closest to the language mean, and draw the
 sample at random from that pool. This skips borderline segments while keeping
-the sample varied across books, speakers and lengths. Results therefore
-describe the typical part of the corpus, not a uniform sample of it.
+the sample varied across books, speakers and lengths.
+
+Clean edges: the aligner cuts each verse exactly at its predicted boundary, with
+no padding, so small boundary errors leave a syllable of the neighbouring verse
+(or a clipped word) right at the start or end of the clip. The survey targets
+word-level errors, so candidates are drawn from the pool in random order and
+kept only if both the first and the last MIN_EDGE_SILENCE_MS of the clip are
+silent (see edge_silence_ms). Rejected candidates are skipped until n verses
+pass.
+
+Results therefore describe the typical, cleanly cut part of the corpus, not a
+uniform sample of it.
 
 Verses used as reference recordings in the TTS listening test
 (open-bible-surveys/audios/open-bible/{language}.csv) are excluded.
@@ -37,11 +47,14 @@ Usage:
 """
 
 import argparse
+import io
 import re
+import wave
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 from datasets import Audio, load_dataset
 
@@ -70,6 +83,18 @@ LANGUAGES = [
 N_SAMPLES = 50
 TYPICAL_FRACTION = 0.20
 SEED = 42
+
+# Edge-silence filter. Frame energy is measured with FRAME_MS windows every
+# HOP_MS. A frame is "sound" if it is louder than the higher of
+#   noise floor (10th percentile of frame dB) + NOISE_MARGIN_DB   and
+#   speech level (95th percentile) - SPEECH_RANGE_DB,
+# so the threshold adapts to recordings with audible room noise (e.g. Turkish,
+# whose pauses sit around -60 dBFS) as well as to digitally silent ones.
+MIN_EDGE_SILENCE_MS = 100
+FRAME_MS = 20
+HOP_MS = 10
+NOISE_MARGIN_DB = 15.0
+SPEECH_RANGE_DB = 40.0
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 RESOURCES_ROOT = REPO_ROOT.parent / "open-bible-resources"
@@ -175,14 +200,56 @@ def tts_reference_verses(language: str) -> set[str]:
     return set(pd.read_csv(csv_path)["filename"])
 
 
-def select_typical(df: pd.DataFrame, n: int, fraction: float, seed: int) -> pd.DataFrame:
-    """Random n from the `fraction` of rows whose speaking rate is closest to the mean."""
+def edge_silence_ms(wav_bytes: bytes) -> tuple[int, int]:
+    """Milliseconds of silence before the first and after the last sound frame."""
+    with wave.open(io.BytesIO(wav_bytes)) as w:
+        assert w.getsampwidth() == 2 and w.getnchannels() == 1, "expected 16-bit mono WAV"
+        sr = w.getframerate()
+        x = np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16).astype(np.float32) / 32768
+    win, hop = sr * FRAME_MS // 1000, sr * HOP_MS // 1000
+    if len(x) < win:
+        return 0, 0
+    frames = np.lib.stride_tricks.sliding_window_view(x, win)[::hop]
+    db = 10 * np.log10(np.mean(frames ** 2, axis=1) + 1e-12)
+    threshold = max(np.percentile(db, 10) + NOISE_MARGIN_DB, np.percentile(db, 95) - SPEECH_RANGE_DB)
+    sound = np.flatnonzero(db > threshold)
+    if len(sound) == 0:
+        return 0, 0
+    return int(sound[0] * HOP_MS), int((len(db) - 1 - sound[-1]) * HOP_MS)
+
+
+def typical_pool(df: pd.DataFrame, n: int, fraction: float) -> pd.DataFrame:
+    """The `fraction` of rows whose speaking rate is closest to the language mean."""
     df = df.copy()
     df["lens_ratio"] = df["duration_seconds"] / df["text"].str.len()
     df["lens_ratio_z"] = (df["lens_ratio"] - df["lens_ratio"].mean()) / df["lens_ratio"].std()
     pool = df.loc[df["lens_ratio_z"].abs().rank(method="first") <= max(n, round(fraction * len(df)))]
     print(f"  Typical pool: {len(pool)} / {len(df)} verses (|z| <= {pool['lens_ratio_z'].abs().max():.3f})")
-    return pool.sample(n=n, random_state=seed).sort_values("filename")
+    return pool
+
+
+def select_clean_edges(ds, pool: pd.DataFrame, n: int, seed: int, min_silence_ms: int) -> tuple[pd.DataFrame, dict]:
+    """
+    Walk the pool in a seeded random order and keep the first n verses whose
+    clip starts and ends with at least `min_silence_ms` of silence. Returns the
+    sample (with lead/trail silence columns) and {filename: wav bytes}.
+    """
+    kept, audio_bytes, checked = [], {}, 0
+    for _, row in pool.sample(frac=1, random_state=seed).iterrows():
+        audio = ds[int(row["row_idx"])]["audio"]
+        assert Path(audio["path"]).name == row["filename"], (audio["path"], row["filename"])
+        checked += 1
+        lead, trail = edge_silence_ms(audio["bytes"])
+        if lead >= min_silence_ms and trail >= min_silence_ms:
+            kept.append({**row.to_dict(), "lead_silence_ms": lead, "trail_silence_ms": trail})
+            audio_bytes[row["filename"]] = audio["bytes"]
+            if len(kept) == n:
+                break
+    print(f"  Clean edges (>= {min_silence_ms} ms silence at both ends): kept {len(kept)} of {checked} checked "
+          f"({100 * len(kept) / checked:.0f}%)")
+    if len(kept) < n:
+        print(f"  WARNING: only {len(kept)} verses in the pool pass the edge-silence filter.", file=sys.stderr)
+    return pd.DataFrame(kept).sort_values("filename"), audio_bytes
 
 
 def process_language(language: str, args: argparse.Namespace) -> None:
@@ -205,22 +272,23 @@ def process_language(language: str, args: argparse.Namespace) -> None:
         print(f"  Excluding {overlap.sum()} verses used in the TTS listening test")
     df = df[~overlap]
 
-    sample = select_typical(df, n=args.n, fraction=args.typical_fraction, seed=args.seed)
+    pool = typical_pool(df, n=args.n, fraction=args.typical_fraction)
+    sample, audio_bytes = select_clean_edges(
+        ds, pool, n=args.n, seed=args.seed, min_silence_ms=args.min_edge_silence_ms
+    )
     sample = add_usx_tags(sample, language)
 
     audio_dir = REPO_ROOT / "audios" / language
     audio_dir.mkdir(parents=True, exist_ok=True)
     for f in audio_dir.glob("*.wav"):
         f.unlink()
-    for row_idx, filename in zip(sample["row_idx"], sample["filename"]):
-        audio = ds[int(row_idx)]["audio"]
-        assert Path(audio["path"]).name == filename, (audio["path"], filename)
-        (audio_dir / filename).write_bytes(audio["bytes"])
+    for filename in sample["filename"]:
+        (audio_dir / filename).write_bytes(audio_bytes[filename])
     print(f"  Saved {len(sample)} clips to {audio_dir.relative_to(REPO_ROOT)}/")
 
     columns = [
         "filename", "text", "testament", "book", "chapter", "verse", "duration_seconds",
-        "speaker_id", "row_idx", "lens_ratio", "lens_ratio_z",
+        "speaker_id", "row_idx", "lens_ratio", "lens_ratio_z", "lead_silence_ms", "trail_silence_ms",
         "is_first_verse", "heading_before", "heading_after", "is_verse_range",
     ]
     csv_path = REPO_ROOT / "data" / f"{language}.csv"
@@ -238,6 +306,10 @@ def main() -> None:
     parser.add_argument(
         "--typical-fraction", type=float, default=TYPICAL_FRACTION,
         help=f"Share of verses closest to the mean speaking rate to sample from (default: {TYPICAL_FRACTION}).",
+    )
+    parser.add_argument(
+        "--min-edge-silence-ms", type=int, default=MIN_EDGE_SILENCE_MS,
+        help=f"Silence required at both ends of a clip; 0 disables the filter (default: {MIN_EDGE_SILENCE_MS}).",
     )
     parser.add_argument("--seed", type=int, default=SEED, help=f"Random seed (default: {SEED}).")
     args = parser.parse_args()

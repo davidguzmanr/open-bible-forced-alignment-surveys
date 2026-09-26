@@ -2,16 +2,6 @@
   {
     "data": {
       "task_uid": "00000",
-      "filename": "LAM_005_Verse_010.wav",
-      "transcript": "Koshay suulleedda gaasuwaan harggina, nu galbbay tamaa c'ooc'iyaadan michchee.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koshay suulleedda gaasuwaan harggina, nu galbbay tamaa c&#x27;ooc&#x27;iyaadan michchee.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LAM_005_Verse_010.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00001",
       "filename": "JOS_006_Verse_011.wav",
       "transcript": "Yaatiide Med'ina Godaa K'aalaa c'aak'uwa Taabootay tookettiide, he katamaa itti gede yuuyyi aad'd'anaadan ootseedda. Hewaappe guyyiyaan Asay bare dunkkaaneedda sa'aa simmiide, k'ammaa yaan ak'eeda.",
       "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yaatiide Med&#x27;ina Godaa K&#x27;aalaa c&#x27;aak&#x27;uwa Taabootay tookettiide, he katamaa itti gede yuuyyi aad&#x27;d&#x27;anaadan ootseedda. Hewaappe guyyiyaan Asay bare dunkkaaneedda sa&#x27;aa simmiide, k&#x27;ammaa yaan ak&#x27;eeda.</div>",
@@ -21,32 +11,42 @@
   },
   {
     "data": {
-      "task_uid": "00002",
-      "filename": "JHN_005_Verse_034.wav",
-      "transcript": "Taani hewaa hinttentta attino gaade giyaawaappe attin, asaa markkatetsay taw koshshina gidenna.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Taani hewaa hinttentta attino gaade giyaawaappe attin, asaa markkatetsay taw koshshina gidenna.</div>",
+      "task_uid": "00001",
+      "filename": "JHN_008_Verse_053.wav",
+      "transcript": "Neeni hayk'k'eedda nu aawuwaa Abraahaamoppe daray? Nabatuu k'ay hayk'k'eeddino. Neeni neena oona gaade k'oppay?» yaageeddino.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Neeni hayk&#x27;k&#x27;eedda nu aawuwaa Abraahaamoppe daray? Nabatuu k&#x27;ay hayk&#x27;k&#x27;eeddino. Neeni neena oona gaade k&#x27;oppay?» yaageeddino.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JHN_005_Verse_034.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JHN_008_Verse_053.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00002",
+      "filename": "JER_036_Verse_016.wav",
+      "transcript": "I nabbabeedda k'aalaa ubbaa siseeddino; ubbaykka yayyiide, Ittuu ittuwaa s'eelliide, Baaroka, «Ha k'aalaa ubbaa nuuni kaatiyaw odanaw koshshee» yaageeddino.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">I nabbabeedda k&#x27;aalaa ubbaa siseeddino; ubbaykka yayyiide, Ittuu ittuwaa s&#x27;eelliide, Baaroka, «Ha k&#x27;aalaa ubbaa nuuni kaatiyaw odanaw koshshee» yaageeddino.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JER_036_Verse_016.wav"
     }
   },
   {
     "data": {
       "task_uid": "00003",
-      "filename": "EZK_042_Verse_012.wav",
-      "transcript": "Dirssaa gimbbii wuriyaa away doliyaa bagga gas'aappe doomiide gimbbi doommiyaa gedissa baggana de'iyaa kifiletuwaa geliyaa penggii de'ee.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Dirssaa gimbbii wuriyaa away doliyaa bagga gas&#x27;aappe doomiide gimbbi doommiyaa gedissa baggana de&#x27;iyaa kifiletuwaa geliyaa penggii de&#x27;ee.</div>",
+      "filename": "EZK_031_Verse_002.wav",
+      "transcript": "«Laa asaa na'aw, Gibs'e kaatiyawunne asaa ubbaw hawaadan yaagaade oda; ‹Ne gitatetsan neena taani oonana likkoo?",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">«Laa asaa na&#x27;aw, Gibs&#x27;e kaatiyawunne asaa ubbaw hawaadan yaagaade oda; ‹Ne gitatetsan neena taani oonana likkoo?</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EZK_042_Verse_012.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EZK_031_Verse_002.wav"
     }
   },
   {
     "data": {
       "task_uid": "00004",
-      "filename": "2KI_018_Verse_003.wav",
-      "transcript": "Aa mayza aawuwaa Daawite ootseeddawaadan, Hizk'k'iyaasikka Med'ina Godaa sintsan suurebaa ootseedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Aa mayza aawuwaa Daawite ootseeddawaadan, Hizk&#x27;k&#x27;iyaasikka Med&#x27;ina Godaa sintsan suurebaa ootseedda.</div>",
+      "filename": "DEU_014_Verse_014.wav",
+      "transcript": "k'uuruwaa zare ubbaa,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">k&#x27;uuruwaa zare ubbaa,</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/2KI_018_Verse_003.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/DEU_014_Verse_014.wav"
     }
   },
   {
@@ -62,116 +62,6 @@
   {
     "data": {
       "task_uid": "00006",
-      "filename": "LUK_002_Verse_025.wav",
-      "transcript": "He wode s'illonne genc'c'a gideedda Simoona geetettiyaa itti bitanii Yerusaalamen de'ee. Ikka, Israa'eeliyaa asaw atotetsaa hidootaa naagiyaawaanne Ayaanaa Geeshshay Aa bollaan shemppeedda asaa.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">He wode s&#x27;illonne genc&#x27;c&#x27;a gideedda Simoona geetettiyaa itti bitanii Yerusaalamen de&#x27;ee. Ikka, Israa&#x27;eeliyaa asaw atotetsaa hidootaa naagiyaawaanne Ayaanaa Geeshshay Aa bollaan shemppeedda asaa.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LUK_002_Verse_025.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00007",
-      "filename": "EXO_009_Verse_026.wav",
-      "transcript": "Shachchay wod'd'ibeenna gadii Israa'eelatuu utteedda Goshena gadiyaa s'alala.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Shachchay wod&#x27;d&#x27;ibeenna gadii Israa&#x27;eelatuu utteedda Goshena gadiyaa s&#x27;alala.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EXO_009_Verse_026.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00008",
-      "filename": "LUK_016_Verse_024.wav",
-      "transcript": "«Ikka bare kooshshaa d'ok'k'u ootsiide, ‹Abraahaamo, ta aabboo, taw k'aretta. Ha tamaa seelaan metoota de'iyaa diraw, Ali'aazar bare birad'd'iyaa s'eeraa haatsaan bochchiide, ta ins's'arssaa irs's'issanaadan hayyanaa taakko kiittaarikkii› yaageedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">«Ikka bare kooshshaa d&#x27;ok&#x27;k&#x27;u ootsiide, ‹Abraahaamo, ta aabboo, taw k&#x27;aretta. Ha tamaa seelaan metoota de&#x27;iyaa diraw, Ali&#x27;aazar bare birad&#x27;d&#x27;iyaa s&#x27;eeraa haatsaan bochchiide, ta ins&#x27;s&#x27;arssaa irs&#x27;s&#x27;issanaadan hayyanaa taakko kiittaarikkii› yaageedda.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LUK_016_Verse_024.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00009",
-      "filename": "JER_017_Verse_019.wav",
-      "transcript": "Med'inaa Goday taana hawaadan yaageedda; «Ba, Yihudaa kaatetuu katamaa geliyaanne kesiyaa Asay geliyaa penggiyaaninne hara Yerusaalame penggetuwaa ubbaan baade ek'k'a.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Med&#x27;inaa Goday taana hawaadan yaageedda; «Ba, Yihudaa kaatetuu katamaa geliyaanne kesiyaa Asay geliyaa penggiyaaninne hara Yerusaalame penggetuwaa ubbaan baade ek&#x27;k&#x27;a.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JER_017_Verse_019.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00010",
-      "filename": "MAT_006_Verse_008.wav",
-      "transcript": "Hewaa diraw, he asaadan hanoppite; ayaw gooppe, hintte Aabbu hinttena koshshiyaawaa hinttenttu woossanaappe kasetiide eree.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hewaa diraw, he asaadan hanoppite; ayaw gooppe, hintte Aabbu hinttena koshshiyaawaa hinttenttu woossanaappe kasetiide eree.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MAT_006_Verse_008.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00011",
-      "filename": "JHN_008_Verse_053.wav",
-      "transcript": "Neeni hayk'k'eedda nu aawuwaa Abraahaamoppe daray? Nabatuu k'ay hayk'k'eeddino. Neeni neena oona gaade k'oppay?» yaageeddino.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Neeni hayk&#x27;k&#x27;eedda nu aawuwaa Abraahaamoppe daray? Nabatuu k&#x27;ay hayk&#x27;k&#x27;eeddino. Neeni neena oona gaade k&#x27;oppay?» yaageeddino.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JHN_008_Verse_053.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00012",
-      "filename": "EZK_048_Verse_004.wav",
-      "transcript": "Nifttaaleema zawaanna oyk'k'ettiide, away doliyaa baggappe away wulliyaa gakkanaw de'iyaa itti saamay Minaase zariyaw imetto.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nifttaaleema zawaanna oyk&#x27;k&#x27;ettiide, away doliyaa baggappe away wulliyaa gakkanaw de&#x27;iyaa itti saamay Minaase zariyaw imetto.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EZK_048_Verse_004.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00013",
-      "filename": "2CH_009_Verse_008.wav",
-      "transcript": "Neenan nashettiidde, neena bare kawutetsaa araatan utisseedda Med'inaa Goday ne S'oossay galatetto! Ne Med'inaa Goday Israa'eeliyaa asaa siik'eedda dirawunne med'inaw loytsi essanaw koyowaa diraw, neeni suure pirddaanne s'illotetsaa ootsana mala, I neena unttunttu bolla kaateyeedda» yaagaaddu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Neenan nashettiidde, neena bare kawutetsaa araatan utisseedda Med&#x27;inaa Goday ne S&#x27;oossay galatetto! Ne Med&#x27;inaa Goday Israa&#x27;eeliyaa asaa siik&#x27;eedda dirawunne med&#x27;inaw loytsi essanaw koyowaa diraw, neeni suure pirddaanne s&#x27;illotetsaa ootsana mala, I neena unttunttu bolla kaateyeedda» yaagaaddu.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/2CH_009_Verse_008.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00014",
-      "filename": "PSA_029_Verse_011.wav",
-      "transcript": "Med'inaa Goday bare asaw wolk'k'aa immee. Med'inaa Goday bare asaa sarotetsaan anjjee.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Med&#x27;inaa Goday bare asaw wolk&#x27;k&#x27;aa immee. Med&#x27;inaa Goday bare asaa sarotetsaan anjjee.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PSA_029_Verse_011.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00015",
-      "filename": "PRO_016_Verse_005.wav",
-      "transcript": "Med'inaa Goday otorettiyaa ubbaa shenetee; unttunttu murettenan attikkino.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Med&#x27;inaa Goday otorettiyaa ubbaa shenetee; unttunttu murettenan attikkino.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PRO_016_Verse_005.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00016",
-      "filename": "EXO_027_Verse_019.wav",
-      "transcript": "«S'oossaa Dunkkaaniyaan ootsiyaa oosoo go'ettiyaa miishshaa ubbay, unttunttu go\"ay ayaa gidooppenne, S'oossaa Dunkkaaniyaa d'ogetu ubbaananne dabaabaa d'ogetu ubbaannakka gujjina, nahaasiyaa birataappe med'ettiino.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">«S&#x27;oossaa Dunkkaaniyaan ootsiyaa oosoo go&#x27;ettiyaa miishshaa ubbay, unttunttu go&quot;ay ayaa gidooppenne, S&#x27;oossaa Dunkkaaniyaa d&#x27;ogetu ubbaananne dabaabaa d&#x27;ogetu ubbaannakka gujjina, nahaasiyaa birataappe med&#x27;ettiino.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EXO_027_Verse_019.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00017",
       "filename": "JOS_021_Verse_015.wav",
       "transcript": "Holoonanne Aa hentsaa gadetuwaa, Dabiiranne Aa hentsaa gadetuwaa,",
       "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Holoonanne Aa hentsaa gadetuwaa, Dabiiranne Aa hentsaa gadetuwaa,</div>",
@@ -181,12 +71,122 @@
   },
   {
     "data": {
-      "task_uid": "00018",
-      "filename": "MRK_006_Verse_050.wav",
-      "transcript": "Ayaw gooppe, unttunttu ubbay Aa be'iide, yashshaa kokkoreeddino; shin ellekka Yesuusi unttuntta, «Ayinne baawa; taanattennee yayyoppite» yaageedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ayaw gooppe, unttunttu ubbay Aa be&#x27;iide, yashshaa kokkoreeddino; shin ellekka Yesuusi unttuntta, «Ayinne baawa; taanattennee yayyoppite» yaageedda.</div>",
+      "task_uid": "00007",
+      "filename": "EXO_027_Verse_019.wav",
+      "transcript": "«S'oossaa Dunkkaaniyaan ootsiyaa oosoo go'ettiyaa miishshaa ubbay, unttunttu go\"ay ayaa gidooppenne, S'oossaa Dunkkaaniyaa d'ogetu ubbaananne dabaabaa d'ogetu ubbaannakka gujjina, nahaasiyaa birataappe med'ettiino.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">«S&#x27;oossaa Dunkkaaniyaan ootsiyaa oosoo go&#x27;ettiyaa miishshaa ubbay, unttunttu go&quot;ay ayaa gidooppenne, S&#x27;oossaa Dunkkaaniyaa d&#x27;ogetu ubbaananne dabaabaa d&#x27;ogetu ubbaannakka gujjina, nahaasiyaa birataappe med&#x27;ettiino.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MRK_006_Verse_050.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EXO_027_Verse_019.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00008",
+      "filename": "LUK_009_Verse_043.wav",
+      "transcript": "Asay ubbaykka S'oossaa wolk'k'aama wolk'k'aappe denddowaan maalaletteeddino.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Asay ubbaykka S&#x27;oossaa wolk&#x27;k&#x27;aama wolk&#x27;k&#x27;aappe denddowaan maalaletteeddino.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LUK_009_Verse_043.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00009",
+      "filename": "JDG_003_Verse_028.wav",
+      "transcript": "Unttuntta, «Taana kaallite; ayaw gooppe, Med'inaa Goday hinttenttu morkkatuwaa, Moo'aabatuwaa hinttenttu kushiyan aatsiide immeedda» yaageedda. Aa kaalliide wod'd'iide, Yorddaanoosa Shaafaa pinniyaa sa'atuwaa oyk'k'eeddino; Moo'aabe asaappe itti uraynne hewaana aad'd'enaaddan te\"eeddino.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Unttuntta, «Taana kaallite; ayaw gooppe, Med&#x27;inaa Goday hinttenttu morkkatuwaa, Moo&#x27;aabatuwaa hinttenttu kushiyan aatsiide immeedda» yaageedda. Aa kaalliide wod&#x27;d&#x27;iide, Yorddaanoosa Shaafaa pinniyaa sa&#x27;atuwaa oyk&#x27;k&#x27;eeddino; Moo&#x27;aabe asaappe itti uraynne hewaana aad&#x27;d&#x27;enaaddan te&quot;eeddino.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JDG_003_Verse_028.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00010",
+      "filename": "LUK_017_Verse_027.wav",
+      "transcript": "Nohe markkabiyaa gelo gallassay gakkanaw unttunttu, miiddinne ushiidde, akkiiddinne akettiidde de'ishshin, bashshaa haatsay yiide ubbaa asaakka bayizzeedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nohe markkabiyaa gelo gallassay gakkanaw unttunttu, miiddinne ushiidde, akkiiddinne akettiidde de&#x27;ishshin, bashshaa haatsay yiide ubbaa asaakka bayizzeedda.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LUK_017_Verse_027.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00011",
+      "filename": "JHN_005_Verse_034.wav",
+      "transcript": "Taani hewaa hinttentta attino gaade giyaawaappe attin, asaa markkatetsay taw koshshina gidenna.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Taani hewaa hinttentta attino gaade giyaawaappe attin, asaa markkatetsay taw koshshina gidenna.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JHN_005_Verse_034.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00012",
+      "filename": "EZK_042_Verse_012.wav",
+      "transcript": "Dirssaa gimbbii wuriyaa away doliyaa bagga gas'aappe doomiide gimbbi doommiyaa gedissa baggana de'iyaa kifiletuwaa geliyaa penggii de'ee.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Dirssaa gimbbii wuriyaa away doliyaa bagga gas&#x27;aappe doomiide gimbbi doommiyaa gedissa baggana de&#x27;iyaa kifiletuwaa geliyaa penggii de&#x27;ee.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EZK_042_Verse_012.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00013",
+      "filename": "2KI_018_Verse_003.wav",
+      "transcript": "Aa mayza aawuwaa Daawite ootseeddawaadan, Hizk'k'iyaasikka Med'ina Godaa sintsan suurebaa ootseedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Aa mayza aawuwaa Daawite ootseeddawaadan, Hizk&#x27;k&#x27;iyaasikka Med&#x27;ina Godaa sintsan suurebaa ootseedda.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/2KI_018_Verse_003.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00014",
+      "filename": "PRO_016_Verse_005.wav",
+      "transcript": "Med'inaa Goday otorettiyaa ubbaa shenetee; unttunttu murettenan attikkino.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Med&#x27;inaa Goday otorettiyaa ubbaa shenetee; unttunttu murettenan attikkino.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PRO_016_Verse_005.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00015",
+      "filename": "NUM_032_Verse_015.wav",
+      "transcript": "Hintte Med'inaa Godaa kaalliyaawaa aggiide wora simmooppe, I k'aykka bare asaa mela biittaan aggi bashana. Yaatiide hintte ha asaa ubbaa d'ayissana» yaageedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hintte Med&#x27;inaa Godaa kaalliyaawaa aggiide wora simmooppe, I k&#x27;aykka bare asaa mela biittaan aggi bashana. Yaatiide hintte ha asaa ubbaa d&#x27;ayissana» yaageedda.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/NUM_032_Verse_015.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00016",
+      "filename": "EXO_030_Verse_020.wav",
+      "transcript": "Unttunttu hayk'k'enna mala, S'oossaa Dunkkaaniyaa geliyaa wode, awudenne he haatsaan meec'ettino. K'ay Med'inaa Godaw taman yarshshuwaa yarshshanaw yarshshiyaa sa'aa mata shiik'eedda wode,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Unttunttu hayk&#x27;k&#x27;enna mala, S&#x27;oossaa Dunkkaaniyaa geliyaa wode, awudenne he haatsaan meec&#x27;ettino. K&#x27;ay Med&#x27;inaa Godaw taman yarshshuwaa yarshshanaw yarshshiyaa sa&#x27;aa mata shiik&#x27;eedda wode,</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EXO_030_Verse_020.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00017",
+      "filename": "JOB_002_Verse_002.wav",
+      "transcript": "Med'inaa Goday Sees'aanaa, «Laa neeni hak'appe yaad?» yaageedda. Sees'aanay Med'inaa Godaw, «Sa'aan ubbaan yaanne haanne yuuyyiyaasaappenne simerettiyaasaappe yaad» yaageedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Med&#x27;inaa Goday Sees&#x27;aanaa, «Laa neeni hak&#x27;appe yaad?» yaageedda. Sees&#x27;aanay Med&#x27;inaa Godaw, «Sa&#x27;aan ubbaan yaanne haanne yuuyyiyaasaappenne simerettiyaasaappe yaad» yaageedda.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JOB_002_Verse_002.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00018",
+      "filename": "MAT_021_Verse_034.wav",
+      "transcript": "Woynniyaa ayfiyaa mas'iyaa wodii gakkina, barena gakkiyaawaa akkiide yaana mala, bare k'oomatuwaa bare kotsaawatuwaakko kiitteedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Woynniyaa ayfiyaa mas&#x27;iyaa wodii gakkina, barena gakkiyaawaa akkiide yaana mala, bare k&#x27;oomatuwaa bare kotsaawatuwaakko kiitteedda.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MAT_021_Verse_034.wav"
     }
   },
   {
@@ -202,31 +202,31 @@
   {
     "data": {
       "task_uid": "00020",
-      "filename": "PSA_119_Verse_041.wav",
-      "transcript": "Abeet Med'inaa Godaw, aggena ne siik'uwaa taana bessa; neeni geedda k'aalaadan taana ashsha.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Abeet Med&#x27;inaa Godaw, aggena ne siik&#x27;uwaa taana bessa; neeni geedda k&#x27;aalaadan taana ashsha.</div>",
+      "filename": "PSA_107_Verse_003.wav",
+      "transcript": "Unttuntta I biittatuwaappe, away doliyaasaappenne wulliyaasaappe, huup'issanne gedissa baggappe shiishsheeddawantta.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Unttuntta I biittatuwaappe, away doliyaasaappenne wulliyaasaappe, huup&#x27;issanne gedissa baggappe shiishsheeddawantta.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PSA_119_Verse_041.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PSA_107_Verse_003.wav"
     }
   },
   {
     "data": {
       "task_uid": "00021",
-      "filename": "JER_049_Verse_022.wav",
-      "transcript": "Arggantsay bare k'efiyaa piddi ootsiide, bollappe duge ellekka paalliide yiyaawaadan, morkkii Boos'ira bollan yaana. He gallassi Eedooma olanchchatuu oytsay oyk'k'eedda mishirattiidan hirggana» yaagee.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Arggantsay bare k&#x27;efiyaa piddi ootsiide, bollappe duge ellekka paalliide yiyaawaadan, morkkii Boos&#x27;ira bollan yaana. He gallassi Eedooma olanchchatuu oytsay oyk&#x27;k&#x27;eedda mishirattiidan hirggana» yaagee.</div>",
+      "filename": "JER_029_Verse_023.wav",
+      "transcript": "Ayaw gooppe, unttunttu Israa'eeliyaan loytsi nagaraa ootseeddino. Unttunttu barenttu shoorotuwaa mac'c'a asaa woshumeeddino; yaatiide taani unttuntta azazabeena worddobaa ta suntsan haasayiino. Hewaa eriyaawe taana; hewoo taani markka. Taani Med'inaa Goday hawaa odaad› yaagee» yaageedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ayaw gooppe, unttunttu Israa&#x27;eeliyaan loytsi nagaraa ootseeddino. Unttunttu barenttu shoorotuwaa mac&#x27;c&#x27;a asaa woshumeeddino; yaatiide taani unttuntta azazabeena worddobaa ta suntsan haasayiino. Hewaa eriyaawe taana; hewoo taani markka. Taani Med&#x27;inaa Goday hawaa odaad› yaagee» yaageedda.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JER_049_Verse_022.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JER_029_Verse_023.wav"
     }
   },
   {
     "data": {
       "task_uid": "00022",
-      "filename": "MAT_017_Verse_018.wav",
-      "transcript": "Yesuusi iita ayaana, «Aappe kesa» giide azazina, iita ayyaanay na'aappe kesi aggeedda; ellekka na'ay pas'i aggeedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yesuusi iita ayaana, «Aappe kesa» giide azazina, iita ayyaanay na&#x27;aappe kesi aggeedda; ellekka na&#x27;ay pas&#x27;i aggeedda.</div>",
+      "filename": "MAT_007_Verse_022.wav",
+      "transcript": "Pirddaa gallassi daro Asay taana, ‹Godaw, Godaw, nuuni ne suntsan S'oossay kiittowaa odibeykkoo? Ne suntsan s'alahatuwaa kessibeykkoo? K'ay nuuni S'oossay ootsiyaa maalalissiyaabaa ne suntsaan ootsibeykkoo?› yaaganawantta.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Pirddaa gallassi daro Asay taana, ‹Godaw, Godaw, nuuni ne suntsan S&#x27;oossay kiittowaa odibeykkoo? Ne suntsan s&#x27;alahatuwaa kessibeykkoo? K&#x27;ay nuuni S&#x27;oossay ootsiyaa maalalissiyaabaa ne suntsaan ootsibeykkoo?› yaaganawantta.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MAT_017_Verse_018.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MAT_007_Verse_022.wav"
     }
   },
   {
@@ -242,36 +242,46 @@
   {
     "data": {
       "task_uid": "00024",
-      "filename": "PSA_097_Verse_007.wav",
-      "transcript": "Worddo s'oossatoo goyinniyaawanttunne he go\"enna eek'atuwaan c'eek'ettiyaawanttu ubbay yeellatino. S'oossatuu ubbay S'oossaw gulbbatino.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Worddo s&#x27;oossatoo goyinniyaawanttunne he go&quot;enna eek&#x27;atuwaan c&#x27;eek&#x27;ettiyaawanttu ubbay yeellatino. S&#x27;oossatuu ubbay S&#x27;oossaw gulbbatino.</div>",
+      "filename": "PSA_075_Verse_006.wav",
+      "transcript": "Bonchchuu away doliyaasaappe woy wulliyaasaappe woy bazzuwaappe yeenna.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bonchchuu away doliyaasaappe woy wulliyaasaappe woy bazzuwaappe yeenna.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PSA_097_Verse_007.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PSA_075_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00025",
-      "filename": "LUK_017_Verse_027.wav",
-      "transcript": "Nohe markkabiyaa gelo gallassay gakkanaw unttunttu, miiddinne ushiidde, akkiiddinne akettiidde de'ishshin, bashshaa haatsay yiide ubbaa asaakka bayizzeedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nohe markkabiyaa gelo gallassay gakkanaw unttunttu, miiddinne ushiidde, akkiiddinne akettiidde de&#x27;ishshin, bashshaa haatsay yiide ubbaa asaakka bayizzeedda.</div>",
+      "filename": "LUK_016_Verse_024.wav",
+      "transcript": "«Ikka bare kooshshaa d'ok'k'u ootsiide, ‹Abraahaamo, ta aabboo, taw k'aretta. Ha tamaa seelaan metoota de'iyaa diraw, Ali'aazar bare birad'd'iyaa s'eeraa haatsaan bochchiide, ta ins's'arssaa irs's'issanaadan hayyanaa taakko kiittaarikkii› yaageedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">«Ikka bare kooshshaa d&#x27;ok&#x27;k&#x27;u ootsiide, ‹Abraahaamo, ta aabboo, taw k&#x27;aretta. Ha tamaa seelaan metoota de&#x27;iyaa diraw, Ali&#x27;aazar bare birad&#x27;d&#x27;iyaa s&#x27;eeraa haatsaan bochchiide, ta ins&#x27;s&#x27;arssaa irs&#x27;s&#x27;issanaadan hayyanaa taakko kiittaarikkii› yaageedda.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LUK_017_Verse_027.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LUK_016_Verse_024.wav"
     }
   },
   {
     "data": {
       "task_uid": "00026",
-      "filename": "LUK_009_Verse_043.wav",
-      "transcript": "Asay ubbaykka S'oossaa wolk'k'aama wolk'k'aappe denddowaan maalaletteeddino.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Asay ubbaykka S&#x27;oossaa wolk&#x27;k&#x27;aama wolk&#x27;k&#x27;aappe denddowaan maalaletteeddino.</div>",
+      "filename": "LUK_002_Verse_025.wav",
+      "transcript": "He wode s'illonne genc'c'a gideedda Simoona geetettiyaa itti bitanii Yerusaalamen de'ee. Ikka, Israa'eeliyaa asaw atotetsaa hidootaa naagiyaawaanne Ayaanaa Geeshshay Aa bollaan shemppeedda asaa.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">He wode s&#x27;illonne genc&#x27;c&#x27;a gideedda Simoona geetettiyaa itti bitanii Yerusaalamen de&#x27;ee. Ikka, Israa&#x27;eeliyaa asaw atotetsaa hidootaa naagiyaawaanne Ayaanaa Geeshshay Aa bollaan shemppeedda asaa.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LUK_009_Verse_043.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LUK_002_Verse_025.wav"
     }
   },
   {
     "data": {
       "task_uid": "00027",
+      "filename": "JER_049_Verse_022.wav",
+      "transcript": "Arggantsay bare k'efiyaa piddi ootsiide, bollappe duge ellekka paalliide yiyaawaadan, morkkii Boos'ira bollan yaana. He gallassi Eedooma olanchchatuu oytsay oyk'k'eedda mishirattiidan hirggana» yaagee.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Arggantsay bare k&#x27;efiyaa piddi ootsiide, bollappe duge ellekka paalliide yiyaawaadan, morkkii Boos&#x27;ira bollan yaana. He gallassi Eedooma olanchchatuu oytsay oyk&#x27;k&#x27;eedda mishirattiidan hirggana» yaagee.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JER_049_Verse_022.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00028",
       "filename": "JHN_008_Verse_040.wav",
       "transcript": "Shin S'oossaappe siseedda tumuwaa odeedda Taana hinttenttu wod'anaw koyyiita; Abraahaame hewaadan ootsibeenna.",
       "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Shin S&#x27;oossaappe siseedda tumuwaa odeedda Taana hinttenttu wod&#x27;anaw koyyiita; Abraahaame hewaadan ootsibeenna.</div>",
@@ -281,22 +291,12 @@
   },
   {
     "data": {
-      "task_uid": "00028",
-      "filename": "JOB_002_Verse_002.wav",
-      "transcript": "Med'inaa Goday Sees'aanaa, «Laa neeni hak'appe yaad?» yaageedda. Sees'aanay Med'inaa Godaw, «Sa'aan ubbaan yaanne haanne yuuyyiyaasaappenne simerettiyaasaappe yaad» yaageedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Med&#x27;inaa Goday Sees&#x27;aanaa, «Laa neeni hak&#x27;appe yaad?» yaageedda. Sees&#x27;aanay Med&#x27;inaa Godaw, «Sa&#x27;aan ubbaan yaanne haanne yuuyyiyaasaappenne simerettiyaasaappe yaad» yaageedda.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JOB_002_Verse_002.wav"
-    }
-  },
-  {
-    "data": {
       "task_uid": "00029",
-      "filename": "PSA_107_Verse_003.wav",
-      "transcript": "Unttuntta I biittatuwaappe, away doliyaasaappenne wulliyaasaappe, huup'issanne gedissa baggappe shiishsheeddawantta.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Unttuntta I biittatuwaappe, away doliyaasaappenne wulliyaasaappe, huup&#x27;issanne gedissa baggappe shiishsheeddawantta.</div>",
+      "filename": "PSA_097_Verse_007.wav",
+      "transcript": "Worddo s'oossatoo goyinniyaawanttunne he go\"enna eek'atuwaan c'eek'ettiyaawanttu ubbay yeellatino. S'oossatuu ubbay S'oossaw gulbbatino.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Worddo s&#x27;oossatoo goyinniyaawanttunne he go&quot;enna eek&#x27;atuwaan c&#x27;eek&#x27;ettiyaawanttu ubbay yeellatino. S&#x27;oossatuu ubbay S&#x27;oossaw gulbbatino.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PSA_107_Verse_003.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PSA_097_Verse_007.wav"
     }
   },
   {
@@ -312,21 +312,21 @@
   {
     "data": {
       "task_uid": "00031",
-      "filename": "MRK_016_Verse_003.wav",
-      "transcript": "Unttunttu barenttu giddon ittuu ittuwaanna, «Gonggoluwaa doonaappe nuw shuchchaa oonee gonddorssiide digganaweeshsha?» yaagiide haasayiino.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Unttunttu barenttu giddon ittuu ittuwaanna, «Gonggoluwaa doonaappe nuw shuchchaa oonee gonddorssiide digganaweeshsha?» yaagiide haasayiino.</div>",
+      "filename": "MRK_006_Verse_050.wav",
+      "transcript": "Ayaw gooppe, unttunttu ubbay Aa be'iide, yashshaa kokkoreeddino; shin ellekka Yesuusi unttuntta, «Ayinne baawa; taanattennee yayyoppite» yaageedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ayaw gooppe, unttunttu ubbay Aa be&#x27;iide, yashshaa kokkoreeddino; shin ellekka Yesuusi unttuntta, «Ayinne baawa; taanattennee yayyoppite» yaageedda.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MRK_016_Verse_003.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MRK_006_Verse_050.wav"
     }
   },
   {
     "data": {
       "task_uid": "00032",
-      "filename": "MAT_007_Verse_022.wav",
-      "transcript": "Pirddaa gallassi daro Asay taana, ‹Godaw, Godaw, nuuni ne suntsan S'oossay kiittowaa odibeykkoo? Ne suntsan s'alahatuwaa kessibeykkoo? K'ay nuuni S'oossay ootsiyaa maalalissiyaabaa ne suntsaan ootsibeykkoo?› yaaganawantta.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Pirddaa gallassi daro Asay taana, ‹Godaw, Godaw, nuuni ne suntsan S&#x27;oossay kiittowaa odibeykkoo? Ne suntsan s&#x27;alahatuwaa kessibeykkoo? K&#x27;ay nuuni S&#x27;oossay ootsiyaa maalalissiyaabaa ne suntsaan ootsibeykkoo?› yaaganawantta.</div>",
+      "filename": "MAT_006_Verse_008.wav",
+      "transcript": "Hewaa diraw, he asaadan hanoppite; ayaw gooppe, hintte Aabbu hinttena koshshiyaawaa hinttenttu woossanaappe kasetiide eree.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hewaa diraw, he asaadan hanoppite; ayaw gooppe, hintte Aabbu hinttena koshshiyaawaa hinttenttu woossanaappe kasetiide eree.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MAT_007_Verse_022.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MAT_006_Verse_008.wav"
     }
   },
   {
@@ -372,106 +372,6 @@
   {
     "data": {
       "task_uid": "00037",
-      "filename": "1SA_020_Verse_042.wav",
-      "transcript": "Yoonataani Daawita, «Saro ba; ‹Ne giddoninne ta giddon, ne zeretsaa giddoninne ta zeretsaa giddon, Med'inaa Goday med'inaw markka gido› yaagiide nuuni laa\"uu Med'inaa Godaa suntsaan c'aak'k'eeddo» yaageedda. Hewaappe guyyiyaan, Daawite denddiide beedda; Yoonataanikka katamaa guyye simmeedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yoonataani Daawita, «Saro ba; ‹Ne giddoninne ta giddon, ne zeretsaa giddoninne ta zeretsaa giddon, Med&#x27;inaa Goday med&#x27;inaw markka gido› yaagiide nuuni laa&quot;uu Med&#x27;inaa Godaa suntsaan c&#x27;aak&#x27;k&#x27;eeddo» yaageedda. Hewaappe guyyiyaan, Daawite denddiide beedda; Yoonataanikka katamaa guyye simmeedda.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/1SA_020_Verse_042.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00038",
-      "filename": "LUK_008_Verse_056.wav",
-      "transcript": "Izi aabbunne izi daaya maalaletteeddino; shin Yesuusi unttuntta, hano yewuwaa oossinne odenna mala azazeedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Izi aabbunne izi daaya maalaletteeddino; shin Yesuusi unttuntta, hano yewuwaa oossinne odenna mala azazeedda.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LUK_008_Verse_056.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00039",
-      "filename": "NUM_032_Verse_015.wav",
-      "transcript": "Hintte Med'inaa Godaa kaalliyaawaa aggiide wora simmooppe, I k'aykka bare asaa mela biittaan aggi bashana. Yaatiide hintte ha asaa ubbaa d'ayissana» yaageedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hintte Med&#x27;inaa Godaa kaalliyaawaa aggiide wora simmooppe, I k&#x27;aykka bare asaa mela biittaan aggi bashana. Yaatiide hintte ha asaa ubbaa d&#x27;ayissana» yaageedda.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/NUM_032_Verse_015.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00040",
-      "filename": "DEU_014_Verse_014.wav",
-      "transcript": "k'uuruwaa zare ubbaa,",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">k&#x27;uuruwaa zare ubbaa,</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/DEU_014_Verse_014.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00041",
-      "filename": "MAT_021_Verse_034.wav",
-      "transcript": "Woynniyaa ayfiyaa mas'iyaa wodii gakkina, barena gakkiyaawaa akkiide yaana mala, bare k'oomatuwaa bare kotsaawatuwaakko kiitteedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Woynniyaa ayfiyaa mas&#x27;iyaa wodii gakkina, barena gakkiyaawaa akkiide yaana mala, bare k&#x27;oomatuwaa bare kotsaawatuwaakko kiitteedda.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MAT_021_Verse_034.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00042",
-      "filename": "DEU_015_Verse_017.wav",
-      "transcript": "pengge Aa afaade, gootsaa akkaade, Aa haytsaa lukka. Yaatooppe I new med'inawukka ayiliyaa gidanawaa. K'ay ayiliyaa gidiyaa mac'c'aaniwukka hewaadan ootsa.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">pengge Aa afaade, gootsaa akkaade, Aa haytsaa lukka. Yaatooppe I new med&#x27;inawukka ayiliyaa gidanawaa. K&#x27;ay ayiliyaa gidiyaa mac&#x27;c&#x27;aaniwukka hewaadan ootsa.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/DEU_015_Verse_017.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00043",
-      "filename": "EXO_002_Verse_024.wav",
-      "transcript": "S'oossay unttunttu un\"aa waasuwaa sisiide, I Abrahaamena, Yisaak'ananne Yaak'oobanna c'aak'k'eedda c'aak'uwaa hassayeedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">S&#x27;oossay unttunttu un&quot;aa waasuwaa sisiide, I Abrahaamena, Yisaak&#x27;ananne Yaak&#x27;oobanna c&#x27;aak&#x27;k&#x27;eedda c&#x27;aak&#x27;uwaa hassayeedda.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EXO_002_Verse_024.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00044",
-      "filename": "ISA_043_Verse_005.wav",
-      "transcript": "«Taani neenana de'iyaa diraw yayyoppa; taani ne zeretsatuwaa wulahaappenne dolahaappe shiishshaade ahana.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">«Taani neenana de&#x27;iyaa diraw yayyoppa; taani ne zeretsatuwaa wulahaappenne dolahaappe shiishshaade ahana.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/ISA_043_Verse_005.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00045",
-      "filename": "JDG_009_Verse_009.wav",
-      "transcript": "Shin atikilttiyaa sa'ay, ‹Ta hinttenttu bolla kaatetana koshshiyaawaa gidooppe, s'oossatuwaanne asatuwaa bonchchissiyaa ta zayitiyaa immiyaawaa aggay giyaawaa› yaagiide zaareedda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Shin atikilttiyaa sa&#x27;ay, ‹Ta hinttenttu bolla kaatetana koshshiyaawaa gidooppe, s&#x27;oossatuwaanne asatuwaa bonchchissiyaa ta zayitiyaa immiyaawaa aggay giyaawaa› yaagiide zaareedda.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JDG_009_Verse_009.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00046",
-      "filename": "JER_036_Verse_016.wav",
-      "transcript": "I nabbabeedda k'aalaa ubbaa siseeddino; ubbaykka yayyiide, Ittuu ittuwaa s'eelliide, Baaroka, «Ha k'aalaa ubbaa nuuni kaatiyaw odanaw koshshee» yaageeddino.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">I nabbabeedda k&#x27;aalaa ubbaa siseeddino; ubbaykka yayyiide, Ittuu ittuwaa s&#x27;eelliide, Baaroka, «Ha k&#x27;aalaa ubbaa nuuni kaatiyaw odanaw koshshee» yaageeddino.</div>",
-      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JER_036_Verse_016.wav"
-    }
-  },
-  {
-    "data": {
-      "task_uid": "00047",
       "filename": "1JN_005_Verse_002.wav",
       "transcript": "Nuuni S'oossaa siik'iyaawaaninne Aa azazuwaa naagiyaawaan, S'oossaa naanatuwaa siik'iyaawaa ereetto.",
       "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nuuni S&#x27;oossaa siik&#x27;iyaawaaninne Aa azazuwaa naagiyaawaan, S&#x27;oossaa naanatuwaa siik&#x27;iyaawaa ereetto.</div>",
@@ -481,7 +381,47 @@
   },
   {
     "data": {
-      "task_uid": "00048",
+      "task_uid": "00038",
+      "filename": "LAM_005_Verse_010.wav",
+      "transcript": "Koshay suulleedda gaasuwaan harggina, nu galbbay tamaa c'ooc'iyaadan michchee.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koshay suulleedda gaasuwaan harggina, nu galbbay tamaa c&#x27;ooc&#x27;iyaadan michchee.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/LAM_005_Verse_010.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00039",
+      "filename": "MRK_016_Verse_003.wav",
+      "transcript": "Unttunttu barenttu giddon ittuu ittuwaanna, «Gonggoluwaa doonaappe nuw shuchchaa oonee gonddorssiide digganaweeshsha?» yaagiide haasayiino.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Unttunttu barenttu giddon ittuu ittuwaanna, «Gonggoluwaa doonaappe nuw shuchchaa oonee gonddorssiide digganaweeshsha?» yaagiide haasayiino.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MRK_016_Verse_003.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00040",
+      "filename": "DEU_015_Verse_017.wav",
+      "transcript": "pengge Aa afaade, gootsaa akkaade, Aa haytsaa lukka. Yaatooppe I new med'inawukka ayiliyaa gidanawaa. K'ay ayiliyaa gidiyaa mac'c'aaniwukka hewaadan ootsa.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">pengge Aa afaade, gootsaa akkaade, Aa haytsaa lukka. Yaatooppe I new med&#x27;inawukka ayiliyaa gidanawaa. K&#x27;ay ayiliyaa gidiyaa mac&#x27;c&#x27;aaniwukka hewaadan ootsa.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/DEU_015_Verse_017.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00041",
+      "filename": "MAT_017_Verse_018.wav",
+      "transcript": "Yesuusi iita ayaana, «Aappe kesa» giide azazina, iita ayyaanay na'aappe kesi aggeedda; ellekka na'ay pas'i aggeedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yesuusi iita ayaana, «Aappe kesa» giide azazina, iita ayyaanay na&#x27;aappe kesi aggeedda; ellekka na&#x27;ay pas&#x27;i aggeedda.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/MAT_017_Verse_018.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00042",
       "filename": "EXO_001_Verse_013.wav",
       "transcript": "k'arettay baynna hanotan ayiletetsan kiitisseeddino.",
       "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">k&#x27;arettay baynna hanotan ayiletetsan kiitisseeddino.</div>",
@@ -491,12 +431,72 @@
   },
   {
     "data": {
-      "task_uid": "00049",
-      "filename": "PSA_075_Verse_006.wav",
-      "transcript": "Bonchchuu away doliyaasaappe woy wulliyaasaappe woy bazzuwaappe yeenna.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bonchchuu away doliyaasaappe woy wulliyaasaappe woy bazzuwaappe yeenna.</div>",
+      "task_uid": "00043",
+      "filename": "EXO_009_Verse_026.wav",
+      "transcript": "Shachchay wod'd'ibeenna gadii Israa'eelatuu utteedda Goshena gadiyaa s'alala.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Shachchay wod&#x27;d&#x27;ibeenna gadii Israa&#x27;eelatuu utteedda Goshena gadiyaa s&#x27;alala.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PSA_075_Verse_006.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EXO_009_Verse_026.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00044",
+      "filename": "HOS_004_Verse_018.wav",
+      "transcript": "Unttunttu daro woyniyaa ushi simmiide, sharmus'iyaawaa aggikkino; unttuntta mooddiyaawanttukka yeellayiyaawaa loytsi dosiino.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Unttunttu daro woyniyaa ushi simmiide, sharmus&#x27;iyaawaa aggikkino; unttuntta mooddiyaawanttukka yeellayiyaawaa loytsi dosiino.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/HOS_004_Verse_018.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00045",
+      "filename": "ISA_043_Verse_005.wav",
+      "transcript": "«Taani neenana de'iyaa diraw yayyoppa; taani ne zeretsatuwaa wulahaappenne dolahaappe shiishshaade ahana.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">«Taani neenana de&#x27;iyaa diraw yayyoppa; taani ne zeretsatuwaa wulahaappenne dolahaappe shiishshaade ahana.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/ISA_043_Verse_005.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00046",
+      "filename": "JDG_009_Verse_009.wav",
+      "transcript": "Shin atikilttiyaa sa'ay, ‹Ta hinttenttu bolla kaatetana koshshiyaawaa gidooppe, s'oossatuwaanne asatuwaa bonchchissiyaa ta zayitiyaa immiyaawaa aggay giyaawaa› yaagiide zaareedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Shin atikilttiyaa sa&#x27;ay, ‹Ta hinttenttu bolla kaatetana koshshiyaawaa gidooppe, s&#x27;oossatuwaanne asatuwaa bonchchissiyaa ta zayitiyaa immiyaawaa aggay giyaawaa› yaagiide zaareedda.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/JDG_009_Verse_009.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00047",
+      "filename": "1CO_016_Verse_014.wav",
+      "transcript": "Oosuwaa ubbaa siik'uwaan ootsite.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Oosuwaa ubbaa siik&#x27;uwaan ootsite.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/1CO_016_Verse_014.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00048",
+      "filename": "EXO_002_Verse_024.wav",
+      "transcript": "S'oossay unttunttu un\"aa waasuwaa sisiide, I Abrahaamena, Yisaak'ananne Yaak'oobanna c'aak'k'eedda c'aak'uwaa hassayeedda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">S&#x27;oossay unttunttu un&quot;aa waasuwaa sisiide, I Abrahaamena, Yisaak&#x27;ananne Yaak&#x27;oobanna c&#x27;aak&#x27;k&#x27;eedda c&#x27;aak&#x27;uwaa hassayeedda.</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/EXO_002_Verse_024.wav"
+    }
+  },
+  {
+    "data": {
+      "task_uid": "00049",
+      "filename": "PSA_030_Verse_008.wav",
+      "transcript": "Abeet Med'inaa Godaw, taani neena s'eesaaddi; taani Med'inaa Godaakko maarotetsaw hawaadan yaagaade woossaaddi;",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Abeet Med&#x27;inaa Godaw, taani neena s&#x27;eesaaddi; taani Med&#x27;inaa Godaakko maarotetsaw hawaadan yaagaade woossaaddi;</div>",
+      "instructions_html": "<center><h3>Audio–transcript match &#8212; Dawro</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Dawro/PSA_030_Verse_008.wav"
     }
   }
 ]
