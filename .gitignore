@@ -220,3 +220,4 @@ __marimo__/
 # Raw Label Studio exports contain annotator emails; commit only annotations-anonymized/
 human-evaluation/annotations/
 papers/
+human-evaluation/annotations-streamlit/

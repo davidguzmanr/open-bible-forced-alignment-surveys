@@ -96,6 +96,9 @@ def load_language(csv_path: Path) -> pd.DataFrame:
 
     tracking_path = TRACKING_DIR / language / f"tracking_{language.replace(' ', '_')}.csv"
     tracking = pd.read_csv(tracking_path, dtype={"task_uid": str, "chapter": str, "verse": str})
+    # Exports also carry task-data fields such as `filename`; take them from the
+    # tracking CSV so the merge does not produce filename_x / filename_y.
+    ann = ann.drop(columns=[c for c in tracking.columns if c != "task_uid" and c in ann.columns])
     return ann.merge(tracking, on="task_uid", how="left", validate="many_to_one")
 
 

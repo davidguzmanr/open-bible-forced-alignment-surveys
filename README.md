@@ -90,6 +90,16 @@ Go to **Members** → invite the 3 annotators by email → set their role to **A
 
 Steps 1–3 can also be done from the command line with `--api-key YOUR_TOKEN` (and optionally `--base-url`, `--project-title`).
 
+## Annotating locally (Streamlit)
+
+`app/annotate.py` reproduces the HumanSignal task locally, one language at a time: same instructions, transcript, audio (played from `audios/`), options and required/optional questions, in the same task order.
+
+```bash
+streamlit run app/annotate.py
+```
+
+Pick the language and enter an annotator name in the sidebar. Every submit is saved immediately to `human-evaluation/annotations-streamlit/{language}.csv` (one row per annotator and task; re-submitting updates the row), so you can stop and resume at any time. The sidebar shows progress, lets you jump to any task, and for Arabic Standard can show the Latin transcription (off by default; HumanSignal annotators never see it). The CSV has the same columns as a Label Studio export, so to analyse it copy it to `human-evaluation/annotations/` and follow the steps below. The folder is git-ignored because it contains annotator names.
+
 ## Analysis
 
 1. Export each project as CSV into `human-evaluation/annotations/{language}.csv`.
