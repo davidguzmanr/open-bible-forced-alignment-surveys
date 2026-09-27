@@ -9,24 +9,22 @@ were trained on -- and writes:
   - audios/{language}/{BOOK}_{CCC}_Verse_{VVV}.wav   original 22.05 kHz clips
   - data/{language}.csv                              transcript + metadata
 
-Selection ("typical speaking rate"): every released verse already passed the
-outlier filter in open-bible-resources (utils/data_checks.py), which z-scores
-the seconds-per-character ratio `duration / len(text)` per language and drops
-anything beyond 3 standard deviations. We rank verses by |z| of that same
-ratio, keep the TYPICAL_FRACTION closest to the language mean, and draw the
-sample at random from that pool. This skips borderline segments while keeping
-the sample varied across books, speakers and lengths.
+Selection: a uniform random sample of the `train` split (seed 42), as in the
+BibleTTS paper. Every released verse already passed the outlier filter in
+open-bible-resources (utils/data_checks.py), which z-scores the
+seconds-per-character ratio `duration / len(text)` per language and drops
+anything beyond 3 standard deviations; that z-score is recorded for each
+sampled verse (lens_ratio_z) for breaking down results.
 
-Clean edges: the aligner cuts each verse exactly at its predicted boundary, with
-no padding, so small boundary errors leave a syllable of the neighbouring verse
-(or a clipped word) right at the start or end of the clip. The survey targets
-word-level errors, so candidates are drawn from the pool in random order and
-kept only if both the first and the last MIN_EDGE_SILENCE_MS of the clip are
-silent (see edge_silence_ms). Rejected candidates are skipped until n verses
-pass.
-
-Results therefore describe the typical, cleanly cut part of the corpus, not a
-uniform sample of it.
+Edge silence: the aligner cuts each verse exactly at its predicted boundary,
+with no padding, so small boundary errors can leave a syllable of the
+neighbouring verse (or a clipped word) at the start or end of the clip. The
+silence before the first and after the last sound is measured for every sampled
+clip (lead_silence_ms / trail_silence_ms, see edge_silence_ms) so results can be
+broken down by it. --min-edge-silence-ms N keeps only clips with at least N ms
+of silence at both ends (candidates are drawn in the same random order and
+skipped until n pass); it is off by default (0), because filtering leaves only
+the most cleanly aligned clips and the sample is then no longer uniform.
 
 Verses used as reference recordings in the TTS listening test
 (open-bible-surveys/audios/open-bible/{language}.csv) are excluded.
@@ -81,7 +79,6 @@ LANGUAGES = [
 ]
 
 N_SAMPLES = 50
-TYPICAL_FRACTION = 0.20
 SEED = 42
 
 # Edge-silence filter. Frame energy is measured with FRAME_MS windows every
@@ -90,7 +87,7 @@ SEED = 42
 #   speech level (95th percentile) - SPEECH_RANGE_DB,
 # so the threshold adapts to recordings with audible room noise (e.g. Turkish,
 # whose pauses sit around -60 dBFS) as well as to digitally silent ones.
-MIN_EDGE_SILENCE_MS = 100
+MIN_EDGE_SILENCE_MS = 0  # filter off; see module docstring
 FRAME_MS = 20
 HOP_MS = 10
 NOISE_MARGIN_DB = 15.0
@@ -218,14 +215,12 @@ def edge_silence_ms(wav_bytes: bytes) -> tuple[int, int]:
     return int(sound[0] * HOP_MS), int((len(db) - 1 - sound[-1]) * HOP_MS)
 
 
-def typical_pool(df: pd.DataFrame, n: int, fraction: float) -> pd.DataFrame:
-    """The `fraction` of rows whose speaking rate is closest to the language mean."""
+def add_speaking_rate(df: pd.DataFrame) -> pd.DataFrame:
+    """Seconds per character and its z-score within the language (as in data_checks.py)."""
     df = df.copy()
     df["lens_ratio"] = df["duration_seconds"] / df["text"].str.len()
     df["lens_ratio_z"] = (df["lens_ratio"] - df["lens_ratio"].mean()) / df["lens_ratio"].std()
-    pool = df.loc[df["lens_ratio_z"].abs().rank(method="first") <= max(n, round(fraction * len(df)))]
-    print(f"  Typical pool: {len(pool)} / {len(df)} verses (|z| <= {pool['lens_ratio_z'].abs().max():.3f})")
-    return pool
+    return df
 
 
 def select_clean_edges(ds, pool: pd.DataFrame, n: int, seed: int, min_silence_ms: int) -> tuple[pd.DataFrame, dict]:
@@ -245,8 +240,9 @@ def select_clean_edges(ds, pool: pd.DataFrame, n: int, seed: int, min_silence_ms
             audio_bytes[row["filename"]] = audio["bytes"]
             if len(kept) == n:
                 break
-    print(f"  Clean edges (>= {min_silence_ms} ms silence at both ends): kept {len(kept)} of {checked} checked "
-          f"({100 * len(kept) / checked:.0f}%)")
+    if min_silence_ms > 0:
+        print(f"  Clean edges (>= {min_silence_ms} ms silence at both ends): kept {len(kept)} of {checked} checked "
+              f"({100 * len(kept) / checked:.0f}%)")
     if len(kept) < n:
         print(f"  WARNING: only {len(kept)} verses in the pool pass the edge-silence filter.", file=sys.stderr)
     return pd.DataFrame(kept).sort_values("filename"), audio_bytes
@@ -272,9 +268,9 @@ def process_language(language: str, args: argparse.Namespace) -> None:
         print(f"  Excluding {overlap.sum()} verses used in the TTS listening test")
     df = df[~overlap]
 
-    pool = typical_pool(df, n=args.n, fraction=args.typical_fraction)
+    df = add_speaking_rate(df)
     sample, audio_bytes = select_clean_edges(
-        ds, pool, n=args.n, seed=args.seed, min_silence_ms=args.min_edge_silence_ms
+        ds, df, n=args.n, seed=args.seed, min_silence_ms=args.min_edge_silence_ms
     )
     sample = add_usx_tags(sample, language)
 
@@ -303,10 +299,6 @@ def main() -> None:
     parser.add_argument("--language", choices=LANGUAGES, help="Language to sample (or use --all).")
     parser.add_argument("--all", action="store_true", help="Sample all 11 languages.")
     parser.add_argument("--n", type=int, default=N_SAMPLES, help=f"Verses per language (default: {N_SAMPLES}).")
-    parser.add_argument(
-        "--typical-fraction", type=float, default=TYPICAL_FRACTION,
-        help=f"Share of verses closest to the mean speaking rate to sample from (default: {TYPICAL_FRACTION}).",
-    )
     parser.add_argument(
         "--min-edge-silence-ms", type=int, default=MIN_EDGE_SILENCE_MS,
         help=f"Silence required at both ends of a clip; 0 disables the filter (default: {MIN_EDGE_SILENCE_MS}).",

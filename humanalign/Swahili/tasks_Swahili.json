@@ -2,501 +2,501 @@
   {
     "data": {
       "task_uid": "00000",
-      "filename": "GEN_028_Verse_012.wav",
-      "transcript": "Akaota ndoto ambayo aliona ngazi imesimamishwa juu ya ardhi, ncha yake ikiwa imefika mbinguni na malaika wa Mungu wakawa wakipanda na kushuka juu yake.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Akaota ndoto ambayo aliona ngazi imesimamishwa juu ya ardhi, ncha yake ikiwa imefika mbinguni na malaika wa Mungu wakawa wakipanda na kushuka juu yake.</div>",
+      "filename": "HOS_006_Verse_008.wav",
+      "transcript": "Gileadi ni mji wenye watu waovu, umetiwa madoa kwa nyayo za damu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Gileadi ni mji wenye watu waovu, umetiwa madoa kwa nyayo za damu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/GEN_028_Verse_012.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/HOS_006_Verse_008.wav"
     }
   },
   {
     "data": {
       "task_uid": "00001",
-      "filename": "GAL_005_Verse_025.wav",
-      "transcript": "Kwa kuwa tunaishi kwa Roho, basi, tuenende kwa Roho.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kwa kuwa tunaishi kwa Roho, basi, tuenende kwa Roho.</div>",
+      "filename": "GEN_031_Verse_005.wav",
+      "transcript": "Akawaambia, “Naona moyo wa baba yenu kwangu sivyo kama ulivyokuwa mwanzoni, lakini Mungu wa baba yangu amekuwa pamoja nami.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Akawaambia, “Naona moyo wa baba yenu kwangu sivyo kama ulivyokuwa mwanzoni, lakini Mungu wa baba yangu amekuwa pamoja nami.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/GAL_005_Verse_025.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/GEN_031_Verse_005.wav"
     }
   },
   {
     "data": {
       "task_uid": "00002",
-      "filename": "EZK_044_Verse_005.wav",
-      "transcript": "Bwana akaniambia, “Mwanadamu, angalia kwa uangalifu, usikilize kwa bidii na uzingatie kila kitu ninachokuambia kuhusu masharti yote yanayohusu Hekalu la Bwana . Uwe mwangalifu kuhusu wale wanaoruhusiwa hekaluni na wale wasioruhusiwa kuingia mahali patakatifu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bwana akaniambia, “Mwanadamu, angalia kwa uangalifu, usikilize kwa bidii na uzingatie kila kitu ninachokuambia kuhusu masharti yote yanayohusu Hekalu la Bwana . Uwe mwangalifu kuhusu wale wanaoruhusiwa hekaluni na wale wasioruhusiwa kuingia mahali patakatifu.</div>",
+      "filename": "EZK_044_Verse_007.wav",
+      "transcript": "Zaidi ya matendo yenu yote ya machukizo, mmewaleta wageni wasiotahiriwa mioyo na miili katika patakatifu pangu, mkilinajisi Hekalu langu, huku mkinitolea chakula, mafuta ya wanyama na damu, nanyi mmevunja Agano langu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Zaidi ya matendo yenu yote ya machukizo, mmewaleta wageni wasiotahiriwa mioyo na miili katika patakatifu pangu, mkilinajisi Hekalu langu, huku mkinitolea chakula, mafuta ya wanyama na damu, nanyi mmevunja Agano langu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZK_044_Verse_005.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZK_044_Verse_007.wav"
     }
   },
   {
     "data": {
       "task_uid": "00003",
-      "filename": "COL_003_Verse_011.wav",
-      "transcript": "Hapa hakuna Myunani wala Myahudi, aliyetahiriwa wala asiyetahiriwa, asiyestaarabika wala aliyestaarabika, mtumwa wala mtu huru, bali Kristo ni yote, na ndani ya wote.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hapa hakuna Myunani wala Myahudi, aliyetahiriwa wala asiyetahiriwa, asiyestaarabika wala aliyestaarabika, mtumwa wala mtu huru, bali Kristo ni yote, na ndani ya wote.</div>",
+      "filename": "COL_001_Verse_003.wav",
+      "transcript": "Siku zote tunamshukuru Mungu, Baba wa Bwana wetu Yesu Kristo, tunapowaombea ninyi,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Siku zote tunamshukuru Mungu, Baba wa Bwana wetu Yesu Kristo, tunapowaombea ninyi,</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/COL_003_Verse_011.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/COL_001_Verse_003.wav"
     }
   },
   {
     "data": {
       "task_uid": "00004",
-      "filename": "1SA_016_Verse_019.wav",
-      "transcript": "Ndipo Sauli akatuma wajumbe kwa Yese na kumwambia, “Nitumie mwanao Daudi, ambaye anachunga kondoo.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndipo Sauli akatuma wajumbe kwa Yese na kumwambia, “Nitumie mwanao Daudi, ambaye anachunga kondoo.”</div>",
+      "filename": "2CH_032_Verse_025.wav",
+      "transcript": "Lakini moyo wa Hezekia ukajaa majivuno na hakuonyesha itikio kwa wema aliotendewa, kwa hiyo ghadhabu ya Bwana ikawa juu yake na juu ya Yuda na Yerusalemu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Lakini moyo wa Hezekia ukajaa majivuno na hakuonyesha itikio kwa wema aliotendewa, kwa hiyo ghadhabu ya Bwana ikawa juu yake na juu ya Yuda na Yerusalemu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/1SA_016_Verse_019.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2CH_032_Verse_025.wav"
     }
   },
   {
     "data": {
       "task_uid": "00005",
-      "filename": "PRO_005_Verse_004.wav",
-      "transcript": "lakini mwisho wake ni mchungu kama nyongo, mkali kama upanga ukatao kuwili.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">lakini mwisho wake ni mchungu kama nyongo, mkali kama upanga ukatao kuwili.</div>",
+      "filename": "PSA_139_Verse_002.wav",
+      "transcript": "Unajua ninapoketi na ninapoinuka; unatambua mawazo yangu tokea mbali.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Unajua ninapoketi na ninapoinuka; unatambua mawazo yangu tokea mbali.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/PRO_005_Verse_004.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/PSA_139_Verse_002.wav"
     }
   },
   {
     "data": {
       "task_uid": "00006",
-      "filename": "GEN_041_Verse_039.wav",
-      "transcript": "Ndipo Farao akamwambia Yosefu, “Maadamu Mungu amekufunulia yote haya, hakuna mwingine yeyote mwenye akili na hekima kama wewe.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndipo Farao akamwambia Yosefu, “Maadamu Mungu amekufunulia yote haya, hakuna mwingine yeyote mwenye akili na hekima kama wewe.</div>",
+      "filename": "HOS_008_Verse_009.wav",
+      "transcript": "Kwa kuwa wamepanda kwenda Ashuru kama punda-mwitu anayetangatanga peke yake. Efraimu amejiuza mwenyewe kwa wapenzi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kwa kuwa wamepanda kwenda Ashuru kama punda-mwitu anayetangatanga peke yake. Efraimu amejiuza mwenyewe kwa wapenzi.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/GEN_041_Verse_039.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/HOS_008_Verse_009.wav"
     }
   },
   {
     "data": {
       "task_uid": "00007",
-      "filename": "2SA_018_Verse_003.wav",
-      "transcript": "Lakini watu wakasema, “Haikupasi kwenda, ikiwa sisi tutalazimika kukimbia, wao hawatatujali. Hata kama nusu yetu tukifa hawatajali, lakini wewe una thamani ya watu kama sisi kumi elfu. Ingekuwa bora zaidi kwako basi kutupatia msaada kutoka mjini.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Lakini watu wakasema, “Haikupasi kwenda, ikiwa sisi tutalazimika kukimbia, wao hawatatujali. Hata kama nusu yetu tukifa hawatajali, lakini wewe una thamani ya watu kama sisi kumi elfu. Ingekuwa bora zaidi kwako basi kutupatia msaada kutoka mjini.”</div>",
+      "filename": "2SA_018_Verse_020.wav",
+      "transcript": "Yoabu akamwambia Ahimaasi, “Leo si wewe utakayepeleka habari. Unaweza kupeleka habari wakati mwingine, lakini leo haikupasi kupeleka, kwa sababu mwana wa mfalme amekufa.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yoabu akamwambia Ahimaasi, “Leo si wewe utakayepeleka habari. Unaweza kupeleka habari wakati mwingine, lakini leo haikupasi kupeleka, kwa sababu mwana wa mfalme amekufa.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2SA_018_Verse_003.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2SA_018_Verse_020.wav"
     }
   },
   {
     "data": {
       "task_uid": "00008",
-      "filename": "ISA_046_Verse_002.wav",
-      "transcript": "Vinyago pamoja na wale wanaovibeba wanainama chini; hiyo miungu haiwezi kuwaokoa watu, wote wanakwenda utumwani pamoja.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Vinyago pamoja na wale wanaovibeba wanainama chini; hiyo miungu haiwezi kuwaokoa watu, wote wanakwenda utumwani pamoja.</div>",
+      "filename": "JHN_004_Verse_017.wav",
+      "transcript": "Yule mwanamke akajibu, “Sina mume.” Yesu akamwambia, “Umesema kweli kuwa huna mume.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yule mwanamke akajibu, “Sina mume.” Yesu akamwambia, “Umesema kweli kuwa huna mume.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/ISA_046_Verse_002.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JHN_004_Verse_017.wav"
     }
   },
   {
     "data": {
       "task_uid": "00009",
-      "filename": "EZK_005_Verse_005.wav",
-      "transcript": "“Hili ndilo Bwana Mwenyezi asemalo: Huu ndio Yerusalemu ambao nimeuweka katikati ya mataifa ukiwa umezungukwa na nchi pande zote.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Hili ndilo Bwana Mwenyezi asemalo: Huu ndio Yerusalemu ambao nimeuweka katikati ya mataifa ukiwa umezungukwa na nchi pande zote.</div>",
+      "filename": "EXO_036_Verse_001.wav",
+      "transcript": "Kwa hiyo Bezaleli, Oholiabu na kila mtu Bwana aliyempa ustadi na uwezo wa kujua jinsi ya kufanya kazi zote za kujenga mahali patakatifu wataifanya hiyo kazi kama vile Bwana alivyoagiza.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kwa hiyo Bezaleli, Oholiabu na kila mtu Bwana aliyempa ustadi na uwezo wa kujua jinsi ya kufanya kazi zote za kujenga mahali patakatifu wataifanya hiyo kazi kama vile Bwana alivyoagiza.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZK_005_Verse_005.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EXO_036_Verse_001.wav"
     }
   },
   {
     "data": {
       "task_uid": "00010",
-      "filename": "JHN_006_Verse_025.wav",
-      "transcript": "Walipomkuta Yesu ngʼambo ya bahari wakamuuliza, “Rabi, umefika lini huku?”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Walipomkuta Yesu ngʼambo ya bahari wakamuuliza, “Rabi, umefika lini huku?”</div>",
+      "filename": "JON_003_Verse_007.wav",
+      "transcript": "Ndipo akatoa tangazo katika Ninawi yote: “Kwa amri ya mfalme na wakuu wake: “Msiruhusu mtu yeyote au mnyama, makundi ya ngʼombe au wanyama wengine wafugwao, kuonja kitu chochote, msiwaruhusu kula wala kunywa.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndipo akatoa tangazo katika Ninawi yote: “Kwa amri ya mfalme na wakuu wake: “Msiruhusu mtu yeyote au mnyama, makundi ya ngʼombe au wanyama wengine wafugwao, kuonja kitu chochote, msiwaruhusu kula wala kunywa.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JHN_006_Verse_025.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JON_003_Verse_007.wav"
     }
   },
   {
     "data": {
       "task_uid": "00011",
-      "filename": "EZK_046_Verse_020.wav",
-      "transcript": "Akaniambia, “Mahali hapa ndipo makuhani watakapotokosea sadaka ya hatia na sadaka ya dhambi na kuoka sadaka ya nafaka, kuepuka kuzileta katika ukumbi wa nje na kushirikisha utakatifu kwa watu.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Akaniambia, “Mahali hapa ndipo makuhani watakapotokosea sadaka ya hatia na sadaka ya dhambi na kuoka sadaka ya nafaka, kuepuka kuzileta katika ukumbi wa nje na kushirikisha utakatifu kwa watu.”</div>",
+      "filename": "GEN_006_Verse_016.wav",
+      "transcript": "Itengenezee paa na umalizie safina kwa kuacha nafasi ya dhiraa moja juu. Weka mlango ubavuni mwa safina, na uifanye ya ghorofa ya chini, ya kati na ya juu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Itengenezee paa na umalizie safina kwa kuacha nafasi ya dhiraa moja juu. Weka mlango ubavuni mwa safina, na uifanye ya ghorofa ya chini, ya kati na ya juu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZK_046_Verse_020.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/GEN_006_Verse_016.wav"
     }
   },
   {
     "data": {
       "task_uid": "00012",
-      "filename": "DAN_008_Verse_004.wav",
-      "transcript": "Nikamtazama yule kondoo dume alivyokuwa akishambulia kuelekea magharibi, kaskazini na kusini. Hakuna mnyama yeyote aliyeweza kusimama dhidi yake, wala hakuna aliyeweza kuokoa kutoka nguvu zake. Alifanya kama atakavyo, naye akawa mkuu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nikamtazama yule kondoo dume alivyokuwa akishambulia kuelekea magharibi, kaskazini na kusini. Hakuna mnyama yeyote aliyeweza kusimama dhidi yake, wala hakuna aliyeweza kuokoa kutoka nguvu zake. Alifanya kama atakavyo, naye akawa mkuu.</div>",
+      "filename": "COL_001_Verse_009.wav",
+      "transcript": "Kwa sababu hii, tangu siku ile tuliposikia habari zenu, hatujakoma kuomba kwa ajili yenu na kumsihi Mungu awajaze ninyi maarifa ya mapenzi yake katika hekima yote ya kiroho na ufahamu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kwa sababu hii, tangu siku ile tuliposikia habari zenu, hatujakoma kuomba kwa ajili yenu na kumsihi Mungu awajaze ninyi maarifa ya mapenzi yake katika hekima yote ya kiroho na ufahamu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/DAN_008_Verse_004.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/COL_001_Verse_009.wav"
     }
   },
   {
     "data": {
       "task_uid": "00013",
-      "filename": "1KI_021_Verse_011.wav",
-      "transcript": "Hivyo wazee na watu wenye cheo walioishi katika mji wa Nabothi wakafanya kama Yezebeli alivyoelekeza katika barua aliyowaandikia.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hivyo wazee na watu wenye cheo walioishi katika mji wa Nabothi wakafanya kama Yezebeli alivyoelekeza katika barua aliyowaandikia.</div>",
+      "filename": "2CH_030_Verse_003.wav",
+      "transcript": "Kwa sababu makuhani hawakuwa wamejitakasa idadi ya kutosha na watu wakawa hawajakusanyika huko Yerusalemu, hawakuwa wameweza kuadhimisha Pasaka kwa wakati wake wa kawaida.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kwa sababu makuhani hawakuwa wamejitakasa idadi ya kutosha na watu wakawa hawajakusanyika huko Yerusalemu, hawakuwa wameweza kuadhimisha Pasaka kwa wakati wake wa kawaida.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/1KI_021_Verse_011.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2CH_030_Verse_003.wav"
     }
   },
   {
     "data": {
       "task_uid": "00014",
-      "filename": "MAT_011_Verse_012.wav",
-      "transcript": "Tangu siku za Yohana Mbatizaji hadi sasa, Ufalme wa Mbinguni hupatikana kwa nguvu, nao wenye nguvu wanauteka.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Tangu siku za Yohana Mbatizaji hadi sasa, Ufalme wa Mbinguni hupatikana kwa nguvu, nao wenye nguvu wanauteka.</div>",
+      "filename": "NUM_033_Verse_050.wav",
+      "transcript": "Katika tambarare za Moabu kando ya Yordani kuvukia Yeriko, Bwana akamwambia Mose,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Katika tambarare za Moabu kando ya Yordani kuvukia Yeriko, Bwana akamwambia Mose,</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/MAT_011_Verse_012.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/NUM_033_Verse_050.wav"
     }
   },
   {
     "data": {
       "task_uid": "00015",
-      "filename": "MAT_010_Verse_023.wav",
-      "transcript": "Wakiwatesa katika mji mmoja, kimbilieni mji mwingine. Amin, amin nawaambia, hamtamaliza miji yote ya Israeli kabla Mwana wa Adamu kuja.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Wakiwatesa katika mji mmoja, kimbilieni mji mwingine. Amin, amin nawaambia, hamtamaliza miji yote ya Israeli kabla Mwana wa Adamu kuja.</div>",
+      "filename": "MRK_009_Verse_009.wav",
+      "transcript": "Walipokuwa wakishuka kutoka mlimani, Yesu akawakataza wasimwambie mtu yeyote mambo waliyoona, mpaka Mwana wa Adamu atakapokuwa amefufuka kutoka kwa wafu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Walipokuwa wakishuka kutoka mlimani, Yesu akawakataza wasimwambie mtu yeyote mambo waliyoona, mpaka Mwana wa Adamu atakapokuwa amefufuka kutoka kwa wafu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/MAT_010_Verse_023.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/MRK_009_Verse_009.wav"
     }
   },
   {
     "data": {
       "task_uid": "00016",
-      "filename": "COL_002_Verse_014.wav",
-      "transcript": "akiisha kuifuta ile hati yenye mashtaka yaliyokuwa yanatukabili, pamoja na maagizo yake. Aliiondoa isiwepo tena, akiigongomea kwenye msalaba wake.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">akiisha kuifuta ile hati yenye mashtaka yaliyokuwa yanatukabili, pamoja na maagizo yake. Aliiondoa isiwepo tena, akiigongomea kwenye msalaba wake.</div>",
+      "filename": "ACT_020_Verse_024.wav",
+      "transcript": "Lakini siyahesabu maisha yangu kuwa ya thamani kwangu, kama kuyamaliza mashindano na kukamilisha ile kazi Bwana Yesu aliyonipa, yaani, kazi ya kuishuhudia Injili ya neema ya Mungu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Lakini siyahesabu maisha yangu kuwa ya thamani kwangu, kama kuyamaliza mashindano na kukamilisha ile kazi Bwana Yesu aliyonipa, yaani, kazi ya kuishuhudia Injili ya neema ya Mungu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/COL_002_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/ACT_020_Verse_024.wav"
     }
   },
   {
     "data": {
       "task_uid": "00017",
-      "filename": "GEN_009_Verse_005.wav",
-      "transcript": "Hakika damu ya uhai wenu nitaidai. Nitaidai kutoka kwa kila mnyama. Kutoka kwa kila mwanadamu pia nitaidai kwa ajili ya uhai wa mtu mwenzake.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hakika damu ya uhai wenu nitaidai. Nitaidai kutoka kwa kila mnyama. Kutoka kwa kila mwanadamu pia nitaidai kwa ajili ya uhai wa mtu mwenzake.</div>",
+      "filename": "GEN_046_Verse_022.wav",
+      "transcript": "Hawa ndio wana wa Raheli aliomzalia Yakobo; jumla yao ni kumi na wanne.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hawa ndio wana wa Raheli aliomzalia Yakobo; jumla yao ni kumi na wanne.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/GEN_009_Verse_005.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/GEN_046_Verse_022.wav"
     }
   },
   {
     "data": {
       "task_uid": "00018",
-      "filename": "JOS_023_Verse_013.wav",
-      "transcript": "basi mwe na hakika kuwa Bwana Mungu wenu hatawafukuza tena mataifa hayo mbele yenu. Badala yake, watakuwa tanzi na mitego kwenu, mijeledi migongoni mwenu, na miiba machoni mwenu, mpaka mwangamie kutoka nchi hii nzuri, ambayo Bwana Mungu wenu amewapa.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">basi mwe na hakika kuwa Bwana Mungu wenu hatawafukuza tena mataifa hayo mbele yenu. Badala yake, watakuwa tanzi na mitego kwenu, mijeledi migongoni mwenu, na miiba machoni mwenu, mpaka mwangamie kutoka nchi hii nzuri, ambayo Bwana Mungu wenu amewapa.</div>",
+      "filename": "MAT_006_Verse_008.wav",
+      "transcript": "Msiwe kama wao, kwa sababu Baba yenu anajua kile mnachohitaji kabla hamjamwomba.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Msiwe kama wao, kwa sababu Baba yenu anajua kile mnachohitaji kabla hamjamwomba.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JOS_023_Verse_013.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/MAT_006_Verse_008.wav"
     }
   },
   {
     "data": {
       "task_uid": "00019",
-      "filename": "1CH_003_Verse_021.wav",
-      "transcript": "Wazao wa Hanania walikuwa: Pelatia na Yeshaya, na wana wa Refaya, na wana wa Arnani, na wana wa Obadia, na wana wa Shekania.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Wazao wa Hanania walikuwa: Pelatia na Yeshaya, na wana wa Refaya, na wana wa Arnani, na wana wa Obadia, na wana wa Shekania.</div>",
+      "filename": "1KI_010_Verse_016.wav",
+      "transcript": "Mfalme Solomoni akatengeneza ngao kubwa 200 kwa dhahabu iliyofuliwa; kila ngao ilikuwa na dhahabu yenye uzito wa shekeli 600",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mfalme Solomoni akatengeneza ngao kubwa 200 kwa dhahabu iliyofuliwa; kila ngao ilikuwa na dhahabu yenye uzito wa shekeli 600</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/1CH_003_Verse_021.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/1KI_010_Verse_016.wav"
     }
   },
   {
     "data": {
       "task_uid": "00020",
-      "filename": "NUM_025_Verse_015.wav",
-      "transcript": "Jina la mwanamke wa Kimidiani aliyeuawa ni Kozbi binti wa Suri, aliyekuwa mkuu wa kabila la jamaa ya Wamidiani.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Jina la mwanamke wa Kimidiani aliyeuawa ni Kozbi binti wa Suri, aliyekuwa mkuu wa kabila la jamaa ya Wamidiani.</div>",
+      "filename": "PSA_067_Verse_004.wav",
+      "transcript": "Mataifa yote wafurahi na kuimba kwa shangwe, kwa kuwa unatawala watu kwa haki na kuongoza mataifa ya dunia.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mataifa yote wafurahi na kuimba kwa shangwe, kwa kuwa unatawala watu kwa haki na kuongoza mataifa ya dunia.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/NUM_025_Verse_015.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/PSA_067_Verse_004.wav"
     }
   },
   {
     "data": {
       "task_uid": "00021",
-      "filename": "EZK_027_Verse_009.wav",
-      "transcript": "Wazee wa Gebali pamoja na mafundi stadi walikuwa mafundi wako melini. Meli zote za baharini na mabaharia wao walikuja kwako ili kubadilishana bidhaa zako.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Wazee wa Gebali pamoja na mafundi stadi walikuwa mafundi wako melini. Meli zote za baharini na mabaharia wao walikuja kwako ili kubadilishana bidhaa zako.</div>",
+      "filename": "EZK_034_Verse_026.wav",
+      "transcript": "Nitawabariki wao pamoja na maeneo yanayozunguka kilima changu. Nitawanyeshea mvua kwa majira yake, kutakuwepo mvua za baraka.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nitawabariki wao pamoja na maeneo yanayozunguka kilima changu. Nitawanyeshea mvua kwa majira yake, kutakuwepo mvua za baraka.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZK_027_Verse_009.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZK_034_Verse_026.wav"
     }
   },
   {
     "data": {
       "task_uid": "00022",
-      "filename": "JOB_030_Verse_030.wav",
-      "transcript": "Ngozi yangu imekuwa nyeusi nayo inachunika; mifupa yangu inaungua kwa homa.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ngozi yangu imekuwa nyeusi nayo inachunika; mifupa yangu inaungua kwa homa.</div>",
+      "filename": "LEV_022_Verse_020.wav",
+      "transcript": "Kamwe usitoe kitu chochote chenye dosari kwa sababu hakitakubaliwa kwa niaba yako.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kamwe usitoe kitu chochote chenye dosari kwa sababu hakitakubaliwa kwa niaba yako.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JOB_030_Verse_030.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/LEV_022_Verse_020.wav"
     }
   },
   {
     "data": {
       "task_uid": "00023",
-      "filename": "ZEP_001_Verse_006.wav",
-      "transcript": "wale wanaoacha kumfuata Bwana , wala hawamtafuti Bwana wala kutaka shauri lake.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">wale wanaoacha kumfuata Bwana , wala hawamtafuti Bwana wala kutaka shauri lake.</div>",
+      "filename": "ROM_014_Verse_019.wav",
+      "transcript": "Kwa hiyo na tufanye bidii kutafuta yale yaletayo amani na kujengana sisi kwa sisi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kwa hiyo na tufanye bidii kutafuta yale yaletayo amani na kujengana sisi kwa sisi.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/ZEP_001_Verse_006.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/ROM_014_Verse_019.wav"
     }
   },
   {
     "data": {
       "task_uid": "00024",
-      "filename": "MAT_014_Verse_030.wav",
-      "transcript": "Lakini alipoona upepo mkali aliingiwa na hofu, naye akaanza kuzama, huku akipiga kelele, “Bwana, niokoe!”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Lakini alipoona upepo mkali aliingiwa na hofu, naye akaanza kuzama, huku akipiga kelele, “Bwana, niokoe!”</div>",
+      "filename": "PSA_037_Verse_003.wav",
+      "transcript": "Mtumaini Bwana na utende yaliyo mema; Kaa katika nchi ukafurahie malisho salama.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mtumaini Bwana na utende yaliyo mema; Kaa katika nchi ukafurahie malisho salama.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/MAT_014_Verse_030.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/PSA_037_Verse_003.wav"
     }
   },
   {
     "data": {
       "task_uid": "00025",
-      "filename": "JER_015_Verse_016.wav",
-      "transcript": "Maneno yako yalipokuja, niliyala; yakawa shangwe yangu na furaha ya moyo wangu, kwa kuwa nimeitwa kwa jina lako, Ee Bwana Mungu Mwenye Nguvu Zote.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Maneno yako yalipokuja, niliyala; yakawa shangwe yangu na furaha ya moyo wangu, kwa kuwa nimeitwa kwa jina lako, Ee Bwana Mungu Mwenye Nguvu Zote.</div>",
+      "filename": "JOB_013_Verse_003.wav",
+      "transcript": "Lakini ninayo shauku ya kuzungumza na Mwenyezi na kuhojiana shauri langu na Mungu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Lakini ninayo shauku ya kuzungumza na Mwenyezi na kuhojiana shauri langu na Mungu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JER_015_Verse_016.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JOB_013_Verse_003.wav"
     }
   },
   {
     "data": {
       "task_uid": "00026",
-      "filename": "ISA_040_Verse_015.wav",
-      "transcript": "Hakika mataifa ni kama tone ndani ya ndoo, ni kama vumbi jembamba juu ya mizani, huvipima visiwa kana kwamba vilikuwa vumbi laini.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hakika mataifa ni kama tone ndani ya ndoo, ni kama vumbi jembamba juu ya mizani, huvipima visiwa kana kwamba vilikuwa vumbi laini.</div>",
+      "filename": "JDG_020_Verse_033.wav",
+      "transcript": "Watu wote wa Israeli wakaondoka kwenye sehemu zao na kujipanga huko Baal-Tamari, nao wale waviziaji wa Waisraeli, wakatoka hapo walipokuwa kwenye uwanda wa magharibi ya Gibea.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Watu wote wa Israeli wakaondoka kwenye sehemu zao na kujipanga huko Baal-Tamari, nao wale waviziaji wa Waisraeli, wakatoka hapo walipokuwa kwenye uwanda wa magharibi ya Gibea.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/ISA_040_Verse_015.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JDG_020_Verse_033.wav"
     }
   },
   {
     "data": {
       "task_uid": "00027",
-      "filename": "EZK_045_Verse_023.wav",
-      "transcript": "Kila siku wakati wa hizo siku saba za sikukuu atatoa mafahali saba na kondoo dume saba wasio na dosari kuwa sadaka ya kuteketezwa kwa Bwana na beberu kwa ajili ya sadaka ya dhambi.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kila siku wakati wa hizo siku saba za sikukuu atatoa mafahali saba na kondoo dume saba wasio na dosari kuwa sadaka ya kuteketezwa kwa Bwana na beberu kwa ajili ya sadaka ya dhambi.</div>",
+      "filename": "EZR_007_Verse_006.wav",
+      "transcript": "Huyu Ezra alipanda kutoka Babeli. Alikuwa mwalimu mwenye ujuzi mzuri katika sheria ya Mose, ambayo Bwana , Mungu wa Israeli, alikuwa ametoa. Mfalme alikuwa amempa Ezra kila kitu alichoomba, kwa maana Bwana Mungu wake alikuwa pamoja naye.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Huyu Ezra alipanda kutoka Babeli. Alikuwa mwalimu mwenye ujuzi mzuri katika sheria ya Mose, ambayo Bwana , Mungu wa Israeli, alikuwa ametoa. Mfalme alikuwa amempa Ezra kila kitu alichoomba, kwa maana Bwana Mungu wake alikuwa pamoja naye.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZK_045_Verse_023.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZR_007_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00028",
-      "filename": "GAL_001_Verse_005.wav",
-      "transcript": "Utukufu una yeye milele na milele. Amen.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Utukufu una yeye milele na milele. Amen.</div>",
+      "filename": "GEN_030_Verse_013.wav",
+      "transcript": "Ndipo Lea aliposema, “Jinsi gani nilivyo na furaha! Wanawake wataniita furaha.” Kwa hiyo akamwita Asheri.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndipo Lea aliposema, “Jinsi gani nilivyo na furaha! Wanawake wataniita furaha.” Kwa hiyo akamwita Asheri.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/GAL_001_Verse_005.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/GEN_030_Verse_013.wav"
     }
   },
   {
     "data": {
       "task_uid": "00029",
-      "filename": "NUM_016_Verse_016.wav",
-      "transcript": "Mose akamwambia Kora, “Wewe na wafuasi wako wote kesho mtatokea mbele za Bwana : yaani wewe na hao wenzako, pamoja na Aroni.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mose akamwambia Kora, “Wewe na wafuasi wako wote kesho mtatokea mbele za Bwana : yaani wewe na hao wenzako, pamoja na Aroni.</div>",
+      "filename": "PSA_055_Verse_007.wav",
+      "transcript": "Ningalitorokea mbali sana na kukaa jangwani,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ningalitorokea mbali sana na kukaa jangwani,</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/NUM_016_Verse_016.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/PSA_055_Verse_007.wav"
     }
   },
   {
     "data": {
       "task_uid": "00030",
-      "filename": "PRO_025_Verse_022.wav",
-      "transcript": "Kwa kufanya hivyo, unaweka makaa ya moto yanayowaka kichwani pake, naye Bwana atakupa thawabu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kwa kufanya hivyo, unaweka makaa ya moto yanayowaka kichwani pake, naye Bwana atakupa thawabu.</div>",
+      "filename": "REV_002_Verse_028.wav",
+      "transcript": "Nami nitampa pia ile nyota ya asubuhi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nami nitampa pia ile nyota ya asubuhi.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/PRO_025_Verse_022.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/REV_002_Verse_028.wav"
     }
   },
   {
     "data": {
       "task_uid": "00031",
-      "filename": "LUK_012_Verse_017.wav",
-      "transcript": "Akawaza moyoni mwake, ‘Nifanye nini? Sina mahali pa kuhifadhi mavuno yangu.’",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Akawaza moyoni mwake, ‘Nifanye nini? Sina mahali pa kuhifadhi mavuno yangu.’</div>",
+      "filename": "MAT_020_Verse_019.wav",
+      "transcript": "na kumtia mikononi mwa watu wa Mataifa ili wamdhihaki na kumpiga mijeledi na kumsulubisha msalabani. Naye atafufuliwa siku ya tatu!”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">na kumtia mikononi mwa watu wa Mataifa ili wamdhihaki na kumpiga mijeledi na kumsulubisha msalabani. Naye atafufuliwa siku ya tatu!”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/LUK_012_Verse_017.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/MAT_020_Verse_019.wav"
     }
   },
   {
     "data": {
       "task_uid": "00032",
-      "filename": "JHN_011_Verse_048.wav",
-      "transcript": "Kama tukimwacha aendelee hivi, kila mtu atamwamini, nao Warumi watakuja na kupaharibu mahali petu patakatifu na taifa letu.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kama tukimwacha aendelee hivi, kila mtu atamwamini, nao Warumi watakuja na kupaharibu mahali petu patakatifu na taifa letu.”</div>",
+      "filename": "LEV_003_Verse_005.wav",
+      "transcript": "Kisha wana wa Aroni wataiteketeza juu ya madhabahu, juu ya ile sadaka ya kuteketezwa iliyoko juu ya kuni zinazowaka, kama sadaka ya kuteketezwa kwa moto, harufu nzuri ya kumpendeza Bwana .",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kisha wana wa Aroni wataiteketeza juu ya madhabahu, juu ya ile sadaka ya kuteketezwa iliyoko juu ya kuni zinazowaka, kama sadaka ya kuteketezwa kwa moto, harufu nzuri ya kumpendeza Bwana .</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JHN_011_Verse_048.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/LEV_003_Verse_005.wav"
     }
   },
   {
     "data": {
       "task_uid": "00033",
-      "filename": "NUM_027_Verse_012.wav",
-      "transcript": "Kisha Bwana akamwambia Mose, “Panda juu ya mlima huu katika kilele cha Abarimu uione nchi ambayo nimewapa Waisraeli.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kisha Bwana akamwambia Mose, “Panda juu ya mlima huu katika kilele cha Abarimu uione nchi ambayo nimewapa Waisraeli.</div>",
+      "filename": "PSA_089_Verse_047.wav",
+      "transcript": "Kumbuka jinsi maisha yangu yanavyopita haraka. Ni kwa ubatili kiasi gani umemuumba mwanadamu!",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kumbuka jinsi maisha yangu yanavyopita haraka. Ni kwa ubatili kiasi gani umemuumba mwanadamu!</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/NUM_027_Verse_012.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/PSA_089_Verse_047.wav"
     }
   },
   {
     "data": {
       "task_uid": "00034",
-      "filename": "ECC_002_Verse_011.wav",
-      "transcript": "Hata hivyo nilipokuja kuangalia yote ambayo mikono yangu ilikuwa imefanya na yale niliyotaabika kukamilisha, kila kitu kilikuwa ni ubatili, ni kukimbiza upepo; hapakuwa na faida yoyote chini ya jua.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hata hivyo nilipokuja kuangalia yote ambayo mikono yangu ilikuwa imefanya na yale niliyotaabika kukamilisha, kila kitu kilikuwa ni ubatili, ni kukimbiza upepo; hapakuwa na faida yoyote chini ya jua.</div>",
+      "filename": "DEU_012_Verse_031.wav",
+      "transcript": "Kamwe msimwabudu Bwana Mungu wenu kwa njia wanayoabudu miungu yao, kwa sababu katika kuabudu miungu yao, wanafanya aina zote za machukizo anayoyachukia Bwana . Hata huwateketeza wana wao na binti zao kwa moto kama kafara kwa miungu yao.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kamwe msimwabudu Bwana Mungu wenu kwa njia wanayoabudu miungu yao, kwa sababu katika kuabudu miungu yao, wanafanya aina zote za machukizo anayoyachukia Bwana . Hata huwateketeza wana wao na binti zao kwa moto kama kafara kwa miungu yao.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/ECC_002_Verse_011.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/DEU_012_Verse_031.wav"
     }
   },
   {
     "data": {
       "task_uid": "00035",
-      "filename": "ZEP_002_Verse_010.wav",
-      "transcript": "Hiki ndicho watarudishiwa kwa ajili ya kiburi chao, kwa kutukana na kudhihaki watu wa Bwana Mwenye Nguvu Zote.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hiki ndicho watarudishiwa kwa ajili ya kiburi chao, kwa kutukana na kudhihaki watu wa Bwana Mwenye Nguvu Zote.</div>",
+      "filename": "RUT_002_Verse_002.wav",
+      "transcript": "Ruthu, Mmoabu, akamwambia Naomi, “Nitakwenda mashambani nikaokote mabaki ya nafaka nyuma ya yule nitakayepata kibali machoni pake.” Naomi akamwambia, “Nenda, binti yangu.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ruthu, Mmoabu, akamwambia Naomi, “Nitakwenda mashambani nikaokote mabaki ya nafaka nyuma ya yule nitakayepata kibali machoni pake.” Naomi akamwambia, “Nenda, binti yangu.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/ZEP_002_Verse_010.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/RUT_002_Verse_002.wav"
     }
   },
   {
     "data": {
       "task_uid": "00036",
-      "filename": "TIT_003_Verse_014.wav",
-      "transcript": "Watu wetu hawana budi kujifunza kutenda mema, ili waweze kuyakimu mahitaji ya kila siku, wasije wakaishi maisha yasiyokuwa na matunda.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Watu wetu hawana budi kujifunza kutenda mema, ili waweze kuyakimu mahitaji ya kila siku, wasije wakaishi maisha yasiyokuwa na matunda.</div>",
+      "filename": "REV_010_Verse_004.wav",
+      "transcript": "Nazo zile radi saba zilipotoa ngurumo, nilitaka kuanza kuandika, lakini nikasikia sauti kutoka mbinguni ikisema, “Yatie muhuri hayo yaliyosemwa na hizo radi saba na usiyaandike.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nazo zile radi saba zilipotoa ngurumo, nilitaka kuanza kuandika, lakini nikasikia sauti kutoka mbinguni ikisema, “Yatie muhuri hayo yaliyosemwa na hizo radi saba na usiyaandike.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/TIT_003_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/REV_010_Verse_004.wav"
     }
   },
   {
     "data": {
       "task_uid": "00037",
-      "filename": "1KI_014_Verse_011.wav",
-      "transcript": "Mbwa watawala wale walio wa nyumba ya Yeroboamu watakaofia ndani ya mji na ndege wa angani watajilisha kwa wale watakaofia mashambani. Bwana amesema!’",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mbwa watawala wale walio wa nyumba ya Yeroboamu watakaofia ndani ya mji na ndege wa angani watajilisha kwa wale watakaofia mashambani. Bwana amesema!’</div>",
+      "filename": "2CH_026_Verse_008.wav",
+      "transcript": "Waamoni wakamletea Uzia ushuru, umaarufu wake ukaenea hadi kwenye mpaka wa Misri, kwa sababu alikuwa amekuwa na nguvu sana.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Waamoni wakamletea Uzia ushuru, umaarufu wake ukaenea hadi kwenye mpaka wa Misri, kwa sababu alikuwa amekuwa na nguvu sana.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/1KI_014_Verse_011.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2CH_026_Verse_008.wav"
     }
   },
   {
     "data": {
       "task_uid": "00038",
-      "filename": "HAG_002_Verse_018.wav",
-      "transcript": "‘Tangu leo na kuendelea, kuanzia siku hii ya ishirini na nne ya mwezi wa tisa, tafakarini siku ambayo msingi wa Hekalu la Bwana uliwekwa. Tafakarini:",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">‘Tangu leo na kuendelea, kuanzia siku hii ya ishirini na nne ya mwezi wa tisa, tafakarini siku ambayo msingi wa Hekalu la Bwana uliwekwa. Tafakarini:</div>",
+      "filename": "ISA_028_Verse_018.wav",
+      "transcript": "Agano lenu na kifo litabatilishwa, patano lenu na kuzimu halitasimama. Wakati pigo lifurikalo litakapowakumba, litawaangusha chini.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Agano lenu na kifo litabatilishwa, patano lenu na kuzimu halitasimama. Wakati pigo lifurikalo litakapowakumba, litawaangusha chini.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/HAG_002_Verse_018.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/ISA_028_Verse_018.wav"
     }
   },
   {
     "data": {
       "task_uid": "00039",
-      "filename": "LUK_022_Verse_014.wav",
-      "transcript": "Wakati ulipowadia, Yesu akaketi mezani pamoja na wale mitume wake.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Wakati ulipowadia, Yesu akaketi mezani pamoja na wale mitume wake.</div>",
+      "filename": "MIC_004_Verse_006.wav",
+      "transcript": "“Katika siku hiyo,” asema Bwana , “nitawakusanya walemavu; nitawakusanya walio uhamishoni na wale niliowahuzunisha.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Katika siku hiyo,” asema Bwana , “nitawakusanya walemavu; nitawakusanya walio uhamishoni na wale niliowahuzunisha.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/LUK_022_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/MIC_004_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00040",
-      "filename": "1TH_004_Verse_007.wav",
-      "transcript": "Kwa maana Mungu hakutuitia uchafu, bali utakatifu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kwa maana Mungu hakutuitia uchafu, bali utakatifu.</div>",
+      "filename": "2CH_034_Verse_007.wav",
+      "transcript": "akavunja madhabahu na nguzo za Ashera na kuzipondaponda hizo sanamu hadi zikawa unga na kukata vipande vipande madhabahu zote za kufukizia uvumba katika Israeli yote. Kisha akarudi Yerusalemu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">akavunja madhabahu na nguzo za Ashera na kuzipondaponda hizo sanamu hadi zikawa unga na kukata vipande vipande madhabahu zote za kufukizia uvumba katika Israeli yote. Kisha akarudi Yerusalemu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/1TH_004_Verse_007.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2CH_034_Verse_007.wav"
     }
   },
   {
     "data": {
       "task_uid": "00041",
-      "filename": "JOS_023_Verse_009.wav",
-      "transcript": "“ Bwana amewafukuza mbele yenu mataifa makubwa na yenye nguvu, mpaka siku ya leo hakuna yeyote aliyeweza kusimama mbele yenu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“ Bwana amewafukuza mbele yenu mataifa makubwa na yenye nguvu, mpaka siku ya leo hakuna yeyote aliyeweza kusimama mbele yenu.</div>",
+      "filename": "LUK_005_Verse_036.wav",
+      "transcript": "Yesu akawapa mfano huu, akawaambia: “Hakuna mtu achanaye kiraka kutoka kwenye nguo mpya na kukishonea kwenye nguo iliyochakaa. Akifanya hivyo, atakuwa amechana nguo mpya, na kile kiraka hakitalingana na ile nguo iliyochakaa.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yesu akawapa mfano huu, akawaambia: “Hakuna mtu achanaye kiraka kutoka kwenye nguo mpya na kukishonea kwenye nguo iliyochakaa. Akifanya hivyo, atakuwa amechana nguo mpya, na kile kiraka hakitalingana na ile nguo iliyochakaa.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/JOS_023_Verse_009.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/LUK_005_Verse_036.wav"
     }
   },
   {
     "data": {
       "task_uid": "00042",
-      "filename": "2JN_001_Verse_008.wav",
-      "transcript": "Jihadharini msije mkapoteza kile mlichokitenda, bali mpate kupewa thawabu kamilifu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Jihadharini msije mkapoteza kile mlichokitenda, bali mpate kupewa thawabu kamilifu.</div>",
+      "filename": "2CO_012_Verse_005.wav",
+      "transcript": "Nitajisifu kwa ajili ya mtu kama huyo, lakini sitajisifu kuhusu mimi mwenyewe ila mimi nitajisifia udhaifu wangu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nitajisifu kwa ajili ya mtu kama huyo, lakini sitajisifu kuhusu mimi mwenyewe ila mimi nitajisifia udhaifu wangu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2JN_001_Verse_008.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2CO_012_Verse_005.wav"
     }
   },
   {
     "data": {
       "task_uid": "00043",
-      "filename": "2SA_014_Verse_014.wav",
-      "transcript": "Kama vile maji yaliyomwagika ardhini, yasivyoweza kuzoleka tena, hivyo sisi kufa ni lazima. Lakini Mungu haondoi uhai, badala yake, yeye hufanya njia ili kwamba aliyefukuzwa asibaki akiwa amefarikishwa naye.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kama vile maji yaliyomwagika ardhini, yasivyoweza kuzoleka tena, hivyo sisi kufa ni lazima. Lakini Mungu haondoi uhai, badala yake, yeye hufanya njia ili kwamba aliyefukuzwa asibaki akiwa amefarikishwa naye.</div>",
+      "filename": "2SA_010_Verse_008.wav",
+      "transcript": "Waamoni wakatoka wakajipanga wakiwa tayari kwa vita langoni la mji wao, wakati Waaramu wa Soba, wa Rehobu, watu wa Tobu na Maaka walikuwa peke yao kwenye eneo la wazi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Waamoni wakatoka wakajipanga wakiwa tayari kwa vita langoni la mji wao, wakati Waaramu wa Soba, wa Rehobu, watu wa Tobu na Maaka walikuwa peke yao kwenye eneo la wazi.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2SA_014_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2SA_010_Verse_008.wav"
     }
   },
   {
     "data": {
       "task_uid": "00044",
-      "filename": "ECC_008_Verse_014.wav",
-      "transcript": "Kuna kitu kingine ambacho ni ubatili kinachotokea duniani: Watu waadilifu kupata yale yanayowastahili waovu, nao waovu kupata yale yanayowastahili waadilifu. Hili nalo pia, nasema ni ubatili.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kuna kitu kingine ambacho ni ubatili kinachotokea duniani: Watu waadilifu kupata yale yanayowastahili waovu, nao waovu kupata yale yanayowastahili waadilifu. Hili nalo pia, nasema ni ubatili.</div>",
+      "filename": "DEU_030_Verse_012.wav",
+      "transcript": "Hakiko juu mbinguni, ili uulize, “Ni nani atakayepanda mbinguni kukileta na kututangazia ili tuweze kutii?”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hakiko juu mbinguni, ili uulize, “Ni nani atakayepanda mbinguni kukileta na kututangazia ili tuweze kutii?”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/ECC_008_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/DEU_030_Verse_012.wav"
     }
   },
   {
     "data": {
       "task_uid": "00045",
-      "filename": "EXO_013_Verse_005.wav",
-      "transcript": "Bwana atakapokuleta katika nchi ya Wakanaani, Wahiti, Waamori, Wahivi na Wayebusi, nchi aliyowaapia baba zako kukupa, nchi itiririkayo maziwa na asali, utaiadhimisha sikukuu hii katika mwezi huu:",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bwana atakapokuleta katika nchi ya Wakanaani, Wahiti, Waamori, Wahivi na Wayebusi, nchi aliyowaapia baba zako kukupa, nchi itiririkayo maziwa na asali, utaiadhimisha sikukuu hii katika mwezi huu:</div>",
+      "filename": "EXO_029_Verse_024.wav",
+      "transcript": "Viweke vitu hivi vyote mikononi mwa Aroni na wanawe na uviinue mbele za Bwana kuwa sadaka ya kuinuliwa.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Viweke vitu hivi vyote mikononi mwa Aroni na wanawe na uviinue mbele za Bwana kuwa sadaka ya kuinuliwa.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EXO_013_Verse_005.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EXO_029_Verse_024.wav"
     }
   },
   {
     "data": {
       "task_uid": "00046",
-      "filename": "EZK_021_Verse_024.wav",
-      "transcript": "“Kwa hiyo hili ndilo Bwana Mwenyezi asemalo: ‘Kwa sababu enyi watu mmekumbusha uovu wenu kwa kuasi waziwazi, mkidhihirisha dhambi zenu katika yale yote mfanyayo, kwa kuwa mmefanya jambo hili, mtachukuliwa mateka.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Kwa hiyo hili ndilo Bwana Mwenyezi asemalo: ‘Kwa sababu enyi watu mmekumbusha uovu wenu kwa kuasi waziwazi, mkidhihirisha dhambi zenu katika yale yote mfanyayo, kwa kuwa mmefanya jambo hili, mtachukuliwa mateka.</div>",
+      "filename": "EZK_027_Verse_012.wav",
+      "transcript": "“ ‘Tarshishi walifanya biashara nawe kwa sababu ya utajiri wako mkubwa wa bidhaa, walibadilisha fedha, chuma, bati na risasi kwa mali zako.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“ ‘Tarshishi walifanya biashara nawe kwa sababu ya utajiri wako mkubwa wa bidhaa, walibadilisha fedha, chuma, bati na risasi kwa mali zako.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZK_021_Verse_024.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/EZK_027_Verse_012.wav"
     }
   },
   {
     "data": {
       "task_uid": "00047",
-      "filename": "1CH_004_Verse_019.wav",
-      "transcript": "Wana wa mke wa Hodia aliyekuwa dada yake Nahamu walikuwa: baba yake Keila, Mgarmi na Eshtemoa, Mmaakathi.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Wana wa mke wa Hodia aliyekuwa dada yake Nahamu walikuwa: baba yake Keila, Mgarmi na Eshtemoa, Mmaakathi.</div>",
+      "filename": "1SA_010_Verse_005.wav",
+      "transcript": "“Baada ya hayo utakwenda Gibea ya Mungu, ambapo hapo kuna kambi ya Wafilisti. Unapokaribia mji utakutana na kundi la manabii wakiteremka kutoka mahali pa juu wakiwa na vinubi, matari, filimbi na zeze vikipigwa mbele yao, nao watakuwa wakitoa unabii.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Baada ya hayo utakwenda Gibea ya Mungu, ambapo hapo kuna kambi ya Wafilisti. Unapokaribia mji utakutana na kundi la manabii wakiteremka kutoka mahali pa juu wakiwa na vinubi, matari, filimbi na zeze vikipigwa mbele yao, nao watakuwa wakitoa unabii.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/1CH_004_Verse_019.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/1SA_010_Verse_005.wav"
     }
   },
   {
     "data": {
       "task_uid": "00048",
-      "filename": "2KI_019_Verse_014.wav",
-      "transcript": "Hezekia akapokea barua kutoka kwa wale wajumbe, naye akaisoma. Kisha akapanda katika Hekalu la Bwana , akaikunjua mbele za Bwana .",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hezekia akapokea barua kutoka kwa wale wajumbe, naye akaisoma. Kisha akapanda katika Hekalu la Bwana , akaikunjua mbele za Bwana .</div>",
+      "filename": "2KI_021_Verse_009.wav",
+      "transcript": "Lakini hawa watu hawakusikiliza. Manase akawapotosha, hivyo kwamba walifanya maovu mengi kuliko mataifa ambayo Bwana aliyaangamiza mbele ya Waisraeli.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Lakini hawa watu hawakusikiliza. Manase akawapotosha, hivyo kwamba walifanya maovu mengi kuliko mataifa ambayo Bwana aliyaangamiza mbele ya Waisraeli.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2KI_019_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/2KI_021_Verse_009.wav"
     }
   },
   {
     "data": {
       "task_uid": "00049",
-      "filename": "MAT_012_Verse_027.wav",
-      "transcript": "Nami kama natoa pepo wachafu kwa nguvu za Beelzebuli, watu wenu je, wao hutoa pepo wachafu kwa uwezo wa nani? Hivyo basi, wao ndio watakaowahukumu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nami kama natoa pepo wachafu kwa nguvu za Beelzebuli, watu wenu je, wao hutoa pepo wachafu kwa uwezo wa nani? Hivyo basi, wao ndio watakaowahukumu.</div>",
+      "filename": "NUM_035_Verse_002.wav",
+      "transcript": "“Waagize Waisraeli kuwapa Walawi miji ya kuishi kutoka urithi ambao Waisraeli wataumiliki. Wape maeneo ya malisho kuzunguka hiyo miji.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Waagize Waisraeli kuwapa Walawi miji ya kuishi kutoka urithi ambao Waisraeli wataumiliki. Wape maeneo ya malisho kuzunguka hiyo miji.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Swahili</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/MAT_012_Verse_027.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Swahili/NUM_035_Verse_002.wav"
     }
   }
 ]

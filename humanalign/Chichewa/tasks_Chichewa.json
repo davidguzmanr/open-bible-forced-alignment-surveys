@@ -2,501 +2,501 @@
   {
     "data": {
       "task_uid": "00000",
-      "filename": "JER_025_Verse_019.wav",
-      "transcript": "Ananditumanso kwa Farao, mfumu ya ku Igupto, kwa atumiki ake, nduna zake ndi kwa anthu ake onse,",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ananditumanso kwa Farao, mfumu ya ku Igupto, kwa atumiki ake, nduna zake ndi kwa anthu ake onse,</div>",
+      "filename": "JDG_018_Verse_009.wav",
+      "transcript": "“Tiyeni tikamenyane nawo nkhondo popeza taliona dziko lawolo kuti ndi lachonde kwambiri. Kodi simuchitapo kanthu? Musachite mphwayi kupita mʼdzikomo ndi kukalilanda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Tiyeni tikamenyane nawo nkhondo popeza taliona dziko lawolo kuti ndi lachonde kwambiri. Kodi simuchitapo kanthu? Musachite mphwayi kupita mʼdzikomo ndi kukalilanda.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JER_025_Verse_019.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JDG_018_Verse_009.wav"
     }
   },
   {
     "data": {
       "task_uid": "00001",
-      "filename": "ISA_021_Verse_002.wav",
-      "transcript": "Ine ndaona zinthu zoopsa mʼmasomphenya: Wonyenga akunyenga, wofunkha akufunkha komanso owononga akuwononga. Elamu, yambani nkhondo! Mediya, zingani mzinda! Ine ndidzathetsa mavuto onse amene anayambitsa Ababuloni.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ine ndaona zinthu zoopsa mʼmasomphenya: Wonyenga akunyenga, wofunkha akufunkha komanso owononga akuwononga. Elamu, yambani nkhondo! Mediya, zingani mzinda! Ine ndidzathetsa mavuto onse amene anayambitsa Ababuloni.</div>",
+      "filename": "HAG_002_Verse_003.wav",
+      "transcript": "‘Kodi alipo amene watsala pakati panu amene anaona ulemerero wakale wa Nyumba iyi? Nanga tsopano ikuoneka motani kwa inu? Kodi sikuoneka ngati yopanda pake kwa inu?",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">‘Kodi alipo amene watsala pakati panu amene anaona ulemerero wakale wa Nyumba iyi? Nanga tsopano ikuoneka motani kwa inu? Kodi sikuoneka ngati yopanda pake kwa inu?</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ISA_021_Verse_002.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/HAG_002_Verse_003.wav"
     }
   },
   {
     "data": {
       "task_uid": "00002",
-      "filename": "GAL_002_Verse_006.wav",
-      "transcript": "Koma kunena za aja ankaoneka ngati ofunika kwambiri, chimene iwo anali sichisintha kanthu kwa ine; chifukwa Mulungu alibe tsankho, iwowo sanawonjezepo kanthu pa uthenga wanga.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koma kunena za aja ankaoneka ngati ofunika kwambiri, chimene iwo anali sichisintha kanthu kwa ine; chifukwa Mulungu alibe tsankho, iwowo sanawonjezepo kanthu pa uthenga wanga.</div>",
+      "filename": "EZK_047_Verse_006.wav",
+      "transcript": "Munthuyo anandifunsa kuti: “Iwe mwana wa munthu, kodi ukuziona zimenezi?” Kenaka anabwerera nane ku gombe la mtsinjewo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Munthuyo anandifunsa kuti: “Iwe mwana wa munthu, kodi ukuziona zimenezi?” Kenaka anabwerera nane ku gombe la mtsinjewo.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/GAL_002_Verse_006.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/EZK_047_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00003",
-      "filename": "2SA_011_Verse_015.wav",
-      "transcript": "Mʼkalatayo analembamo kuti, “Uriya mumuyike patsogolo penipeni, pamene pali nkhondo yoopsa. Ndipo mumusiye yekha kuti akanthidwe ndi kufa.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mʼkalatayo analembamo kuti, “Uriya mumuyike patsogolo penipeni, pamene pali nkhondo yoopsa. Ndipo mumusiye yekha kuti akanthidwe ndi kufa.”</div>",
+      "filename": "DAN_008_Verse_006.wav",
+      "transcript": "Inabwera molunjika nkhosa yayimuna ya nyanga ziwiri ija imene ndinaona itayima pafupi ndi mtsinje. Ndipo inayithamangira mwaukali.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Inabwera molunjika nkhosa yayimuna ya nyanga ziwiri ija imene ndinaona itayima pafupi ndi mtsinje. Ndipo inayithamangira mwaukali.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2SA_011_Verse_015.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/DAN_008_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00004",
-      "filename": "1SA_003_Verse_017.wav",
-      "transcript": "Tsono Eli anafunsa kuti, “Yehova wakuwuza chiyani? Usandibisire. Mulungu akulange ndithu ngati undibisira chilichonse cha zimene wakuwuza.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Tsono Eli anafunsa kuti, “Yehova wakuwuza chiyani? Usandibisire. Mulungu akulange ndithu ngati undibisira chilichonse cha zimene wakuwuza.”</div>",
+      "filename": "1TI_004_Verse_010.wav",
+      "transcript": "Nʼchifukwa chake timagwira ntchito molimbika ndi kuyesetsa, chifukwa tayika chiyembekezo chathu mwa Mulungu wamoyo, amene ndi Mpulumutsi wa anthu onse, koma makamaka wa amene amakhulupirira.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nʼchifukwa chake timagwira ntchito molimbika ndi kuyesetsa, chifukwa tayika chiyembekezo chathu mwa Mulungu wamoyo, amene ndi Mpulumutsi wa anthu onse, koma makamaka wa amene amakhulupirira.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1SA_003_Verse_017.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1TI_004_Verse_010.wav"
     }
   },
   {
     "data": {
       "task_uid": "00005",
-      "filename": "PSA_069_Verse_027.wav",
-      "transcript": "Awonjezereni kulakwa pa kulakwa kwawo, musalole kuti akhale ndi gawo pa chipulumutso chanu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Awonjezereni kulakwa pa kulakwa kwawo, musalole kuti akhale ndi gawo pa chipulumutso chanu.</div>",
+      "filename": "PSA_112_Verse_007.wav",
+      "transcript": "Saopa akamva zoyipa zimene zachitika; mtima wake ndi wokhazikika ndipo amadalira Yehova.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Saopa akamva zoyipa zimene zachitika; mtima wake ndi wokhazikika ndipo amadalira Yehova.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_069_Verse_027.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_112_Verse_007.wav"
     }
   },
   {
     "data": {
       "task_uid": "00006",
-      "filename": "JER_030_Verse_023.wav",
-      "transcript": "Taonani ukali wa Yehova wowomba ngati mphepo ya mkuntho. Mphepo ya namondwe ikuwomba pa mitu ya anthu oyipa.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Taonani ukali wa Yehova wowomba ngati mphepo ya mkuntho. Mphepo ya namondwe ikuwomba pa mitu ya anthu oyipa.</div>",
+      "filename": "JER_038_Verse_015.wav",
+      "transcript": "Yeremiya anati kwa Zedekiya, “Ndikakuyankhani, kodi simundipha? Ngakhaletu ine nditakulangizani, inu simudzandimvera.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yeremiya anati kwa Zedekiya, “Ndikakuyankhani, kodi simundipha? Ngakhaletu ine nditakulangizani, inu simudzandimvera.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JER_030_Verse_023.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JER_038_Verse_015.wav"
     }
   },
   {
     "data": {
       "task_uid": "00007",
-      "filename": "2KI_021_Verse_010.wav",
-      "transcript": "Yehova anayankhula kudzera mwa atumiki ake, aneneri kuti,",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yehova anayankhula kudzera mwa atumiki ake, aneneri kuti,</div>",
+      "filename": "ACT_008_Verse_025.wav",
+      "transcript": "Atatha kuchitira umboni ndi kulalikira mawu a Ambuye, Petro ndi Yohane anabwerera ku Yerusalemu, atalalikira Uthenga Wabwino mʼmidzi yambiri ya Asamariya.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Atatha kuchitira umboni ndi kulalikira mawu a Ambuye, Petro ndi Yohane anabwerera ku Yerusalemu, atalalikira Uthenga Wabwino mʼmidzi yambiri ya Asamariya.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2KI_021_Verse_010.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ACT_008_Verse_025.wav"
     }
   },
   {
     "data": {
       "task_uid": "00008",
-      "filename": "JHN_001_Verse_033.wav",
-      "transcript": "Ine sindikanamudziwa Iye, koma kuti amene anandituma ine kudzabatiza ndi madzi anati kwa ine, ‘Munthu amene udzaona Mzimu Woyera akutsika nakhazikika pa Iye ndi amene adzabatize ndi Mzimu Woyera.’",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ine sindikanamudziwa Iye, koma kuti amene anandituma ine kudzabatiza ndi madzi anati kwa ine, ‘Munthu amene udzaona Mzimu Woyera akutsika nakhazikika pa Iye ndi amene adzabatize ndi Mzimu Woyera.’</div>",
+      "filename": "JOB_015_Verse_019.wav",
+      "transcript": "(Ndi kwa iwowa kumene dziko lino linaperekedwa pamene panalibe mlendo wokhala pakati pawo).",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">(Ndi kwa iwowa kumene dziko lino linaperekedwa pamene panalibe mlendo wokhala pakati pawo).</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JHN_001_Verse_033.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JOB_015_Verse_019.wav"
     }
   },
   {
     "data": {
       "task_uid": "00009",
-      "filename": "DEU_028_Verse_007.wav",
-      "transcript": "Yehova adzaonetsetsa kuti adani anu amene adzakuwukirani agonjetsedwe pamaso panu. Iwo adzabwera kwa inu kuchokera mbali imodzi koma adzakuthawani ku mbali zisanu ndi ziwiri.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yehova adzaonetsetsa kuti adani anu amene adzakuwukirani agonjetsedwe pamaso panu. Iwo adzabwera kwa inu kuchokera mbali imodzi koma adzakuthawani ku mbali zisanu ndi ziwiri.</div>",
+      "filename": "EXO_032_Verse_001.wav",
+      "transcript": "Anthu ataona kuti Mose akuchedwa kutsika mʼphiri, anasonkhana kwa Aaroni ndipo anati, “Bwera utipangire milungu imene idzititsogolera. Kunena za Mose amene anatitulutsa mʼdziko la Igupto, sitikudziwa chimene chamuchitikira.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Anthu ataona kuti Mose akuchedwa kutsika mʼphiri, anasonkhana kwa Aaroni ndipo anati, “Bwera utipangire milungu imene idzititsogolera. Kunena za Mose amene anatitulutsa mʼdziko la Igupto, sitikudziwa chimene chamuchitikira.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/DEU_028_Verse_007.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/EXO_032_Verse_001.wav"
     }
   },
   {
     "data": {
       "task_uid": "00010",
-      "filename": "JOB_015_Verse_013.wav",
-      "transcript": "moti ukupsera mtima Mulungu ndi kuyankhula mawu otero pakamwa pako?",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">moti ukupsera mtima Mulungu ndi kuyankhula mawu otero pakamwa pako?</div>",
+      "filename": "LEV_014_Verse_045.wav",
+      "transcript": "Agwetse nyumbayo, ndipo miyala yake, matabwa pamodzi ndi dothi lake lonse, zonse akazitaye kudzala lodetsedwa, kunja kwa mzinda.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Agwetse nyumbayo, ndipo miyala yake, matabwa pamodzi ndi dothi lake lonse, zonse akazitaye kudzala lodetsedwa, kunja kwa mzinda.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JOB_015_Verse_013.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LEV_014_Verse_045.wav"
     }
   },
   {
     "data": {
       "task_uid": "00011",
-      "filename": "GEN_038_Verse_025.wav",
-      "transcript": "Akumutulutsa, iye anatuma mawu kwa apongozi ake. Anati, “Ndili ndi pathupi pa munthu amene ndi mwini wake wa zinthu izi. Taziyangʼanitsitsani, kodi mwini wa khoza, chingwe ndi ndodo yoyenderayi ndi yani?”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Akumutulutsa, iye anatuma mawu kwa apongozi ake. Anati, “Ndili ndi pathupi pa munthu amene ndi mwini wake wa zinthu izi. Taziyangʼanitsitsani, kodi mwini wa khoza, chingwe ndi ndodo yoyenderayi ndi yani?”</div>",
+      "filename": "GEN_034_Verse_012.wav",
+      "transcript": "Tchulani mtengo wamalowolo umene ndiyenera kupereka, ndipo ndipereka. Ndidzakupatsani chilichonse chimene mukufuna malingana inu mukandipatsa namwaliyu kuti ndimukwatire.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Tchulani mtengo wamalowolo umene ndiyenera kupereka, ndipo ndipereka. Ndidzakupatsani chilichonse chimene mukufuna malingana inu mukandipatsa namwaliyu kuti ndimukwatire.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/GEN_038_Verse_025.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/GEN_034_Verse_012.wav"
     }
   },
   {
     "data": {
       "task_uid": "00012",
-      "filename": "2SA_012_Verse_013.wav",
-      "transcript": "Kenaka Davide anati kwa Natani, “Ine ndachimwira Yehova.” Natani anayankha kuti, “Yehova wachotsa tchimo lanu. Simufa ayi.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kenaka Davide anati kwa Natani, “Ine ndachimwira Yehova.” Natani anayankha kuti, “Yehova wachotsa tchimo lanu. Simufa ayi.</div>",
+      "filename": "DEU_004_Verse_001.wav",
+      "transcript": "Mverani inu Aisraeli, malangizo ndi malamulo amene ndikuphunzitseni. Muwatsatire kuti mukhale ndi moyo ndi kuti mulowe ndi kutenga dziko limene Yehova Mulungu wa makolo anu akukupatsani.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mverani inu Aisraeli, malangizo ndi malamulo amene ndikuphunzitseni. Muwatsatire kuti mukhale ndi moyo ndi kuti mulowe ndi kutenga dziko limene Yehova Mulungu wa makolo anu akukupatsani.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2SA_012_Verse_013.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/DEU_004_Verse_001.wav"
     }
   },
   {
     "data": {
       "task_uid": "00013",
-      "filename": "1SA_002_Verse_014.wav",
-      "transcript": "Iye ankachipisa mu mʼphikamo, ndipo wansembeyo amatenga chilichonse chimene folokoyo yabaya. Umu ndi mmene ansembewo amachitira ndi Aisraeli onse amene amabwera ku Silo.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Iye ankachipisa mu mʼphikamo, ndipo wansembeyo amatenga chilichonse chimene folokoyo yabaya. Umu ndi mmene ansembewo amachitira ndi Aisraeli onse amene amabwera ku Silo.</div>",
+      "filename": "1KI_016_Verse_004.wav",
+      "transcript": "Agalu adzadya aliyense wa banja la Baasa amene adzafere mu mzinda, ndipo mbalame za mu mlengalenga zidzadya iwo amene adzafere kuthengo.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Agalu adzadya aliyense wa banja la Baasa amene adzafere mu mzinda, ndipo mbalame za mu mlengalenga zidzadya iwo amene adzafere kuthengo.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1SA_002_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1KI_016_Verse_004.wav"
     }
   },
   {
     "data": {
       "task_uid": "00014",
-      "filename": "NEH_011_Verse_014.wav",
-      "transcript": "ndi abale ake. Onse pamodzi anali 128 ndipo anali anthu olimba mtima kwambiri. Mtsogoleri wawo wamkulu anali Zabidieli mwana wa Hagedolimu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">ndi abale ake. Onse pamodzi anali 128 ndipo anali anthu olimba mtima kwambiri. Mtsogoleri wawo wamkulu anali Zabidieli mwana wa Hagedolimu.</div>",
+      "filename": "PRO_014_Verse_026.wav",
+      "transcript": "Amene amaopa Yehova ali ndi chitetezo chokwanira ndipo iye adzakhala pothawira pa ana ake.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Amene amaopa Yehova ali ndi chitetezo chokwanira ndipo iye adzakhala pothawira pa ana ake.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/NEH_011_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PRO_014_Verse_026.wav"
     }
   },
   {
     "data": {
       "task_uid": "00015",
-      "filename": "LUK_024_Verse_006.wav",
-      "transcript": "Iye sali muno ayi. Wauka! Kumbukirani zimene anakuwuzani pamene anali nanu ku Galileya:",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Iye sali muno ayi. Wauka! Kumbukirani zimene anakuwuzani pamene anali nanu ku Galileya:</div>",
+      "filename": "PRO_009_Verse_012.wav",
+      "transcript": "Ngati ndiwe wanzeru, nzeru yakoyo idzakupindulitsa; ngati ndiwe wonyoza ena, udzavutika wekha.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ngati ndiwe wanzeru, nzeru yakoyo idzakupindulitsa; ngati ndiwe wonyoza ena, udzavutika wekha.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LUK_024_Verse_006.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PRO_009_Verse_012.wav"
     }
   },
   {
     "data": {
       "task_uid": "00016",
-      "filename": "2SA_005_Verse_020.wav",
-      "transcript": "Choncho Davide anapita ku Baala-Perazimu ndi kugonjetsa Afilistiwo. Iye anati, “Monga amasefukira madzi, Yehova waphwanya adani anga ine ndikuona.” Choncho anawatcha malowa Baala Perazimu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Choncho Davide anapita ku Baala-Perazimu ndi kugonjetsa Afilistiwo. Iye anati, “Monga amasefukira madzi, Yehova waphwanya adani anga ine ndikuona.” Choncho anawatcha malowa Baala Perazimu.</div>",
+      "filename": "ACT_009_Verse_014.wav",
+      "transcript": "Ndipo wabwera kuno ndi ulamuliro wa akulu ansembe kuti adzamange onse amene amayitana pa dzina lanu.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndipo wabwera kuno ndi ulamuliro wa akulu ansembe kuti adzamange onse amene amayitana pa dzina lanu.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2SA_005_Verse_020.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ACT_009_Verse_014.wav"
     }
   },
   {
     "data": {
       "task_uid": "00017",
-      "filename": "JER_004_Verse_030.wav",
-      "transcript": "Iwe Yerusalemu, ndiwe bwinja! Ukutanthauza chiyani kuvala zovala zofiira ndi kuvalanso zokometsera zagolide? Ngakhale udzikonze maso ako powapaka zokometsera, ukungodzivuta chabe. Zibwenzi zako zikukunyoza; zikufuna kuchotsa moyo wako.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Iwe Yerusalemu, ndiwe bwinja! Ukutanthauza chiyani kuvala zovala zofiira ndi kuvalanso zokometsera zagolide? Ngakhale udzikonze maso ako powapaka zokometsera, ukungodzivuta chabe. Zibwenzi zako zikukunyoza; zikufuna kuchotsa moyo wako.</div>",
+      "filename": "ISA_046_Verse_012.wav",
+      "transcript": "Ndimvereni, inu anthu owuma mtima, inu amene muli kutali ndi chipulumutso.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndimvereni, inu anthu owuma mtima, inu amene muli kutali ndi chipulumutso.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JER_004_Verse_030.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ISA_046_Verse_012.wav"
     }
   },
   {
     "data": {
       "task_uid": "00018",
-      "filename": "LUK_005_Verse_013.wav",
-      "transcript": "Yesu anatambasula dzanja lake namukhudza munthuyo. Iye anati, “Ine ndikufuna, yeretsedwa!” Ndipo nthawi yomweyo khate lake linachoka.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Yesu anatambasula dzanja lake namukhudza munthuyo. Iye anati, “Ine ndikufuna, yeretsedwa!” Ndipo nthawi yomweyo khate lake linachoka.</div>",
+      "filename": "MAT_005_Verse_019.wav",
+      "transcript": "Chifukwa chake aliyense amene aphwanya limodzi la malamulowa ngakhale lalingʼonongʼono ndi kuphunzitsa ena kuti achite chimodzimodzi, adzakhala wotsirizira mu ufumu wakumwamba, koma aliyense amene achita ndi kuphunzitsa malamulo awa adzakhala wamkulu mu ufumu wakumwamba.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Chifukwa chake aliyense amene aphwanya limodzi la malamulowa ngakhale lalingʼonongʼono ndi kuphunzitsa ena kuti achite chimodzimodzi, adzakhala wotsirizira mu ufumu wakumwamba, koma aliyense amene achita ndi kuphunzitsa malamulo awa adzakhala wamkulu mu ufumu wakumwamba.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LUK_005_Verse_013.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/MAT_005_Verse_019.wav"
     }
   },
   {
     "data": {
       "task_uid": "00019",
-      "filename": "1CH_014_Verse_001.wav",
-      "transcript": "Hiramu mfumu ya ku Turo inatumiza amithenga kwa Davide pamodzi ndi mitengo ya mkungudza ndiponso amisiri a miyala ndi amisiri a matabwa kuti adzamumangire nyumba yaufumu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Hiramu mfumu ya ku Turo inatumiza amithenga kwa Davide pamodzi ndi mitengo ya mkungudza ndiponso amisiri a miyala ndi amisiri a matabwa kuti adzamumangire nyumba yaufumu.</div>",
+      "filename": "1CH_006_Verse_064.wav",
+      "transcript": "Kotero Aisraeli anapatsa Alevi mizindayi ndi madera a msipu ozungulira malowa.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kotero Aisraeli anapatsa Alevi mizindayi ndi madera a msipu ozungulira malowa.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1CH_014_Verse_001.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1CH_006_Verse_064.wav"
     }
   },
   {
     "data": {
       "task_uid": "00020",
-      "filename": "PSA_033_Verse_006.wav",
-      "transcript": "Ndi mawu a Yehova mayiko akumwamba anapangidwa, zolengedwa zake ndi mpweya wa mʼkamwa mwake.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndi mawu a Yehova mayiko akumwamba anapangidwa, zolengedwa zake ndi mpweya wa mʼkamwa mwake.</div>",
+      "filename": "PSA_080_Verse_014.wav",
+      "transcript": "Bweraninso kwa ife Inu Mulungu Wamphamvuzonse! Yangʼanani pansi muli kumwambako ndipo muone! Uyangʼanireni mpesa umenewu,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Bweraninso kwa ife Inu Mulungu Wamphamvuzonse! Yangʼanani pansi muli kumwambako ndipo muone! Uyangʼanireni mpesa umenewu,</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_033_Verse_006.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_080_Verse_014.wav"
     }
   },
   {
     "data": {
       "task_uid": "00021",
-      "filename": "EPH_001_Verse_018.wav",
-      "transcript": "Ndimapempheranso kuti maso a mitima yanu atsekuke ndi cholinga choti mudziwe chiyembekezo chimene Iye anakuyitanirani, chuma cha ulemerero chomwe chili mwa anthu oyera mtima.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndimapempheranso kuti maso a mitima yanu atsekuke ndi cholinga choti mudziwe chiyembekezo chimene Iye anakuyitanirani, chuma cha ulemerero chomwe chili mwa anthu oyera mtima.</div>",
+      "filename": "EZK_034_Verse_025.wav",
+      "transcript": "“ ‘Ndidzapangana nazo pangano la mtendere. Ndidzachotsa mʼdzikomo zirombo zolusa. Choncho nkhosa zanga zidzakhala mu mtendere mu chipululu ngakhalenso mʼthengo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“ ‘Ndidzapangana nazo pangano la mtendere. Ndidzachotsa mʼdzikomo zirombo zolusa. Choncho nkhosa zanga zidzakhala mu mtendere mu chipululu ngakhalenso mʼthengo.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/EPH_001_Verse_018.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/EZK_034_Verse_025.wav"
     }
   },
   {
     "data": {
       "task_uid": "00022",
-      "filename": "LEV_014_Verse_010.wav",
-      "transcript": "“Pa tsiku lachisanu ndi chitatu munthuyo atenge ana ankhosa aamuna awiri ndi mwana wankhosa wamkazi wa chaka chimodzi. Zonsezi zikhale zopanda chilema. Atengenso chopereka chachakudya cha ufa wosalala wa makilogalamu atatu wosakaniza ndi mafuta wokwana limodzi mwa magawo atatu a lita.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Pa tsiku lachisanu ndi chitatu munthuyo atenge ana ankhosa aamuna awiri ndi mwana wankhosa wamkazi wa chaka chimodzi. Zonsezi zikhale zopanda chilema. Atengenso chopereka chachakudya cha ufa wosalala wa makilogalamu atatu wosakaniza ndi mafuta wokwana limodzi mwa magawo atatu a lita.</div>",
+      "filename": "LUK_007_Verse_029.wav",
+      "transcript": "Anthu onse, ngakhale amisonkho, atamva mawu a Yesu, anavomereza kuti njira ya Mulungu ndi yolondola, chifukwa anabatizidwa ndi Yohane.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Anthu onse, ngakhale amisonkho, atamva mawu a Yesu, anavomereza kuti njira ya Mulungu ndi yolondola, chifukwa anabatizidwa ndi Yohane.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LEV_014_Verse_010.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LUK_007_Verse_029.wav"
     }
   },
   {
     "data": {
       "task_uid": "00023",
-      "filename": "PSA_132_Verse_009.wav",
-      "transcript": "Ansembe anu avekedwe chilungamo; anthu anu oyera mtima ayimbe nyimbo mwachimwemwe.’ ”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ansembe anu avekedwe chilungamo; anthu anu oyera mtima ayimbe nyimbo mwachimwemwe.’ ”</div>",
+      "filename": "ROM_012_Verse_017.wav",
+      "transcript": "Musabwezere choyipa ndi choyipa kwa aliyense. Samalitsani kuchita chabwino pamaso pa aliyense.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Musabwezere choyipa ndi choyipa kwa aliyense. Samalitsani kuchita chabwino pamaso pa aliyense.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_132_Verse_009.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ROM_012_Verse_017.wav"
     }
   },
   {
     "data": {
       "task_uid": "00024",
-      "filename": "NUM_010_Verse_028.wav",
-      "transcript": "Umenewu ndiwo unali mndandanda wa kayendedwe ka magulu a Aisraeli pamene ankanyamuka ulendo wawo mʼmagulumagulu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Umenewu ndiwo unali mndandanda wa kayendedwe ka magulu a Aisraeli pamene ankanyamuka ulendo wawo mʼmagulumagulu.</div>",
+      "filename": "PSA_063_Verse_006.wav",
+      "transcript": "Pa bedi panga ndimakumbukira inu; ndimaganiza za Inu nthawi yonse ya usiku.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Pa bedi panga ndimakumbukira inu; ndimaganiza za Inu nthawi yonse ya usiku.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/NUM_010_Verse_028.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_063_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00025",
-      "filename": "JHN_012_Verse_011.wav",
-      "transcript": "pakuti chifukwa cha iye Ayuda ambiri amapita kwa Yesu ndi kumukhulupirira.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">pakuti chifukwa cha iye Ayuda ambiri amapita kwa Yesu ndi kumukhulupirira.</div>",
+      "filename": "JOS_022_Verse_005.wav",
+      "transcript": "Koma samalitsani kuti mumvere malamulo ndi malangizo amene Mose mtumiki wa Yehova anakupatsani: kukonda Yehova Mulungu wanu, kuchita zimene iye amafuna, kumvera malamulo ake, kukhala okhulupirika kwa Iye ndi kumutumikira ndi mtima wanu wonse ndi moyo wanu wonse.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koma samalitsani kuti mumvere malamulo ndi malangizo amene Mose mtumiki wa Yehova anakupatsani: kukonda Yehova Mulungu wanu, kuchita zimene iye amafuna, kumvera malamulo ake, kukhala okhulupirika kwa Iye ndi kumutumikira ndi mtima wanu wonse ndi moyo wanu wonse.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JHN_012_Verse_011.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JOS_022_Verse_005.wav"
     }
   },
   {
     "data": {
       "task_uid": "00026",
-      "filename": "JER_046_Verse_011.wav",
-      "transcript": "“Pita ku Giliyadi ukatenge mankhwala iwe namwali Igupto. Wayesayesa mankhwala ambiri koma osachira; palibe mankhwala okuchiritsa.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Pita ku Giliyadi ukatenge mankhwala iwe namwali Igupto. Wayesayesa mankhwala ambiri koma osachira; palibe mankhwala okuchiritsa.</div>",
+      "filename": "JOB_003_Verse_020.wav",
+      "transcript": "“Chifukwa chiyani dzuwa limawalira iwo amene ali pa mavuto, ndipo moyo umapatsidwa kwa owawidwa mtima,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Chifukwa chiyani dzuwa limawalira iwo amene ali pa mavuto, ndipo moyo umapatsidwa kwa owawidwa mtima,</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JER_046_Verse_011.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JOB_003_Verse_020.wav"
     }
   },
   {
     "data": {
       "task_uid": "00027",
-      "filename": "GEN_022_Verse_012.wav",
-      "transcript": "Mngeloyo anati, “Usatambasulire mwanayo dzanja lako kuti umuphe, pakuti tsopano ndadziwa kuti iwe umaopa Mulungu. Iwe sunandimane mwana wako mmodzi yekhayo.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mngeloyo anati, “Usatambasulire mwanayo dzanja lako kuti umuphe, pakuti tsopano ndadziwa kuti iwe umaopa Mulungu. Iwe sunandimane mwana wako mmodzi yekhayo.”</div>",
+      "filename": "GEN_004_Verse_020.wav",
+      "transcript": "Ada anabereka Yabala; iyeyu anali kholo la onse okhala mʼmatenti ndi oweta ziweto.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ada anabereka Yabala; iyeyu anali kholo la onse okhala mʼmatenti ndi oweta ziweto.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/GEN_022_Verse_012.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/GEN_004_Verse_020.wav"
     }
   },
   {
     "data": {
       "task_uid": "00028",
-      "filename": "HOS_006_Verse_001.wav",
-      "transcript": "“Bwerani, tiyeni tibwerere kwa Yehova. Iye watikhadzula, koma adzatichiritsa. Iye wativulaza, koma adzamanga mabala athu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Bwerani, tiyeni tibwerere kwa Yehova. Iye watikhadzula, koma adzatichiritsa. Iye wativulaza, koma adzamanga mabala athu.</div>",
+      "filename": "HAG_001_Verse_010.wav",
+      "transcript": "Choncho, chifukwa cha inu, mitambo yaleka kugwetsa mvula ndipo dziko lapansi laleka kutulutsa zomera.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Choncho, chifukwa cha inu, mitambo yaleka kugwetsa mvula ndipo dziko lapansi laleka kutulutsa zomera.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/HOS_006_Verse_001.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/HAG_001_Verse_010.wav"
     }
   },
   {
     "data": {
       "task_uid": "00029",
-      "filename": "NUM_030_Verse_012.wav",
-      "transcript": "Koma ngati mwamuna wake amva ndi kumuletsa kuti asachite zomwe walumbirazo, palibe lamulo lomukakamiza mayiyo kuchita zomwe walumbirazo kapenanso zimene walonjeza. Popeza mwamuna wake wamuletsa, Yehova adzamukhululukira mayiyo.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koma ngati mwamuna wake amva ndi kumuletsa kuti asachite zomwe walumbirazo, palibe lamulo lomukakamiza mayiyo kuchita zomwe walumbirazo kapenanso zimene walonjeza. Popeza mwamuna wake wamuletsa, Yehova adzamukhululukira mayiyo.</div>",
+      "filename": "PSA_079_Verse_003.wav",
+      "transcript": "Akhetsa magazi monga madzi kuzungulira Yerusalemu yense, ndipo palibe wina woti ayike mʼmanda anthu akufa.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Akhetsa magazi monga madzi kuzungulira Yerusalemu yense, ndipo palibe wina woti ayike mʼmanda anthu akufa.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/NUM_030_Verse_012.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_079_Verse_003.wav"
     }
   },
   {
     "data": {
       "task_uid": "00030",
-      "filename": "PSA_078_Verse_028.wav",
-      "transcript": "Anazibweretsa kwa iwo mʼkati mwa misasa yawo, kuzungulira matenti awo onse.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Anazibweretsa kwa iwo mʼkati mwa misasa yawo, kuzungulira matenti awo onse.</div>",
+      "filename": "REV_011_Verse_005.wav",
+      "transcript": "Ngati wina atafuna kuzipweteka mbonizo, moto umatuluka mʼkamwa mwawo ndikuwononga adani awo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ngati wina atafuna kuzipweteka mbonizo, moto umatuluka mʼkamwa mwawo ndikuwononga adani awo.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_078_Verse_028.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/REV_011_Verse_005.wav"
     }
   },
   {
     "data": {
       "task_uid": "00031",
-      "filename": "LUK_013_Verse_014.wav",
-      "transcript": "Chifukwa cha kuyipidwa kuti Yesu anachiritsa pa Sabata, wolamulira sunagoge anati kwa anthu, “Pali masiku asanu ndi limodzi ogwira ntchito. Choncho bwerani kuti mudzachiritsidwe masiku amenewo osati pa Sabata.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Chifukwa cha kuyipidwa kuti Yesu anachiritsa pa Sabata, wolamulira sunagoge anati kwa anthu, “Pali masiku asanu ndi limodzi ogwira ntchito. Choncho bwerani kuti mudzachiritsidwe masiku amenewo osati pa Sabata.”</div>",
+      "filename": "MRK_013_Verse_004.wav",
+      "transcript": "“Tatiwuzani, izi zidzachitika liti? Nanga chizindikiro chakuti zatsala pangʼono kukwaniritsidwa chidzakhala chiyani?”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Tatiwuzani, izi zidzachitika liti? Nanga chizindikiro chakuti zatsala pangʼono kukwaniritsidwa chidzakhala chiyani?”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LUK_013_Verse_014.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/MRK_013_Verse_004.wav"
     }
   },
   {
     "data": {
       "task_uid": "00032",
-      "filename": "JOB_017_Verse_016.wav",
-      "transcript": "Ndithu sindidzakhalanso ndi chiyembekezo chilichonse, polowa mʼmanda, pamene ndidzatsikira ku fumbi.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndithu sindidzakhalanso ndi chiyembekezo chilichonse, polowa mʼmanda, pamene ndidzatsikira ku fumbi.”</div>",
+      "filename": "LEV_027_Verse_016.wav",
+      "transcript": "“ ‘Ngati munthu apereka kwa Yehova mbali ina ya malo a makolo ake, mtengo umene awuyike ukhale wolingana ndi mtengo wa mbewu zimene zimadzabzalidwamo. Zikhale mbewu za barele za makilogalamu makumi awiri ndipo mtengo wake ukhale masekeli makumi asanu.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“ ‘Ngati munthu apereka kwa Yehova mbali ina ya malo a makolo ake, mtengo umene awuyike ukhale wolingana ndi mtengo wa mbewu zimene zimadzabzalidwamo. Zikhale mbewu za barele za makilogalamu makumi awiri ndipo mtengo wake ukhale masekeli makumi asanu.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JOB_017_Verse_016.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LEV_027_Verse_016.wav"
     }
   },
   {
     "data": {
       "task_uid": "00033",
-      "filename": "PSA_065_Verse_008.wav",
-      "transcript": "Iwo amene akukhala kutali amaopa zizindikiro zozizwitsa zanu; kumene dzuwa limatulukira ndi kumene dzuwa limalowera. Inu mumafuna nyimbo zachimwemwe.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Iwo amene akukhala kutali amaopa zizindikiro zozizwitsa zanu; kumene dzuwa limatulukira ndi kumene dzuwa limalowera. Inu mumafuna nyimbo zachimwemwe.</div>",
+      "filename": "PSA_092_Verse_006.wav",
+      "transcript": "Munthu wopanda nzeru sadziwa, zitsiru sizizindikira,",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Munthu wopanda nzeru sadziwa, zitsiru sizizindikira,</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_065_Verse_008.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_092_Verse_006.wav"
     }
   },
   {
     "data": {
       "task_uid": "00034",
-      "filename": "ACT_008_Verse_032.wav",
-      "transcript": "Mawu amene ndunayo imawerenga anali awa: “Monga mwana wankhosa wopita naye kokamupha amachitira, kapena monga nkhosa imakhalira duu poyimeta, momwemonso iye sanatsekule pakamwa pake.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mawu amene ndunayo imawerenga anali awa: “Monga mwana wankhosa wopita naye kokamupha amachitira, kapena monga nkhosa imakhalira duu poyimeta, momwemonso iye sanatsekule pakamwa pake.</div>",
+      "filename": "DEU_010_Verse_007.wav",
+      "transcript": "Kuchokera kumeneko Aisraeli anapita ku Gudigoda, napitirira mpaka ku Yotibata, ku dziko la mitsinje ya madzi.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kuchokera kumeneko Aisraeli anapita ku Gudigoda, napitirira mpaka ku Yotibata, ku dziko la mitsinje ya madzi.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ACT_008_Verse_032.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/DEU_010_Verse_007.wav"
     }
   },
   {
     "data": {
       "task_uid": "00035",
-      "filename": "PSA_141_Verse_007.wav",
-      "transcript": "Iwo adzati, “Monga momwe nkhuni zimamwazikira akaziwaza, ndi momwenso mafupa athu amwazikira pa khomo la manda.”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Iwo adzati, “Monga momwe nkhuni zimamwazikira akaziwaza, ndi momwenso mafupa athu amwazikira pa khomo la manda.”</div>",
+      "filename": "ZEC_004_Verse_005.wav",
+      "transcript": "Iye anandiyankha kuti, “Kodi iwe sukuzidziwa zimenezi?” Ndinayankha kuti, “Ayi mbuye wanga.”",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Iye anandiyankha kuti, “Kodi iwe sukuzidziwa zimenezi?” Ndinayankha kuti, “Ayi mbuye wanga.”</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_141_Verse_007.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ZEC_004_Verse_005.wav"
     }
   },
   {
     "data": {
       "task_uid": "00036",
-      "filename": "PSA_109_Verse_004.wav",
-      "transcript": "Mʼmalo mwa chikondi changa amandineneza, koma ine ndine munthu wapemphero.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mʼmalo mwa chikondi changa amandineneza, koma ine ndine munthu wapemphero.</div>",
+      "filename": "ROM_006_Verse_015.wav",
+      "transcript": "Nʼchiyani tsono? Kodi tidzichimwa chifukwa sitikulamulidwa ndi Malamulo koma chisomo? Ayi. Mʼnjira iliyonse ayi!",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nʼchiyani tsono? Kodi tidzichimwa chifukwa sitikulamulidwa ndi Malamulo koma chisomo? Ayi. Mʼnjira iliyonse ayi!</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PSA_109_Verse_004.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ROM_006_Verse_015.wav"
     }
   },
   {
     "data": {
       "task_uid": "00037",
-      "filename": "1KI_001_Verse_038.wav",
-      "transcript": "Kotero Zadoki wansembe, mneneri Natani, Benaya mwana wa Yehoyada, Akereti ndiponso Apeleti, anthu oteteza mfumu, anapita kukamukweza Solomoni pa bulu wa Mfumu Davide ndi kupita naye ku Gihoni.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kotero Zadoki wansembe, mneneri Natani, Benaya mwana wa Yehoyada, Akereti ndiponso Apeleti, anthu oteteza mfumu, anapita kukamukweza Solomoni pa bulu wa Mfumu Davide ndi kupita naye ku Gihoni.</div>",
+      "filename": "1KI_013_Verse_023.wav",
+      "transcript": "Munthu wa Mulungu atatha kudya ndi kumwa, mneneri amene anamubweza uja anamangirira chishalo pa bulu wa munthu wa Mulunguyo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Munthu wa Mulungu atatha kudya ndi kumwa, mneneri amene anamubweza uja anamangirira chishalo pa bulu wa munthu wa Mulunguyo.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1KI_001_Verse_038.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1KI_013_Verse_023.wav"
     }
   },
   {
     "data": {
       "task_uid": "00038",
-      "filename": "JER_036_Verse_015.wav",
-      "transcript": "Iwo anati, “Khala pansi, ndipo tiwerengere bukuli.” Ndipo Baruki anawawerengera.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Iwo anati, “Khala pansi, ndipo tiwerengere bukuli.” Ndipo Baruki anawawerengera.</div>",
+      "filename": "JOB_003_Verse_016.wav",
+      "transcript": "Kapena, bwanji sindinakwiriridwe pansi monga mwana wobadwa wakufa kale, ngati khanda limene silinaone kuwala kwa dzuwa?",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Kapena, bwanji sindinakwiriridwe pansi monga mwana wobadwa wakufa kale, ngati khanda limene silinaone kuwala kwa dzuwa?</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JER_036_Verse_015.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/JOB_003_Verse_016.wav"
     }
   },
   {
     "data": {
       "task_uid": "00039",
-      "filename": "LUK_017_Verse_028.wav",
-      "transcript": "“Zinalinso chimodzimodzi nthawi ya Loti. Anthu ankadya ndi kumwa, kugula ndi kugulitsa, kudzala ndi kumanga.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Zinalinso chimodzimodzi nthawi ya Loti. Anthu ankadya ndi kumwa, kugula ndi kugulitsa, kudzala ndi kumanga.</div>",
+      "filename": "NUM_013_Verse_011.wav",
+      "transcript": "kuchokera ku fuko la Manase (fuko la Yosefe), Gadi mwana wa Susi;",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">kuchokera ku fuko la Manase (fuko la Yosefe), Gadi mwana wa Susi;</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LUK_017_Verse_028.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/NUM_013_Verse_011.wav"
     }
   },
   {
     "data": {
       "task_uid": "00040",
-      "filename": "1SA_014_Verse_024.wav",
-      "transcript": "Koma asilikali a Israeli anavutika tsiku limenelo, chifukwa Sauli anawalumbirira Aisraeli kuti, “Wotembereredwa munthu aliyense amene adzadya kusanade, ine ndisanalipsire adani anga!” Kotero palibe wankhondo aliyense amene analawa chakudya.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koma asilikali a Israeli anavutika tsiku limenelo, chifukwa Sauli anawalumbirira Aisraeli kuti, “Wotembereredwa munthu aliyense amene adzadya kusanade, ine ndisanalipsire adani anga!” Kotero palibe wankhondo aliyense amene analawa chakudya.</div>",
+      "filename": "2CH_003_Verse_008.wav",
+      "transcript": "Iye anamanga Malo Opatulika Kwambiri ndipo mulitali mwake munali mofanana ndi mulifupi mwa Nyumba mamita asanu ndi anayi. Anakuta mʼkati mwake ndi golide wosalala wolemera matani makumi awiri.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Iye anamanga Malo Opatulika Kwambiri ndipo mulitali mwake munali mofanana ndi mulifupi mwa Nyumba mamita asanu ndi anayi. Anakuta mʼkati mwake ndi golide wosalala wolemera matani makumi awiri.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1SA_014_Verse_024.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2CH_003_Verse_008.wav"
     }
   },
   {
     "data": {
       "task_uid": "00041",
-      "filename": "LEV_027_Verse_005.wav",
-      "transcript": "Mtengo wa munthu wamwamuna wa zaka zapakati pa zisanu ndi makumi awiri ukhale masekeli makumi awiri ndipo munthu wamkazi ukhale masekeli khumi.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mtengo wa munthu wamwamuna wa zaka zapakati pa zisanu ndi makumi awiri ukhale masekeli makumi awiri ndipo munthu wamkazi ukhale masekeli khumi.</div>",
+      "filename": "LUK_009_Verse_032.wav",
+      "transcript": "Petro ndi anzake anali ndi tulo tambiri, koma atadzuka, iwo anaona ulemerero wake ndi anthu awiri atayima pamodzi ndi Iye.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Petro ndi anzake anali ndi tulo tambiri, koma atadzuka, iwo anaona ulemerero wake ndi anthu awiri atayima pamodzi ndi Iye.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LEV_027_Verse_005.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/LUK_009_Verse_032.wav"
     }
   },
   {
     "data": {
       "task_uid": "00042",
-      "filename": "2CH_018_Verse_015.wav",
-      "transcript": "Mfumu inati kwa iye, “Kodi ndikuwuze kangati kuti ulumbire kuti usandiwuze chilichonse koma zoonadi mʼdzina la Yehova?”",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mfumu inati kwa iye, “Kodi ndikuwuze kangati kuti ulumbire kuti usandiwuze chilichonse koma zoonadi mʼdzina la Yehova?”</div>",
+      "filename": "2CH_031_Verse_017.wav",
+      "transcript": "Ndipo anazigawa kwa ansembe amene analembetsa mayina awo mwa mbiri ya mabanja awo, chimodzimodzinso Alevi amene anali ndi zaka makumi awiri kapena kupitirira molingana ndi udindo wawo ndi magulu awo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ndipo anazigawa kwa ansembe amene analembetsa mayina awo mwa mbiri ya mabanja awo, chimodzimodzinso Alevi amene anali ndi zaka makumi awiri kapena kupitirira molingana ndi udindo wawo ndi magulu awo.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2CH_018_Verse_015.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2CH_031_Verse_017.wav"
     }
   },
   {
     "data": {
       "task_uid": "00043",
-      "filename": "2KI_015_Verse_010.wav",
-      "transcript": "Salumu mwana wa Yabesi anachitira chiwembu Zekariya. Anamukantha anthu akuona, namupha, ndipo analowa ufumu mʼmalo mwake.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Salumu mwana wa Yabesi anachitira chiwembu Zekariya. Anamukantha anthu akuona, namupha, ndipo analowa ufumu mʼmalo mwake.</div>",
+      "filename": "ACT_001_Verse_012.wav",
+      "transcript": "Pamenepo atumwi anabwerera ku Yerusalemu kuchokera ku phiri la Olivi, mtunda wosakwana kilomita kuchokera mu mzindamo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Pamenepo atumwi anabwerera ku Yerusalemu kuchokera ku phiri la Olivi, mtunda wosakwana kilomita kuchokera mu mzindamo.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2KI_015_Verse_010.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ACT_001_Verse_012.wav"
     }
   },
   {
     "data": {
       "task_uid": "00044",
-      "filename": "DEU_009_Verse_025.wav",
-      "transcript": "Ine ndinagwa chafufumimba pamaso pa Yehova kwa masiku makumi anayi usana ndi usiku chifukwa Yehova ananena kuti akuwonongani.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ine ndinagwa chafufumimba pamaso pa Yehova kwa masiku makumi anayi usana ndi usiku chifukwa Yehova ananena kuti akuwonongani.</div>",
+      "filename": "DEU_032_Verse_005.wav",
+      "transcript": "Koma iwo achita mosakhulupirika pamaso pake, iwo si ana akenso, koma iwo ndi mʼbado wachinyengo ndi wokhotakhota.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koma iwo achita mosakhulupirika pamaso pake, iwo si ana akenso, koma iwo ndi mʼbado wachinyengo ndi wokhotakhota.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/DEU_009_Verse_025.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/DEU_032_Verse_005.wav"
     }
   },
   {
     "data": {
       "task_uid": "00045",
-      "filename": "DEU_012_Verse_015.wav",
-      "transcript": "Koma mukhoza kumapha ziweto zanu mʼmizinda iliyonse ndi kudya nyama yake mmene mungafunire, ngati kuti ndi agwape kapena mbawala, monga mwadalitso limene Yehova Mulungu wanu akukupatsani. Woyeretsedwa ndi wosayeretsedwa akhoza kuyidya.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koma mukhoza kumapha ziweto zanu mʼmizinda iliyonse ndi kudya nyama yake mmene mungafunire, ngati kuti ndi agwape kapena mbawala, monga mwadalitso limene Yehova Mulungu wanu akukupatsani. Woyeretsedwa ndi wosayeretsedwa akhoza kuyidya.</div>",
+      "filename": "EXO_006_Verse_027.wav",
+      "transcript": "Mose ndi Aaroni ndiwo amene anayankhula ndi Farao mfumu ya Igupto kuti atulutse Aisraeli mu Igupto.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Mose ndi Aaroni ndiwo amene anayankhula ndi Farao mfumu ya Igupto kuti atulutse Aisraeli mu Igupto.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/DEU_012_Verse_015.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/EXO_006_Verse_027.wav"
     }
   },
   {
     "data": {
       "task_uid": "00046",
-      "filename": "ECC_012_Verse_002.wav",
-      "transcript": "Nthawi ya ukalamba wako, dzuwa ndi kuwala, mwezi ndi nyenyezi zidzada. Mitambo idzabweranso mvula itagwa.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Nthawi ya ukalamba wako, dzuwa ndi kuwala, mwezi ndi nyenyezi zidzada. Mitambo idzabweranso mvula itagwa.</div>",
+      "filename": "EZK_023_Verse_030.wav",
+      "transcript": "zabweretsa izi pa iwe chifukwa unachita zonyansa ndi anthu a mitundu ndi kudziyipitsa ndi mafano awo.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">zabweretsa izi pa iwe chifukwa unachita zonyansa ndi anthu a mitundu ndi kudziyipitsa ndi mafano awo.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/ECC_012_Verse_002.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/EZK_023_Verse_030.wav"
     }
   },
   {
     "data": {
       "task_uid": "00047",
-      "filename": "1CH_023_Verse_019.wav",
-      "transcript": "Ana a Hebroni: Mtsogoleri anali Yeriya, wachiwiri anali Amariya, Yahazieli anali wachitatu ndipo Yekameamu anali wachinayi.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Ana a Hebroni: Mtsogoleri anali Yeriya, wachiwiri anali Amariya, Yahazieli anali wachitatu ndipo Yekameamu anali wachinayi.</div>",
+      "filename": "1KI_006_Verse_020.wav",
+      "transcript": "Malo wopatulika a mʼkatiwo anali a mamita asanu ndi anayi mulitali mwake, mulifupi mwake, ndi msinkhu wake. Anakuta mʼkati mwake ndi golide weniweni ndiponso anapanga guwa lansembe la matabwa a mkungudza.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Malo wopatulika a mʼkatiwo anali a mamita asanu ndi anayi mulitali mwake, mulifupi mwake, ndi msinkhu wake. Anakuta mʼkati mwake ndi golide weniweni ndiponso anapanga guwa lansembe la matabwa a mkungudza.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1CH_023_Verse_019.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/1KI_006_Verse_020.wav"
     }
   },
   {
     "data": {
       "task_uid": "00048",
-      "filename": "2CO_013_Verse_004.wav",
-      "transcript": "Pofuna kutsimikizira, anapachikidwa ali wofowoka koma ali ndi moyo mwamphamvu ya Mulungu. Chomwechonso, ife ndife ofowoka mwa Iye, koma tidzakhala ndi moyo pamodzi naye ndi mphamvu ya Mulungu, potumikira pakati panu.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Pofuna kutsimikizira, anapachikidwa ali wofowoka koma ali ndi moyo mwamphamvu ya Mulungu. Chomwechonso, ife ndife ofowoka mwa Iye, koma tidzakhala ndi moyo pamodzi naye ndi mphamvu ya Mulungu, potumikira pakati panu.</div>",
+      "filename": "2KI_022_Verse_018.wav",
+      "transcript": "Koma mfumu ya Yuda imene inakutumani kuti mudzafunse kwa Yehova kayiwuzeni kuti, ‘Ichi ndi chimene Yehova Mulungu wa Israeli akunena molingana ndi mawu amene unamva:",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koma mfumu ya Yuda imene inakutumani kuti mudzafunse kwa Yehova kayiwuzeni kuti, ‘Ichi ndi chimene Yehova Mulungu wa Israeli akunena molingana ndi mawu amene unamva:</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2CO_013_Verse_004.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/2KI_022_Verse_018.wav"
     }
   },
   {
     "data": {
       "task_uid": "00049",
-      "filename": "NUM_003_Verse_045.wav",
-      "transcript": "“Tenga Alevi mʼmalo mwa ana aamuna oyamba kubadwa onse a Aisraeli, ndiponso zoweta zonse za Alevi mʼmalo mwa zoweta za Aisraeli. Alevi ndi anga. Ine ndine Yehova.",
-      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">“Tenga Alevi mʼmalo mwa ana aamuna oyamba kubadwa onse a Aisraeli, ndiponso zoweta zonse za Alevi mʼmalo mwa zoweta za Aisraeli. Alevi ndi anga. Ine ndine Yehova.</div>",
+      "filename": "PRO_026_Verse_005.wav",
+      "transcript": "Koma nthawi zina umuyankhe monga mwa uchitsiru wake, kuopa kuti angamadziyese yekha wanzeru.",
+      "transcript_html": "<div dir=\"auto\" style=\"font-size:1.2em;line-height:1.6;\">Koma nthawi zina umuyankhe monga mwa uchitsiru wake, kuopa kuti angamadziyese yekha wanzeru.</div>",
       "instructions_html": "<center><h3>Audio–transcript match &#8212; Chichewa</h3></center><p>Each clip is one Bible verse that was cut automatically from a full chapter recording. Listen to the <strong>whole clip</strong> while reading the transcript, and choose the option that best describes whether the <strong>spoken words</strong> match the <strong>written words</strong>.</p><ul style=\"margin:4px 0 8px 18px;\"><li><strong>EXTRA</strong>: you hear words that are not in the transcript (for example part of the previous or next verse, or a chapter number or section title read aloud).</li><li><strong>MISSING</strong>: words in the transcript are not heard, or the first or last word is cut off so it cannot be understood.</li></ul><p style=\"margin:4px 0;\">Please ignore voice quality, accent, speed, breaths and background noise. Punctuation is not spoken, and numbers written as digits may be read out as words; neither counts as a mismatch.</p><p style=\"margin:4px 0;\">If you choose one of the last three options, please also say <em>where</em> the problem is (required) and, if you can, write the extra or missing words (optional).</p>",
-      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/NUM_003_Verse_045.wav"
+      "audio_url": "https://raw.githubusercontent.com/davidguzmanr/open-bible-forced-alignment-surveys/refs/heads/main/audios/Chichewa/PRO_026_Verse_005.wav"
     }
   }
 ]
