@@ -181,7 +181,7 @@ def build_transcript_html(text: str) -> str:
     )
 
 
-def build_labeling_config() -> str:
+def build_labeling_config(answer_panel: bool = False) -> str:
     """
     Return a Label Studio XML config for a single-clip alignment judgement.
 
@@ -189,10 +189,22 @@ def build_labeling_config() -> str:
       $instructions_html — task instructions (rendered as HTML)
       $transcript_html   — the aligned verse text (rendered as HTML)
       $audio_url         — URL of the aligned verse clip
+    With answer_panel=True (the practice tutorial) a collapsed "Show the correct
+    answer" panel renders $answer_html below the questions.
     """
     alignment = "\n".join(f'    <Choice value="{c}" />' for c in ALIGNMENT_CHOICES)
     location = "\n".join(f'      <Choice value="{c}" />' for c in LOCATION_CHOICES)
     mismatch_values = ",".join(MISMATCH_CHOICES)
+    answer = (
+        """
+  <Collapse>
+    <Panel value="Show the correct answer">
+      <HyperText name="answer" value="$answer_html" />
+    </Panel>
+  </Collapse>
+"""
+        if answer_panel else ""
+    )
     return f"""\
 <View>
   <HyperText name="instructions" value="$instructions_html" />
@@ -220,7 +232,7 @@ def build_labeling_config() -> str:
     <TextArea name="words" toName="audio" rows="2" editable="true" maxSubmissions="1"
               placeholder="e.g. extra: 'Chapter 5' at the start" />
   </View>
-</View>"""
+{answer}</View>"""
 
 
 # -----------------------------------------------------------------------------

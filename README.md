@@ -95,6 +95,28 @@ Go to **Members** → invite the 3 annotators by email → set their role to **A
 
 Steps 1–3 can also be done from the command line with `--api-key YOUR_TOKEN` (and optionally `--base-url`, `--project-title`).
 
+## Practice tutorial (English)
+
+Before the real task, annotators can do a short practice round in English with the same interface. `tutorial/build_tutorial.py` builds 7 clips from consecutive LJSpeech sentences ([davidguzmanr/CSS10-Multilingual-LJSpeech](https://huggingface.co/datasets/davidguzmanr/CSS10-Multilingual-LJSpeech), "English"), with errors made by joining or cutting the real neighbouring sentences:
+
+| # | Correct answer | What the clip contains |
+|---|---|---|
+| 1 | No missing or extra words (exact match) | One sentence as it is |
+| 2 | Audio contains EXTRA words (end) | The sentence + "Even in Italy", the start of the next one |
+| 3 | Audio is MISSING words (end) | The sentence without its last words, "in Italy" |
+| 4 | MISSING AND EXTRA words (start, end) | "letterpress" from the previous sentence + the sentence without "in form" |
+| 5 | Exact match | A tiny piece of the previous sentence at the start |
+| 6 | Exact match | The end of the last word slightly clipped |
+| 7 | Exact match | Both of the above |
+
+Examples 5–7 show the sub-word edge artefacts that the instructions ask annotators to ignore. Word cut points come from ReadAlongs (English); the tasks keep this teaching order, and each has a collapsed **Show the correct answer** panel with the answer and a short explanation.
+
+```bash
+python tutorial/build_tutorial.py --readalongs /path/to/envs/ReadAlongs/bin/readalongs
+```
+
+Upload it like a language survey, from `tutorial/humanalign/` (`labeling_config_tutorial.xml`, `tasks_tutorial.json`), as a separate project, e.g. `Alignment quality — Practice (English)`. The tutorial lives only on the `dev/tutorial` branch (it is not merged into `main`), so its audio URLs point to that branch; the branch must be pushed for HumanSignal to play the clips. Pass `--ref <branch>` to point them elsewhere.
+
 ## Annotating locally (Streamlit)
 
 `app/annotate.py` reproduces the HumanSignal task locally, one language at a time: same instructions, transcript, audio (played from `audios/`), options and required/optional questions, in the same task order.
