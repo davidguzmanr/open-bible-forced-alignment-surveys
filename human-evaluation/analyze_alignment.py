@@ -12,13 +12,23 @@ reports, per language, the share of verses whose majority label is:
   Conflict  no label has a strict plurality (e.g. three different labels)
 
 as in Table 3 of the paper, plus Krippendorff's alpha (nominal) for
-inter-annotator agreement. It also breaks EM down by the alignment-risk tags
-from scripts/sample_verses.py and counts the "where" answers.
+inter-annotator agreement. That table uses only the `random` sample group, which
+is a uniform sample of the corpus; the `clean_edges` group (clips with silence
+at both ends) is reported separately, next to the random group. It also breaks
+EM down by the alignment-risk tags from scripts/sample_verses.py, counts the
+"where" answers, and reports per-annotator checks:
+  - EM on clean edges   share of clean_edges clips the annotator labelled EM;
+                        these clips should nearly all be exact matches
+  - agreement           share of their labels that match the other annotators'
+                        label, on tasks where those others all agree
+Annotators below 70% on either are flagged for a closer look (not excluded).
 
 Outputs (in human-evaluation/results/):
-  - alignment_summary.csv   one row per language (+ pooled)
+  - alignment_summary.csv   one row per language (+ pooled), random group only
+  - alignment_by_group.csv  EM / mismatch / conflict per language and sample group
   - alignment_by_verse.csv  one row per verse with its votes and majority label
-  - alignment_by_tag.csv    EM / Add / Miss / Both by tag, pooled over languages
+  - alignment_by_tag.csv    EM / Add / Miss / Both by tag, pooled, random group
+  - annotators.csv          per-annotator checks
 
 Usage:
     python human-evaluation/analyze_alignment.py
@@ -45,6 +55,7 @@ LABELS = {
 }
 CATEGORIES = ["EM", "Add.", "Miss.", "Both", "Conflict"]
 TAGS = ["is_first_verse", "heading_before", "heading_after", "is_verse_range"]
+FLAG_BELOW = 70.0  # % EM on clean edges / % agreement below which an annotator is flagged
 
 
 def parse_choices(value) -> list[str]:
@@ -118,11 +129,15 @@ def main() -> None:
         raise FileNotFoundError(f"No anonymized annotations in {ANNOTATIONS_DIR}")
 
     ann = pd.concat([load_language(p) for p in csv_files], ignore_index=True)
+    if "sample_group" not in ann:  # tracking files from before the clean_edges group
+        ann["sample_group"] = "random"
+    ann["sample_group"] = ann["sample_group"].fillna("random")
     keys = ["language", "task_uid"]
     verses = (
         ann.groupby(keys)
         .agg(
             filename=("filename", "first"),
+            sample_group=("sample_group", "first"),
             votes=("label", list),
             locations=("location", lambda s: sorted({x for xs in s for x in xs})),
             **{t: (t, "first") for t in TAGS},
@@ -132,16 +147,52 @@ def main() -> None:
     verses["n_votes"] = verses["votes"].str.len()
     verses["majority"] = verses["votes"].apply(majority)
 
+    random_verses = verses[verses["sample_group"] == "random"]
     rows = []
-    for language, group in verses.groupby("language"):
+    for language, group in random_verses.groupby("language"):
         rows.append({"language": language, **summarise(group, group["votes"].tolist())})
-    rows.append({"language": "ALL", **summarise(verses, verses["votes"].tolist())})
+    rows.append({"language": "ALL", **summarise(random_verses, random_verses["votes"].tolist())})
     summary = pd.DataFrame(rows)
+
+    group_rows = []
+    for (language, sample_group), group in [*verses.groupby(["language", "sample_group"]),
+                                            *(( ("ALL", g), grp) for g, grp in verses.groupby("sample_group"))]:
+        shares = group["majority"].value_counts(normalize=True).reindex(CATEGORIES, fill_value=0) * 100
+        group_rows.append({"language": language, "sample_group": sample_group, "verses": len(group),
+                           "EM": round(shares["EM"], 1),
+                           "mismatch": round(shares[["Add.", "Miss.", "Both"]].sum(), 1),
+                           "Conflict": round(shares["Conflict"], 1)})
+    by_group = pd.DataFrame(group_rows)
+
+    # Per-annotator checks.
+    others_consensus = {}
+    for key, group in ann.groupby(keys):
+        for idx, row in group.iterrows():
+            others = group.loc[group.index != idx, "label"].tolist()
+            if len(others) >= 2 and len(set(others)) == 1:
+                others_consensus[idx] = others[0]
+    ann["others_agree_on"] = pd.Series(others_consensus)
+    annot_rows = []
+    for (language, annotator), group in ann.groupby(["language", "annotator"]):
+        clean = group[group["sample_group"] == "clean_edges"]
+        rand = group[group["sample_group"] == "random"]
+        judged = group.dropna(subset=["others_agree_on"])
+        row = {
+            "language": language, "annotator": annotator, "tasks": len(group),
+            "EM on clean edges": round(100 * clean["label"].eq("EM").mean(), 1) if len(clean) else float("nan"),
+            "EM on random": round(100 * rand["label"].eq("EM").mean(), 1) if len(rand) else float("nan"),
+            "agreement": round(100 * judged["label"].eq(judged["others_agree_on"]).mean(), 1) if len(judged) else float("nan"),
+            "agreement tasks": len(judged),
+        }
+        reasons = [name for name in ("EM on clean edges", "agreement") if row[name] < FLAG_BELOW]
+        row["flag"] = ", ".join(f"low {r}" for r in reasons)
+        annot_rows.append(row)
+    annotators = pd.DataFrame(annot_rows)
 
     tag_rows = []
     for tag in TAGS:
-        flags = verses[tag].astype(str).str.lower().eq("true")
-        for value, group in ((True, verses[flags]), (False, verses[~flags])):
+        flags = random_verses[tag].astype(str).str.lower().eq("true")
+        for value, group in ((True, random_verses[flags]), (False, random_verses[~flags])):
             if len(group):
                 shares = group["majority"].value_counts(normalize=True).reindex(CATEGORIES, fill_value=0) * 100
                 tag_rows.append({"tag": tag, "value": value, "verses": len(group),
@@ -154,10 +205,16 @@ def main() -> None:
     summary.to_csv(RESULTS_DIR / "alignment_summary.csv", index=False)
     verses.to_csv(RESULTS_DIR / "alignment_by_verse.csv", index=False)
     by_tag.to_csv(RESULTS_DIR / "alignment_by_tag.csv", index=False)
+    by_group.to_csv(RESULTS_DIR / "alignment_by_group.csv", index=False)
+    annotators.to_csv(RESULTS_DIR / "annotators.csv", index=False)
 
-    print("Majority label per verse (% of verses); alpha = Krippendorff's alpha (nominal)\n")
+    print("Majority label per verse, random group only (% of verses); alpha = Krippendorff's alpha (nominal)\n")
     print(summary.to_markdown(index=False))
-    print("\nBy alignment-risk tag (pooled over languages)\n")
+    print("\nBy sample group (% of verses; mismatch = Add. + Miss. + Both)\n")
+    print(by_group.to_markdown(index=False))
+    print(f"\nAnnotators (flagged below {FLAG_BELOW:.0f}%)\n")
+    print(annotators.to_markdown(index=False))
+    print("\nBy alignment-risk tag (random group, pooled over languages)\n")
     print(by_tag.to_markdown(index=False))
     print("\nWhere the problem is (all annotations with a mismatch label):")
     for loc, n in location_counts.most_common():

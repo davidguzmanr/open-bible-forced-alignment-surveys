@@ -22,11 +22,18 @@ Each task shows one verse transcript and its audio clip. Annotators choose the o
 
 For options 2–4, two follow-ups appear: **where** the problem is (start / middle / end of the clip, select all that apply; required) and a free-text box for **which words** are extra or missing (optional).
 
+The instructions tell annotators that **only whole words count**: a breath, a click or part of a syllable from the neighbouring verse at the start or end of a clip, or a slightly clipped last word, is still an exact match as long as every word of the transcript can be heard and recognised and no other complete word is heard. This keeps the labels about word-level errors rather than the sub-word edge artefacts that the automatic cutting leaves in many clips.
+
 ### Sampling
 
-Every released verse already passed the outlier filter in open-bible-resources, which drops verses whose seconds-per-character ratio is more than 3 standard deviations from the language mean. As in the BibleTTS paper, the 50 verses are a **uniform random sample of the `train` split** (seed 42). The speaking-rate z-score of each verse is recorded (`lens_ratio_z`) so results can be broken down by it.
+Each language's 50 verses come from the `train` split in two groups, recorded as `sample_group` in `data/` and the tracking CSVs (never in the task data, so annotators cannot tell them apart):
 
-The aligner cuts each verse exactly at its predicted boundary with no padding, so a small boundary error can leave part of a syllable from the neighbouring verse (or a clipped word) at the very start or end of a clip. The sampler records the silence before the first and after the last sound of every sampled clip (`lead_silence_ms`, `trail_silence_ms` in `data/` and the tracking CSVs), so results can be broken down by it. `--min-edge-silence-ms N` keeps only clips with at least N ms of silence at both ends; it is off by default because it leaves only the most cleanly aligned clips, so the sample is no longer uniform (with 100 ms, 80–94% of candidates pass for most languages but only 36% for Kikuyu, 23% for Luganda and 9% for Shona).
+- **`random` (40 verses):** a uniform random sample (seed 42), as in the BibleTTS paper. Corpus-level results are computed from this group only.
+- **`clean_edges` (10 verses):** further random verses whose clips have at least 50 ms of silence at both ends. These should almost all be exact matches, so they serve as a reference for analysis and help spot careless annotators.
+
+Every released verse already passed the outlier filter in open-bible-resources, which drops verses whose seconds-per-character ratio is more than 3 standard deviations from the language mean. The speaking-rate z-score of each verse is recorded (`lens_ratio_z`) so results can be broken down by it.
+
+The aligner cuts each verse exactly at its predicted boundary with no padding, so a small boundary error can leave part of a syllable from the neighbouring verse (or a clipped word) at the very start or end of a clip. The sampler records the silence before the first and after the last sound of every sampled clip (`lead_silence_ms`, `trail_silence_ms` in `data/` and the tracking CSVs), so results can be broken down by it. `--min-edge-silence-ms N` would also require at least N ms of silence at both ends for the random group; it is off by default because the group would then no longer be uniform (with 100 ms, 80–94% of candidates pass for most languages but only 36% for Kikuyu, 23% for Luganda and 9% for Shona).
 
 Each verse is tagged from the source USX text with the situations where forced alignment is most likely to fail: `is_first_verse` (after the spoken chapter announcement), `heading_before` / `heading_after` (a section heading or Psalm title is next to the verse; headings are not in the aligned text, so if they are read aloud they leak into a neighbouring clip) and `is_verse_range` (merged verses such as 3–4).
 
@@ -110,4 +117,4 @@ Pick the language and enter an annotator name in the sidebar. Every submit is sa
    python human-evaluation/analyze_alignment.py
    ```
 
-Each verse gets the majority label of its annotators. If no label has a strict plurality (e.g. three different answers), it is counted as **Conflict**, as in the paper. The script reports the Table 3 breakdown (EM / Add. / Miss. / Both / Conflict, % of verses) per language, Krippendorff's alpha for inter-annotator agreement, the same breakdown by risk tag, and counts of the "where" answers.
+Each verse gets the majority label of its annotators. If no label has a strict plurality (e.g. three different answers), it is counted as **Conflict**, as in the paper. The script reports the Table 3 breakdown (EM / Add. / Miss. / Both / Conflict, % of verses) per language from the `random` group, Krippendorff's alpha for inter-annotator agreement, the same breakdown by risk tag, and counts of the "where" answers. It also compares the `random` and `clean_edges` groups, and checks each annotator: the share of clean-edge clips they labelled as exact match, and how often they agree with the other annotators when those agree with each other. Annotators below 70% on either are flagged for a closer look; with 10 clean-edge clips that means 4 or more of them labelled as a mismatch.

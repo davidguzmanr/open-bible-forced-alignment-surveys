@@ -9,8 +9,17 @@ were trained on -- and writes:
   - audios/{language}/{BOOK}_{CCC}_Verse_{VVV}.wav   original 22.05 kHz clips
   - data/{language}.csv                              transcript + metadata
 
-Selection: a uniform random sample of the `train` split (seed 42), as in the
-BibleTTS paper. Every released verse already passed the outlier filter in
+Selection: two groups per language, recorded in the `sample_group` column
+(kept out of the task data, so annotators cannot see it):
+  - random       N_RANDOM verses drawn uniformly from the `train` split (seed
+                 42), as in the BibleTTS paper; these estimate the corpus-level
+                 alignment quality
+  - clean_edges  N_CLEAN further verses whose clips have at least
+                 CLEAN_EDGE_SILENCE_MS of silence at both ends; these should
+                 nearly all be exact matches, so they serve as a reference for
+                 analysis and help spot careless annotators
+
+Every released verse already passed the outlier filter in
 open-bible-resources (utils/data_checks.py), which z-scores the
 seconds-per-character ratio `duration / len(text)` per language and drops
 anything beyond 3 standard deviations; that z-score is recorded for each
@@ -21,10 +30,10 @@ with no padding, so small boundary errors can leave a syllable of the
 neighbouring verse (or a clipped word) at the start or end of the clip. The
 silence before the first and after the last sound is measured for every sampled
 clip (lead_silence_ms / trail_silence_ms, see edge_silence_ms) so results can be
-broken down by it. --min-edge-silence-ms N keeps only clips with at least N ms
-of silence at both ends (candidates are drawn in the same random order and
-skipped until n pass); it is off by default (0), because filtering leaves only
-the most cleanly aligned clips and the sample is then no longer uniform.
+broken down by it. --min-edge-silence-ms N additionally requires at least N ms
+of silence at both ends for the random group (candidates are drawn in the same
+random order and skipped until enough pass); it is off by default (0), because
+it would make the random group no longer uniform.
 
 Verses used as reference recordings in the TTS listening test
 (open-bible-surveys/audios/open-bible/{language}.csv) are excluded.
@@ -41,7 +50,7 @@ can leak into a neighbouring verse as extra words.
 
 Usage:
     python scripts/sample_verses.py --all
-    python scripts/sample_verses.py --language Swahili --n 50
+    python scripts/sample_verses.py --language Swahili --n-random 40 --n-clean 10
 """
 
 import argparse
@@ -78,7 +87,8 @@ LANGUAGES = [
     "Turkish",
 ]
 
-N_SAMPLES = 50
+N_RANDOM = 40
+N_CLEAN = 10
 SEED = 42
 
 # Edge-silence filter. Frame energy is measured with FRAME_MS windows every
@@ -87,7 +97,8 @@ SEED = 42
 #   speech level (95th percentile) - SPEECH_RANGE_DB,
 # so the threshold adapts to recordings with audible room noise (e.g. Turkish,
 # whose pauses sit around -60 dBFS) as well as to digitally silent ones.
-MIN_EDGE_SILENCE_MS = 0  # filter off; see module docstring
+MIN_EDGE_SILENCE_MS = 0  # filter for the random group; off, see module docstring
+CLEAN_EDGE_SILENCE_MS = 50  # silence required at both ends for the clean_edges group
 FRAME_MS = 20
 HOP_MS = 10
 NOISE_MARGIN_DB = 15.0
@@ -269,9 +280,19 @@ def process_language(language: str, args: argparse.Namespace) -> None:
     df = df[~overlap]
 
     df = add_speaking_rate(df)
-    sample, audio_bytes = select_clean_edges(
-        ds, df, n=args.n, seed=args.seed, min_silence_ms=args.min_edge_silence_ms
+    random_part, audio_bytes = select_clean_edges(
+        ds, df, n=args.n_random, seed=args.seed, min_silence_ms=args.min_edge_silence_ms
     )
+    clean_part, clean_bytes = select_clean_edges(
+        ds, df[~df["filename"].isin(random_part["filename"])], n=args.n_clean, seed=args.seed,
+        min_silence_ms=max(args.clean_edge_silence_ms, args.min_edge_silence_ms),
+    )
+    audio_bytes.update(clean_bytes)
+    sample = pd.concat(
+        [random_part.assign(sample_group="random"), clean_part.assign(sample_group="clean_edges")],
+        ignore_index=True,
+    ).sort_values("filename")
+    print(f"  Sample: {len(random_part)} random + {len(clean_part)} with clean edges")
     sample = add_usx_tags(sample, language)
 
     audio_dir = REPO_ROOT / "audios" / language
@@ -283,7 +304,7 @@ def process_language(language: str, args: argparse.Namespace) -> None:
     print(f"  Saved {len(sample)} clips to {audio_dir.relative_to(REPO_ROOT)}/")
 
     columns = [
-        "filename", "text", "testament", "book", "chapter", "verse", "duration_seconds",
+        "filename", "sample_group", "text", "testament", "book", "chapter", "verse", "duration_seconds",
         "speaker_id", "row_idx", "lens_ratio", "lens_ratio_z", "lead_silence_ms", "trail_silence_ms",
         "is_first_verse", "heading_before", "heading_after", "is_verse_range",
     ]
@@ -298,10 +319,17 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--language", choices=LANGUAGES, help="Language to sample (or use --all).")
     parser.add_argument("--all", action="store_true", help="Sample all 11 languages.")
-    parser.add_argument("--n", type=int, default=N_SAMPLES, help=f"Verses per language (default: {N_SAMPLES}).")
+    parser.add_argument("--n-random", type=int, default=N_RANDOM,
+                        help=f"Uniformly random verses per language (default: {N_RANDOM}).")
+    parser.add_argument("--n-clean", type=int, default=N_CLEAN,
+                        help=f"Extra verses with silence at both ends (default: {N_CLEAN}).")
+    parser.add_argument(
+        "--clean-edge-silence-ms", type=int, default=CLEAN_EDGE_SILENCE_MS,
+        help=f"Silence required at both ends for the clean-edges group (default: {CLEAN_EDGE_SILENCE_MS}).",
+    )
     parser.add_argument(
         "--min-edge-silence-ms", type=int, default=MIN_EDGE_SILENCE_MS,
-        help=f"Silence required at both ends of a clip; 0 disables the filter (default: {MIN_EDGE_SILENCE_MS}).",
+        help=f"Silence required at both ends for the random group; 0 disables it (default: {MIN_EDGE_SILENCE_MS}).",
     )
     parser.add_argument("--seed", type=int, default=SEED, help=f"Random seed (default: {SEED}).")
     args = parser.parse_args()

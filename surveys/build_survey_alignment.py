@@ -94,7 +94,7 @@ LOCATION_CHOICES = [
 ]
 
 TRACKING_COLUMNS = [
-    "filename", "book", "chapter", "verse", "duration_seconds", "speaker_id",
+    "filename", "sample_group", "book", "chapter", "verse", "duration_seconds", "speaker_id",
     "lens_ratio_z", "lead_silence_ms", "trail_silence_ms", "is_first_verse", "heading_before", "heading_after", "is_verse_range",
 ]
 
@@ -148,15 +148,20 @@ def build_instructions_html(language: str) -> str:
     return (
         f'<center><h3>Audio–transcript match &#8212; {html.escape(language)}</h3></center>'
         '<p>Each clip is one Bible verse that was cut automatically from a full chapter recording. '
-        'Listen to the <strong>whole clip</strong> while reading the transcript, and choose the '
-        'option that best describes whether the <strong>spoken words</strong> match the '
-        '<strong>written words</strong>.</p>'
+        'Listen to the <strong>whole clip</strong> while reading the transcript, and decide whether '
+        'the <strong>words</strong> you hear match the <strong>words</strong> that are written.</p>'
+        '<p style="margin:4px 0;"><strong>Only whole words count.</strong> Because the clips were '
+        'cut automatically, many start or end with a tiny piece of sound from the previous or next '
+        'verse (a breath, a click, or part of a syllable), or the very end of the last word is '
+        'slightly clipped. That is fine: if you can hear and recognise every word of the '
+        'transcript, and you do not hear any other complete word, choose '
+        '<strong>No missing or extra words (exact match)</strong>.</p>'
         '<ul style="margin:4px 0 8px 18px;">'
-        '<li><strong>EXTRA</strong>: you hear words that are not in the transcript '
-        '(for example part of the previous or next verse, or a chapter number or section '
-        'title read aloud).</li>'
-        '<li><strong>MISSING</strong>: words in the transcript are not heard, or the first or '
-        'last word is cut off so it cannot be understood.</li>'
+        '<li><strong>EXTRA</strong>: you hear at least one whole word that is not in the '
+        'transcript (for example a word from the previous or next verse, or a chapter number or '
+        'section title read aloud).</li>'
+        '<li><strong>MISSING</strong>: at least one word of the transcript is not spoken, or is '
+        'cut off so much that you cannot recognise it.</li>'
         '</ul>'
         '<p style="margin:4px 0;">Please ignore voice quality, accent, speed, breaths and '
         'background noise. Punctuation is not spoken, and numbers written as digits may be read '
