@@ -12,7 +12,8 @@ consecutive utterances are consecutive sentences of the same book, so the
   3  MISSING (end)          utterance with its last words cut off
   4  MISSING + EXTRA        last word of the previous utterance + utterance
                             with its last words cut off
-  5  exact match            a tiny piece of the previous utterance at the start
+  5  exact match            the last syllable of the previous utterance at the
+                            start ("-ry" of "necessary")
   6  exact match            the end of the last word slightly clipped
   7  exact match            both of the above at once
 
@@ -74,7 +75,8 @@ AUDIO_URL_TEMPLATE = (
 EXACT, EXTRA, MISSING, BOTH = ALIGNMENT_CHOICES
 
 PAUSE_S = 0.30        # pause inserted between joined utterances
-FRAGMENT_S = 0.10     # piece of the previous utterance left at the start
+FRAGMENT_S = 0.10     # piece of the previous utterance left at the start (example 7)
+SYLLABLE_S = 0.18     # final syllable of the previous utterance (example 5)
 CLIP_S = 0.07         # how much of the last word is shaved off
 FADE_S = 0.005        # short fades at hard cuts to avoid clicks
 
@@ -227,19 +229,21 @@ def build_examples(utts: dict, readalongs: str) -> list[dict]:
             "sentence (extra), and stops before <em>“in form”</em> (missing)."),
     })
 
-    # 5. Exact match despite a tiny piece of the previous sentence at the start.
-    p_start, p_end = speech_bounds(a["LJ001-0111"])
+    # 5. Exact match despite a stray syllable at the start: the previous sentence
+    #    ends "... renders necessary." and the clip keeps its final "-ry". Taking
+    #    the whole "-sary" would sound like the word "sorry", so keep it shorter.
+    p_start, p_end = speech_bounds(a["LJ001-0129"])
     examples.append({
-        "slug": "exact_sound_at_start",
+        "slug": "exact_syllable_at_start",
         "audio": np.concatenate([
-            seg(a["LJ001-0111"], p_end - FRAGMENT_S, p_end), silence(PAUSE_S), a["LJ001-0112"],
+            seg(a["LJ001-0129"], p_end - SYLLABLE_S, p_end), silence(PAUSE_S), a["LJ001-0130"],
         ]),
-        "text": t["LJ001-0112"],
+        "text": t["LJ001-0130"],
         "answer": answer_html(
             EXACT, "",
-            "The short sound at the very start is a tiny piece of the previous sentence, not a whole "
-            "word you can recognise. Every word of the transcript is spoken, so this is still an "
-            "exact match."),
+            "The clip starts with a short syllable, the end of <em>\u201cnecessary\u201d</em>, the "
+            "last word of the previous sentence. It is only part of a word, not a whole word you can "
+            "recognise, and every word of the transcript is spoken, so this is still an exact match."),
     })
 
     # 6. Exact match despite a slightly clipped last word.
@@ -295,7 +299,7 @@ def main() -> None:
         parser.error("readalongs not found; pass --readalongs /path/to/readalongs")
 
     needed = {"LJ001-0010", "LJ001-0011", "LJ001-0024", "LJ001-0025", "LJ001-0043", "LJ001-0053",
-              "LJ001-0061", "LJ001-0062", "LJ001-0111", "LJ001-0112", "LJ001-0123"}
+              "LJ001-0061", "LJ001-0062", "LJ001-0123", "LJ001-0129", "LJ001-0130"}
     ds = load_dataset(DATASET, data_files={"train": SHARD}, split="train").cast_column("audio", Audio(decode=False))
     utts = {}
     for row in ds:

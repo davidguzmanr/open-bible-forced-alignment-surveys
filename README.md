@@ -105,7 +105,7 @@ Before the real task, annotators can do a short practice round in English with t
 | 2 | Audio contains EXTRA words (end) | The sentence + "Even in Italy", the start of the next one |
 | 3 | Audio is MISSING words (end) | The sentence without its last words, "in Italy" |
 | 4 | MISSING AND EXTRA words (start, end) | "letterpress" from the previous sentence + the sentence without "in form" |
-| 5 | Exact match | A tiny piece of the previous sentence at the start |
+| 5 | Exact match | The last syllable of the previous sentence ("-ry" of "necessary") at the start |
 | 6 | Exact match | The end of the last word slightly clipped |
 | 7 | Exact match | Both of the above |
 
