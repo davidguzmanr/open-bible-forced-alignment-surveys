@@ -85,11 +85,15 @@ Go to the project's **Data Manager** → **Import** → upload `tasks_{lang}.jso
 
 Go to **Project Settings → Annotation → Task Assignment** → set to **Manual**, so annotators pick up tasks from the queue freely.
 
-### Step 5: Configure overlap
+### Step 5: Disable skipping
+
+In **Project Settings → Annotation**, turn off the option that lets annotators skip tasks (the **Skip** button). Skipped tasks are not reliably shown again at the end, so they would be left unannotated.
+
+### Step 6: Configure overlap
 
 Go to **Project Settings → Quality** → set **Annotations per task** to at least **3**, so every annotator can label every task.
 
-### Step 6: Add annotators
+### Step 7: Add annotators
 
 Go to **Members** → invite the 3 annotators by email → set their role to **Annotator**.
 
