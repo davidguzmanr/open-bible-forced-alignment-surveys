@@ -1,0 +1,25 @@
+language,annotator_a,annotator_b,verses,exact_match_rate_a,exact_match_rate_b,agreement_4_labels,cohen_kappa_4_labels,agreement_error_vs_none,cohen_kappa_error_vs_none
+Arabic Standard,annotator_1,annotator_2,50,86.0,92.0,92.0,0.608,94.0,0.696
+Arabic Standard,annotator_1,annotator_3,50,86.0,86.0,88.0,0.521,88.0,0.502
+Arabic Standard,annotator_2,annotator_3,50,92.0,86.0,92.0,0.608,94.0,0.696
+Chichewa,annotator_4,annotator_5,50,98.0,98.0,96.0,-0.01,96.0,-0.02
+Chichewa,annotator_4,annotator_6,50,98.0,90.0,88.0,-0.017,88.0,-0.034
+Chichewa,annotator_5,annotator_6,50,98.0,90.0,92.0,0.315,92.0,0.31
+Haitian Creole,annotator_7,annotator_8,50,56.0,78.0,56.0,0.182,66.0,0.271
+Haitian Creole,annotator_7,annotator_9,50,56.0,100.0,56.0,0.0,56.0,0.0
+Haitian Creole,annotator_8,annotator_9,50,78.0,100.0,78.0,0.0,78.0,0.0
+Kikuyu,annotator_10,annotator_11,50,70.0,66.0,72.0,0.43,80.0,0.541
+Kikuyu,annotator_10,annotator_12,50,70.0,78.0,82.0,0.564,88.0,0.691
+Kikuyu,annotator_11,annotator_12,50,66.0,78.0,78.0,0.505,88.0,0.708
+Luganda,annotator_13,annotator_14,50,78.0,64.0,72.0,0.41,82.0,0.573
+Luganda,annotator_13,annotator_15,50,78.0,76.0,86.0,0.64,94.0,0.831
+Luganda,annotator_14,annotator_15,50,64.0,76.0,84.0,0.667,88.0,0.719
+Shona,annotator_16,annotator_17,50,46.0,64.0,62.0,0.398,78.0,0.57
+Shona,annotator_16,annotator_18,50,46.0,76.0,60.0,0.323,70.0,0.424
+Shona,annotator_17,annotator_18,50,64.0,76.0,80.0,0.581,88.0,0.719
+Swahili,annotator_19,annotator_20,50,86.0,96.0,90.0,0.419,90.0,0.408
+Swahili,annotator_19,annotator_21,50,86.0,88.0,94.0,0.747,94.0,0.735
+Swahili,annotator_20,annotator_21,50,96.0,88.0,92.0,0.479,92.0,0.468
+Turkish,annotator_22,annotator_23,50,96.0,74.0,78.0,0.212,78.0,0.212
+Turkish,annotator_22,annotator_24,50,96.0,96.0,100.0,1.0,100.0,1.0
+Turkish,annotator_23,annotator_24,50,74.0,96.0,78.0,0.212,78.0,0.212

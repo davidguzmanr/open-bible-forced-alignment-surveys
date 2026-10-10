@@ -1,0 +1,19 @@
+language,sample_group,verses,EM,mismatch,Conflict
+Arabic Standard,clean_edges,10,100.0,0.0,0.0
+Arabic Standard,random,40,90.0,10.0,0.0
+Chichewa,clean_edges,10,90.0,10.0,0.0
+Chichewa,random,40,100.0,0.0,0.0
+Haitian Creole,clean_edges,10,70.0,20.0,10.0
+Haitian Creole,random,40,87.5,2.5,10.0
+Kikuyu,clean_edges,10,100.0,0.0,0.0
+Kikuyu,random,40,70.0,25.0,5.0
+Luganda,clean_edges,10,90.0,10.0,0.0
+Luganda,random,40,72.5,25.0,2.5
+Shona,clean_edges,10,100.0,0.0,0.0
+Shona,random,40,57.5,35.0,7.5
+Swahili,clean_edges,10,90.0,10.0,0.0
+Swahili,random,40,90.0,10.0,0.0
+Turkish,clean_edges,10,90.0,10.0,0.0
+Turkish,random,40,97.5,2.5,0.0
+ALL,clean_edges,80,91.2,7.5,1.2
+ALL,random,320,83.1,13.8,3.1

@@ -1,0 +1,401 @@
+language,task_uid,filename,sample_group,votes,locations,is_first_verse,heading_before,heading_after,is_verse_range,n_votes,majority
+Arabic Standard,00000,JER_005_Verse_029.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00001,JDG_001_Verse_011.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00002,GEN_027_Verse_044.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00003,2SA_021_Verse_022.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Arabic Standard,00004,1CH_027_Verse_034.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00005,PSA_071_Verse_020.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Arabic Standard,00006,JER_026_Verse_012.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00007,2KI_023_Verse_026.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00008,JOB_010_Verse_018.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00009,EXO_021_Verse_026.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00010,JOB_017_Verse_014.wav,random,"['EM', 'EM', 'Miss.']",['At the end of the audio'],False,False,False,False,3,EM
+Arabic Standard,00011,ISA_043_Verse_025.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00012,ACT_018_Verse_007.wav,random,"['EM', 'EM', 'Miss.']",['At the end of the audio'],False,False,False,False,3,EM
+Arabic Standard,00013,1CH_021_Verse_024.wav,random,"['EM', 'EM', 'Miss.']",['At the end of the audio'],False,False,False,False,3,EM
+Arabic Standard,00014,MRK_007_Verse_024.wav,random,"['Add.', 'Both', 'Add.']",['At the start of the audio'],False,True,False,False,3,Add.
+Arabic Standard,00015,MAT_024_Verse_030.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Arabic Standard,00016,2SA_002_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00017,JER_002_Verse_030.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00018,LUK_014_Verse_007.wav,random,"['Add.', 'Add.', 'Add.']",['At the start of the audio'],False,False,False,False,3,Add.
+Arabic Standard,00019,1CH_005_Verse_011.wav,random,"['Add.', 'Add.', 'Add.']",['At the start of the audio'],False,True,False,False,3,Add.
+Arabic Standard,00020,PSA_044_Verse_017.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00021,GEN_027_Verse_040.wav,random,"['Add.', 'Add.', 'Add.']",['At the end of the audio'],False,False,True,False,3,Add.
+Arabic Standard,00022,LEV_027_Verse_018.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00023,ROM_003_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00024,PRO_031_Verse_029.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00025,JOB_012_Verse_020.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00026,JHN_005_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00027,HEB_013_Verse_017.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00028,ISA_058_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00029,PSA_034_Verse_004.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00030,PSA_089_Verse_026.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00031,MAT_016_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00032,JOB_030_Verse_011.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00033,PSA_046_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00034,ACT_019_Verse_040.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00035,ZEC_012_Verse_012.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00036,PSA_115_Verse_012.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00037,1CH_009_Verse_044.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00038,JER_046_Verse_027.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00039,MAT_023_Verse_016.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00040,1CO_006_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00041,LUK_013_Verse_011.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00042,2CH_019_Verse_003.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,True,False,3,EM
+Arabic Standard,00043,2KI_009_Verse_012.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00044,EST_009_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00045,EXO_003_Verse_010.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00046,GEN_022_Verse_004.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00047,1CH_008_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00048,2CO_012_Verse_017.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Arabic Standard,00049,NUM_011_Verse_035.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00000,JER_038_Verse_015.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00001,ISA_046_Verse_012.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00002,GEN_004_Verse_020.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00003,DAN_008_Verse_006.wav,random,"['EM', 'EM', 'Both']",['At the end of the audio'],False,False,False,False,3,EM
+Chichewa,00004,1KI_016_Verse_004.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00005,PSA_092_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00006,JHN_019_Verse_006.wav,clean_edges,"['EM', 'Miss.', 'Miss.']","['At the end of the audio', 'In the middle of the audio']",False,False,False,False,3,Miss.
+Chichewa,00007,ACT_008_Verse_025.wav,random,"['EM', 'EM', 'EM']",[],False,False,True,False,3,EM
+Chichewa,00008,JOB_015_Verse_019.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00009,EXO_032_Verse_001.wav,random,"['EM', 'EM', 'Miss.']",['At the end of the audio'],True,True,False,False,3,EM
+Chichewa,00010,JOS_022_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00011,GEN_034_Verse_024.wav,clean_edges,"['EM', 'EM', 'Both']",['At the end of the audio'],False,False,False,False,3,EM
+Chichewa,00012,DEU_004_Verse_001.wav,random,"['EM', 'EM', 'EM']",[],True,True,False,False,3,EM
+Chichewa,00013,1KI_006_Verse_020.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00014,MRK_013_Verse_004.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00015,MRK_011_Verse_024.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00016,ACT_010_Verse_016.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00017,JDG_018_Verse_009.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00018,LUK_009_Verse_032.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00019,1CH_006_Verse_064.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00020,PSA_080_Verse_014.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00021,EZK_034_Verse_025.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00022,LEV_027_Verse_016.wav,random,"['Add.', 'EM', 'EM']",['In the middle of the audio'],False,False,False,False,3,EM
+Chichewa,00023,REV_011_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00024,PRO_026_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00025,JOB_039_Verse_030.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00026,JOB_003_Verse_020.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00027,GEN_034_Verse_012.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00028,HAG_002_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00029,PSA_063_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00030,PSA_112_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00031,LUK_023_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00032,LEV_014_Verse_045.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00033,PSA_089_Verse_024.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00034,DEU_010_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00035,ZEC_004_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00036,PSA_138_Verse_008.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Chichewa,00037,1CH_022_Verse_010.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00038,JOB_003_Verse_016.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00039,MAT_005_Verse_019.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00040,1PE_001_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,True,False,False,3,EM
+Chichewa,00041,LUK_008_Verse_030.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00042,2CH_031_Verse_017.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00043,2KI_022_Verse_018.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00044,DEU_024_Verse_011.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00045,EXO_022_Verse_011.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00046,EZK_023_Verse_030.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Chichewa,00047,1CH_015_Verse_001.wav,clean_edges,"['EM', 'EM', 'EM']",[],True,True,False,False,3,EM
+Chichewa,00048,2KI_015_Verse_017.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,True,False,False,3,EM
+Chichewa,00049,PRO_014_Verse_026.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00000,HEB_006_Verse_004.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00001,GEN_032_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00002,GEN_012_Verse_005.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Haitian Creole,00003,DEU_005_Verse_014.wav,random,"['Miss.', 'EM', 'Both']","['At the end of the audio', 'At the start of the audio', 'In the middle of the audio']",False,False,False,False,3,Conflict
+Haitian Creole,00004,1SA_026_Verse_024.wav,random,"['Miss.', 'EM', 'Add.']",['At the start of the audio'],False,False,False,False,3,Conflict
+Haitian Creole,00005,PSA_022_Verse_009.wav,clean_edges,"['Miss.', 'EM', 'Miss.']","['At the start of the audio', 'In the middle of the audio']",False,False,False,False,3,Miss.
+Haitian Creole,00006,ISA_029_Verse_002.wav,random,"['Miss.', 'EM', 'EM']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,EM
+Haitian Creole,00007,DAN_001_Verse_004.wav,random,"['Miss.', 'EM', 'EM']",['In the middle of the audio'],False,False,False,False,3,EM
+Haitian Creole,00008,JDG_020_Verse_024.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00009,EZK_025_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00010,JHN_018_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00011,GEN_025_Verse_017.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00012,DEU_021_Verse_010.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00013,1KI_018_Verse_010.wav,clean_edges,"['EM', 'EM', 'Add.']",['At the end of the audio'],False,False,False,False,3,EM
+Haitian Creole,00014,NUM_011_Verse_029.wav,random,"['Miss.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00015,MAT_024_Verse_034.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00016,DEU_004_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00017,GEN_046_Verse_007.wav,random,"['EM', 'EM', 'Add.']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00018,JOB_028_Verse_001.wav,random,"['Miss.', 'EM', 'EM']",['At the start of the audio'],True,False,False,False,3,EM
+Haitian Creole,00019,1KI_001_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00020,NUM_032_Verse_018.wav,random,"['Miss.', 'EM', 'Add.']",['In the middle of the audio'],False,False,False,False,3,Conflict
+Haitian Creole,00021,EZR_004_Verse_005.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00022,JOB_012_Verse_025.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00023,PSA_127_Verse_004.wav,random,"['Miss.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00024,NUM_028_Verse_009.wav,random,"['Miss.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00025,JHN_001_Verse_039.wav,clean_edges,"['Miss.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00026,JDG_015_Verse_017.wav,random,"['Miss.', 'EM', 'EM']",['In the middle of the audio'],False,False,False,False,3,EM
+Haitian Creole,00027,GEN_024_Verse_007.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00028,GEN_031_Verse_029.wav,random,"['Miss.', 'EM', 'Miss.']",['In the middle of the audio'],False,False,False,False,3,Miss.
+Haitian Creole,00029,NUM_028_Verse_024.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00030,PSA_035_Verse_003.wav,random,"['Miss.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00031,JOB_035_Verse_005.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00032,JHN_021_Verse_001.wav,clean_edges,"['Miss.', 'EM', 'Add.']",['At the end of the audio'],True,False,False,False,3,Conflict
+Haitian Creole,00033,PRO_030_Verse_018.wav,random,"['Miss.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00034,DEU_031_Verse_023.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00035,RUT_001_Verse_019.wav,random,"['EM', 'EM', 'Add.']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00036,PSA_119_Verse_052.wav,random,"['Both', 'EM', 'Add.']",['At the end of the audio'],False,False,False,False,3,Conflict
+Haitian Creole,00037,1KI_015_Verse_014.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00038,ISA_046_Verse_006.wav,random,"['Miss.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00039,LUK_002_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00040,2CH_011_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00041,JOB_026_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00042,2KI_001_Verse_002.wav,clean_edges,"['Miss.', 'EM', 'Miss.']","['At the start of the audio', 'In the middle of the audio']",False,False,False,False,3,Miss.
+Haitian Creole,00043,2SA_020_Verse_021.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00044,ECC_006_Verse_012.wav,clean_edges,"['Miss.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00045,EZK_016_Verse_004.wav,random,"['Miss.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Haitian Creole,00046,EZR_002_Verse_040.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00047,1KI_002_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00048,2KI_007_Verse_016.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Haitian Creole,00049,NUM_016_Verse_029.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00000,JDG_021_Verse_018.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00001,GEN_049_Verse_028.wav,random,"['EM', 'Add.', 'EM']",['At the start of the audio'],False,False,True,False,3,EM
+Kikuyu,00002,EZK_032_Verse_014.wav,random,"['EM', 'Add.', 'EM']",['In the middle of the audio'],False,False,False,False,3,EM
+Kikuyu,00003,AMO_001_Verse_010.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00004,2KI_001_Verse_017.wav,random,"['Miss.', 'Both', 'Miss.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Miss.
+Kikuyu,00005,PSA_106_Verse_010.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00006,JER_006_Verse_009.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00007,ACT_005_Verse_034.wav,random,"['EM', 'Both', 'Miss.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Conflict
+Kikuyu,00008,JER_050_Verse_038.wav,random,"['Both', 'Both', 'Miss.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Kikuyu,00009,EXO_016_Verse_033.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the end of the audio'],False,False,False,False,3,Miss.
+Kikuyu,00010,LEV_014_Verse_055.wav,random,"['Both', 'Add.', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Kikuyu,00011,GAL_004_Verse_014.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00012,DEU_006_Verse_006.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00013,2CH_002_Verse_007.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00014,NUM_007_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00015,MRK_013_Verse_004.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00016,ACT_022_Verse_022.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the end of the audio'],False,True,False,False,3,Miss.
+Kikuyu,00017,ISA_042_Verse_014.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00018,LUK_020_Verse_011.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00019,1CO_010_Verse_033.wav,random,"['Both', 'Miss.', 'Miss.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Miss.
+Kikuyu,00020,PSA_035_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00021,EZK_018_Verse_018.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00022,LEV_019_Verse_003.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00023,ROM_003_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00024,PRO_002_Verse_017.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00025,JHN_006_Verse_040.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Kikuyu,00026,JER_050_Verse_035.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the end of the audio'],False,False,False,False,3,Miss.
+Kikuyu,00027,EZR_008_Verse_035.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the end of the audio'],False,False,False,False,3,Miss.
+Kikuyu,00028,GEN_018_Verse_022.wav,random,"['Miss.', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,Miss.
+Kikuyu,00029,PRO_030_Verse_014.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00030,PSA_119_Verse_083.wav,random,"['Both', 'Add.', 'Miss.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Conflict
+Kikuyu,00031,MAT_003_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00032,LEV_015_Verse_019.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00033,PSA_072_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00034,DEU_008_Verse_014.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00035,ZEC_002_Verse_009.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00036,REV_022_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00037,1SA_029_Verse_011.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Kikuyu,00038,JER_025_Verse_032.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the end of the audio'],False,False,False,False,3,Miss.
+Kikuyu,00039,MRK_001_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00040,2KI_002_Verse_004.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00041,LEV_022_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00042,2KI_024_Verse_010.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Kikuyu,00043,ACT_001_Verse_018.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Kikuyu,00044,DEU_030_Verse_002.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00045,ECC_005_Verse_019.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Kikuyu,00046,EXO_030_Verse_004.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Kikuyu,00047,1KI_001_Verse_014.wav,random,"['Add.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Kikuyu,00048,2SA_022_Verse_038.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Kikuyu,00049,NUM_016_Verse_010.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00000,EZR_010_Verse_043.wav,random,"['Add.', 'Both', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Luganda,00001,EZK_017_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00002,DEU_004_Verse_033.wav,clean_edges,"['Add.', 'Both', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Luganda,00003,2CH_012_Verse_015.wav,random,"['EM', 'Both', 'EM']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,EM
+Luganda,00004,1CO_001_Verse_002.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00005,PSA_033_Verse_007.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00006,GEN_005_Verse_031.wav,random,"['EM', 'Miss.', 'Add.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Conflict
+Luganda,00007,1TH_005_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00008,ISA_051_Verse_001.wav,clean_edges,"['EM', 'EM', 'EM']",[],True,True,False,False,3,EM
+Luganda,00009,ACT_025_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00010,ISA_058_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00011,EXO_017_Verse_002.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00012,2KI_018_Verse_019.wav,random,"['EM', 'Both', 'EM']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,EM
+Luganda,00013,1CH_023_Verse_025.wav,random,"['Add.', 'Both', 'Add.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Add.
+Luganda,00014,LUK_020_Verse_001.wav,random,"['Add.', 'Add.', 'Add.']",['At the start of the audio'],True,True,False,False,3,Add.
+Luganda,00015,JOB_028_Verse_009.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00016,1TI_001_Verse_016.wav,random,"['EM', 'Miss.', 'EM']",['In the middle of the audio'],False,False,False,False,3,EM
+Luganda,00017,EZK_027_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00018,JER_023_Verse_023.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the end of the audio'],False,False,False,False,3,Miss.
+Luganda,00019,1CH_005_Verse_002.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00020,NUM_029_Verse_012.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,True,False,False,3,EM
+Luganda,00021,DEU_004_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00022,JER_007_Verse_003.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00023,ROM_001_Verse_001.wav,random,"['Miss.', 'EM', 'EM']",['In the middle of the audio'],True,False,False,False,3,EM
+Luganda,00024,MRK_002_Verse_011.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00025,ISA_052_Verse_012.wav,random,"['EM', 'EM', 'EM']",[],False,False,True,False,3,EM
+Luganda,00026,HEB_013_Verse_002.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00027,DEU_004_Verse_036.wav,random,"['Add.', 'Both', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Luganda,00028,EZK_012_Verse_001.wav,random,"['EM', 'EM', 'EM']",[],True,False,False,False,3,EM
+Luganda,00029,NUM_001_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00030,PSA_091_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00031,JHN_005_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00032,ISA_066_Verse_010.wav,random,"['EM', 'Miss.', 'Miss.']",['At the end of the audio'],False,False,False,False,3,Miss.
+Luganda,00033,PRO_018_Verse_007.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the start of the audio'],False,False,False,False,3,Miss.
+Luganda,00034,2SA_014_Verse_004.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00035,ROM_016_Verse_006.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00036,PSA_134_Verse_002.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00037,1CH_017_Verse_021.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the end of the audio'],False,False,False,False,3,Miss.
+Luganda,00038,HEB_009_Verse_004.wav,clean_edges,"['EM', 'Miss.', 'EM']",['In the middle of the audio'],False,False,False,False,3,EM
+Luganda,00039,JOB_003_Verse_001.wav,clean_edges,"['EM', 'EM', 'EM']",[],True,True,False,False,3,EM
+Luganda,00040,1CO_007_Verse_003.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00041,JER_010_Verse_001.wav,clean_edges,"['EM', 'EM', 'EM']",[],True,True,False,False,3,EM
+Luganda,00042,1KI_010_Verse_022.wav,random,"['Miss.', 'Both', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Luganda,00043,1TH_005_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00044,ACT_006_Verse_006.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00045,ACT_014_Verse_019.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Luganda,00046,DAN_004_Verse_009.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00047,1CH_015_Verse_009.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Luganda,00048,1SA_002_Verse_025.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the end of the audio'],False,False,False,False,3,Miss.
+Luganda,00049,LUK_021_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00000,JOB_017_Verse_009.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Shona,00001,JER_023_Verse_009.wav,random,"['EM', 'EM', 'EM']",[],False,True,False,False,3,EM
+Shona,00002,GEN_016_Verse_001.wav,clean_edges,"['EM', 'EM', 'EM']",[],True,True,False,False,3,EM
+Shona,00003,ACT_023_Verse_034.wav,random,"['Add.', 'Miss.', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Conflict
+Shona,00004,1SA_031_Verse_010.wav,random,"['Add.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Shona,00005,PSA_076_Verse_006.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00006,JOB_023_Verse_016.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00007,2TH_003_Verse_016.wav,random,"['EM', 'EM', 'EM']",[],False,True,False,False,3,EM
+Shona,00008,JON_002_Verse_008.wav,random,"['Miss.', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,Miss.
+Shona,00009,GAL_003_Verse_024.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the end of the audio'],False,False,False,False,3,Miss.
+Shona,00010,LEV_020_Verse_027.wav,random,"['Miss.', 'Miss.', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Miss.
+Shona,00011,JER_007_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00012,DEU_014_Verse_021.wav,random,"['Miss.', 'Miss.', 'EM']","['At the end of the audio', 'At the start of the audio']",False,False,True,False,3,Miss.
+Shona,00013,1SA_025_Verse_013.wav,random,"['Miss.', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,Miss.
+Shona,00014,NEH_013_Verse_019.wav,random,"['Miss.', 'Miss.', 'Miss.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Miss.
+Shona,00015,MRK_009_Verse_019.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Shona,00016,ACT_023_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00017,JOB_017_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00018,MAT_014_Verse_008.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00019,1CH_027_Verse_033.wav,random,"['Both', 'Both', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Shona,00020,PSA_041_Verse_008.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00021,GEN_007_Verse_006.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00022,LUK_001_Verse_055.wav,random,"['Both', 'Both', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Shona,00023,PSA_091_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00024,PRO_021_Verse_022.wav,random,"['Both', 'EM', 'EM']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,EM
+Shona,00025,JOS_002_Verse_023.wav,random,"['Both', 'Miss.', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Shona,00026,JOB_041_Verse_010.wav,random,"['Both', 'EM', 'EM']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,EM
+Shona,00027,GEN_037_Verse_021.wav,random,"['Both', 'Miss.', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Shona,00028,JER_010_Verse_004.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Shona,00029,PRO_025_Verse_026.wav,random,"['Both', 'Both', 'Both']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Both
+Shona,00030,PSA_079_Verse_011.wav,random,"['Add.', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Shona,00031,MAT_023_Verse_013.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00032,LEV_021_Verse_002.wav,random,"['Miss.', 'EM', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Shona,00033,PSA_056_Verse_012.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00034,ECC_002_Verse_007.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00035,PSA_118_Verse_003.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00036,PSA_090_Verse_004.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00037,1SA_001_Verse_012.wav,random,"['Both', 'Miss.', 'EM']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Conflict
+Shona,00038,JOB_028_Verse_024.wav,random,"['Both', 'Miss.', 'EM']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Conflict
+Shona,00039,MRK_007_Verse_030.wav,random,"['Both', 'Miss.', 'Miss.']","['At the end of the audio', 'At the start of the audio']",False,False,True,False,3,Miss.
+Shona,00040,1TI_001_Verse_017.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00041,MAT_008_Verse_021.wav,random,"['Both', 'Miss.', 'Miss.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Miss.
+Shona,00042,2CH_018_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00043,2KI_013_Verse_011.wav,random,"['Both', 'EM', 'EM']",['At the start of the audio'],False,False,False,False,3,EM
+Shona,00044,EXO_019_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00045,EZK_032_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00046,GEN_003_Verse_023.wav,random,"['Both', 'Miss.', 'Miss.']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,Miss.
+Shona,00047,1CO_001_Verse_007.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Shona,00048,2KI_010_Verse_006.wav,random,"['EM', 'Add.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Shona,00049,PRO_006_Verse_023.wav,random,"['Both', 'EM', 'EM']","['At the end of the audio', 'At the start of the audio']",False,False,False,False,3,EM
+Swahili,00000,HAB_001_Verse_011.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the start of the audio'],False,False,True,False,3,Miss.
+Swahili,00001,GEN_045_Verse_007.wav,clean_edges,"['Add.', 'EM', 'EM']",['In the middle of the audio'],False,False,False,False,3,EM
+Swahili,00002,EZR_007_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00003,COL_001_Verse_009.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00004,2CH_032_Verse_025.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00005,PSA_089_Verse_047.wav,random,"['Miss.', 'EM', 'EM']",['In the middle of the audio'],False,False,False,False,3,EM
+Swahili,00006,HOS_006_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00007,ACT_020_Verse_024.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00008,JDG_020_Verse_033.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00009,EZK_003_Verse_014.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the start of the audio'],False,False,False,False,3,Miss.
+Swahili,00010,JOB_031_Verse_002.wav,clean_edges,"['Add.', 'EM', 'Add.']",['In the middle of the audio'],False,False,False,False,3,Add.
+Swahili,00011,GEN_006_Verse_016.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00012,DEU_012_Verse_031.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00013,2CH_030_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00014,NUM_033_Verse_050.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00015,NUM_033_Verse_028.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00016,COL_001_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,True,False,False,3,EM
+Swahili,00017,GEN_046_Verse_022.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00018,MAT_020_Verse_019.wav,random,"['EM', 'EM', 'Both']",['At the end of the audio'],False,False,True,False,3,EM
+Swahili,00019,1JN_004_Verse_004.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00020,PSA_067_Verse_004.wav,random,"['Add.', 'EM', 'Add.']","['At the start of the audio', 'In the middle of the audio']",False,False,False,False,3,Add.
+Swahili,00021,EZK_044_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00022,LUK_005_Verse_036.wav,random,"['Both', 'EM', 'Both']","['At the end of the audio', 'In the middle of the audio']",False,False,False,False,3,Both
+Swahili,00023,REV_009_Verse_003.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00024,PHP_001_Verse_021.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00025,JHN_004_Verse_017.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00026,ISA_028_Verse_018.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00027,GEN_005_Verse_002.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00028,GEN_031_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00029,PSA_055_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00030,PSA_139_Verse_002.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00031,MIC_004_Verse_006.wav,random,"['EM', 'EM', 'EM']",[],False,True,False,False,3,EM
+Swahili,00032,JON_003_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00033,PSA_071_Verse_017.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00034,DEU_030_Verse_012.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00035,REV_010_Verse_004.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00036,REV_002_Verse_028.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00037,2CH_024_Verse_005.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00038,HOS_008_Verse_009.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00039,MRK_009_Verse_009.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00040,2CH_034_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00041,MAT_006_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00042,2CO_012_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00043,2SA_013_Verse_005.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00044,EPH_005_Verse_032.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00045,EXO_036_Verse_001.wav,random,"['EM', 'EM', 'EM']",[],True,False,False,False,3,EM
+Swahili,00046,EZK_034_Verse_026.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00047,1SA_010_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00048,2SA_010_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Swahili,00049,NUM_035_Verse_002.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00000,GEN_037_Verse_031.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00001,EZR_002_Verse_023.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00002,EXO_015_Verse_027.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00003,2KI_021_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00004,1KI_011_Verse_036.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00005,PRO_005_Verse_008.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00006,ISA_034_Verse_015.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00007,2KI_004_Verse_026.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00008,JER_002_Verse_015.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00009,DEU_028_Verse_017.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00010,JER_048_Verse_037.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00011,EZK_014_Verse_017.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00012,2SA_014_Verse_029.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00013,1KI_010_Verse_004.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00014,LUK_009_Verse_056.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00015,LEV_015_Verse_020.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00016,2KI_005_Verse_019.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00017,GEN_008_Verse_013.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00018,JOB_014_Verse_013.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00019,1CH_006_Verse_037.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00020,NUM_007_Verse_010.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00021,EXO_002_Verse_025.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00022,JOB_001_Verse_010.wav,clean_edges,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00023,ROM_004_Verse_004.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00024,NEH_012_Verse_009.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00025,JER_034_Verse_011.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00026,JDG_017_Verse_008.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00027,EXO_040_Verse_025.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00028,EZK_019_Verse_005.wav,random,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM
+Turkish,00029,NUM_003_Verse_017.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00030,PSA_056_Verse_002.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00031,LEV_005_Verse_007.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00032,JHN_003_Verse_002.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00033,NUM_028_Verse_025.wav,clean_edges,"['Miss.', 'Miss.', 'Miss.']",['In the middle of the audio'],False,False,False,False,3,Miss.
+Turkish,00034,AMO_001_Verse_008.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00035,SNG_001_Verse_001.wav,random,"['Miss.', 'Miss.', 'Miss.']",['At the start of the audio'],True,False,True,False,3,Miss.
+Turkish,00036,REV_014_Verse_014.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00037,1JN_002_Verse_014.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00038,JDG_003_Verse_012.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00039,LEV_014_Verse_040.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00040,1KI_011_Verse_041.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00041,JOB_010_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00042,1KI_017_Verse_022.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00043,2CO_011_Verse_005.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00044,DAN_001_Verse_010.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00045,DAN_005_Verse_024.wav,clean_edges,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00046,ECC_004_Verse_005.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00047,1CH_028_Verse_018.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00048,1SA_025_Verse_023.wav,random,"['EM', 'EM', 'EM']",[],False,False,False,False,3,EM
+Turkish,00049,LUK_015_Verse_020.wav,clean_edges,"['EM', 'Miss.', 'EM']",['At the end of the audio'],False,False,False,False,3,EM

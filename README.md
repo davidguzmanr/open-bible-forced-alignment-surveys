@@ -83,7 +83,7 @@ Go to the project's **Data Manager** → **Import** → upload `tasks_{lang}.jso
 
 ### Step 4: Set task assignment to manual
 
-Go to **Project Settings → Annotation → Task Assignment** → set to **Manual**, so annotators pick up tasks from the queue freely.
+Go to **Project Settings → Annotation → Task Assignment** → set to **Manual**, so annotators only see the tasks assigned to them (Step 8).
 
 ### Step 5: Disable skipping
 
@@ -96,6 +96,10 @@ Go to **Project Settings → Quality** → set **Annotations per task** to at le
 ### Step 7: Add annotators
 
 Go to **Members** → invite the 3 annotators by email → set their role to **Annotator**.
+
+### Step 8: Assign tasks to annotators
+
+In the **Data Manager**, select the tasks for an annotator (or all of them) → **Assign Annotators** → select their email.
 
 Steps 1–3 can also be done from the command line with `--api-key YOUR_TOKEN` (and optionally `--base-url`, `--project-title`).
 
